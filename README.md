@@ -1,1454 +1,1936 @@
-ORIGIN OF IMMUNE CELLS (HEMATOPOIESIS OVERVIEW)
-Hematopoietic Stem Cells (HSCs)
-→ Multipotent Progenitors (MPPs)
+I. IMMUNOLOGY: TWO CONNECTED SYSTEMS
 
-1. Common Lymphoid Progenitor (CLP)
-   → T cells   
-   → B cells    
-   →Innate Lymphocytes: 
-            → Natural Killer (NK) cells  
-            → other Innate Lymphoid Cells (ILCs) *mainly tissue-resident: intestine, lung, skin, etc., mainly cytokine-producing, and noncytotoxic
+The immune system has two major arms: innate immunity and adaptive immunity.
+They are often taught separately, but they constantly communicate with each other.
 
-2. Common Myeloid Progenitor (CMP)
-   → Granulocytes
-          → Neutrophils
-          → Eosinophils
-          → Basophils    (mature in bone marrow → circulate in blood
-   → Mast cells   (leave bone marrow as immature precursors → mature in tissues)
-   → Monocyte–Dendritic Progenitor (MDP)
-          → Monocytes
-                 → monocyte-derived Macrophages    *especially during inflammation/tissue injury
-                 → monocyte-derived Dendritic Cells (moDCs)     *mainly during inflammation
-    → Common Dendritic Progenitor (CDP)
-           → conventional Dendritic Cells 1 (cDC1)
-           → conventional Dendritic Cells 2 (cDC2)
-           → plasmacytoid Dendritic Cells (pDCs)  *traditionally classified as myeloid-derived, though developmental origin remains debated and may include lymphoid contribution
+Innate immunity
+Fast.
+Pattern-based.
+Responds to common danger signals and microbial patterns.
+Does not use antigen-specific receptors like TCRs or BCRs.
+Does not create classic antigen-specific memory.
 
-*Macrophages 
--embryonic origin (before birth)
-   → seeds many tissues  → forms tissue-resident macrophages
-   → maintained by self-renewal
--adult bone marrow origin
-   → Monocyte → Macrophage (esp. during inflammation, infection, injury)
-********************************************
+Adaptive immunity
+Slower at first.
+Antigen-specific.
+Uses B-cell receptors and T-cell receptors.
+Creates immune memory.
+Responds faster and stronger after repeat exposure.
 
-WHITE BLOOD CELLS CIRCULATING IN THE BLOOD
-1. Neutrophils (38–80%)
-2. Lymphocytes (15–49%)
-      - T cells  (70-80% of total lymphocytes)  
-            *about 5-10% of all the CD4+ T cells in circulation are FOXP3+ regulatory T cells.
-      - B cells   (5-15% of total lymphocytes)
-      - NK cells   (5-20% of total lympocytes)
-3. Monocytes (0–13%)
-4. Eosinophils (0–8%)
-   - Fight parasites
-   - Involved in allergies and asthma
-5. Basophils (0–2%)
-   - Release histamine
-   - Involved in allergic reactions
+Main bridge between innate and adaptive immunity
+Dendritic cells.
+Cytokines.
+Complement.
+Antigen presentation.
+Costimulation.
 
-************************************************
+Key idea
+Innate immunity detects danger and shapes the response.
+Adaptive immunity targets specific antigens and remembers them.
 
-CYTOKINES
-- Small signaling proteins secreted by immune cells (innate and adaptive)
+II. ORIGIN OF WHITE BLOOD CELLS (LEUKOCYTES)
+Hematopoietic Stem Cell (HSC)
+   → Multipotent Progenitor (MPP)   →
 
-Definitions:
--Fundamental = central across many immune pathways
--Context-dependent = highly important in certain immune contexts
--Specialized = narrower but biologically important roles
+1. COMMON LYMPHOID PROGENITOR (CLP)
+ → T cells
+ → B cells
+ → Natural Killer (NK) cells 
+ → Innate Lymphoid Cells (ILCs): ILC1, ILC2, ILC3
 
-—---------------------------------------------------------------------
-A. INTERLEUKINS 
+2. COMMON MYELOID PROGENITOR (CMP)
+→ Granulocyte lineage
+      → Neutrophils
+      → Eosinophils
+      → Basophils
+      → Mast cells  (leave bone marrow immature → mature in tissues)
+→ Monocyte lineage
+      → Monocytes (circulating blood)
+            → Monocyte-derived macrophages1 
+            → Monocyte-derived dendritic cells (moDC) (during inflammation)
+→ Dendritic-cell lineage
+      → Common Dendritic Progenitor (CDP)
+            → conventional Dendritic Cell 1 (cDC1)
+            → conventional Dendritic Cell 2 (cDC2)
+            → plasmacytoid Dendritic Cell (pDCs)2
 
-IL-1α / IL-1β
--Fundamental cytokines
--Associated with: Innate inflammation
--Common producers: 
-      → macrophages, monocytes, DCs, damaged cells
--Key Functions:
-      → Endothelial activation
-      → Initiates inflammation
-      → Leukocyte recruitment
-      → Fever
+
+1 macrophages come from two major sources:
+   -Embryonic-derived tissue-resident macrophages
+         → Established before birth
+         → Self-renew in tissues
+          examples:
+            → Microglia (brain)
+            → Kupffer cells (liver)
+            → many alveolar macrophages (lung)
+            → many Langerhans cells (skin)  
+            → some peritoneal macrophages
+   -Monocyte-derived macrophages
+         → Blood monocyte → enter tissue → differentiate into macrophage
+          -especially important during inflammation, infection,tissue injury
+          -also contribute to replacement in some tissues during steady state (ex. intestine)
+ 
+2 pDC developmental origin remains debated:
+  Traditionally classified as mainly myeloid-derived
+  Some evidence suggests lymphoid contributions 
+
+
+III. COMMON WHITE BLOOD CELL COUNTS (WBCs) IN BLOOD
+-Neutrophils   (~ 38-80% of total WBCs)
+-Lymphocytes   (~ 15-49% of total WBCs)
+         -T cells   (~ 60-85% of total lymphocytes)
+         -B cells   (~ 5-20% of total lymphocytes)
+         -NK cells   (~ 5-20% of total lymphocytes)
+-Monocytes   (~ 0-13% of total WBCs)
+-Eosinophils   (~ 0-8% of total WBCs)
+-Basophils   (~ 0-2% of total WBCs)
+
+*Many other immune cells (ex. dendritic cells, macrophages, mast cells, and most helper-like ILCs) are uncommon in blood and primarily reside in tissues or lymphoid organs. 
+
+
+V. IMMUNE LIGANDS
+Ligands send signals.
+Receptors receive signals.
+
+A. CYTOKINES
+
+1. INTERLEUKINS
+IL = interleukin
+
+IL-1 alpha / IL-1 beta
+Main function: Initiates inflammation, activates endothelium, promotes fever, supports leukocyte recruitment.
+Mainly secreted by: Macrophages, monocytes, dendritic cells, epithelial cells, endothelial cells, damaged or stressed cells.
+Main receptor: IL-1 receptor.
 
 IL-2
--Fundamental cytokines
--Associated with: T-cell activation, Treg maintenance
--Common producers:
-      → activated T cells
--Key functions:
-      → T-cell proliferation/clonal expansion
-      → T- cell autocrine signaling
-      → Supports killer T cell, NK, and Treg survival (maintains Tregs via high CD25 signaling)
-
-IL-3
--Specialized cytokine
--Associated with: Hematopoiesis
--Common producers:
-      → activated helper T cells, mast cells
--Key functions:
-      → supports blood cell development and growth
+Main function: T-cell proliferation, clonal expansion, Treg maintenance, NK and cytotoxic T-cell support.
+Mainly secreted by: Activated T cells, especially activated CD4 T cells.
+Main receptor: IL-2 receptor, including CD25 high-affinity signaling on Tregs.
 
 IL-4
--Fundamental cytokines
--Associated with: Th2 differentiation/ Type 2 immunity
--Common producers:
-      → Th2, mast cells, basophils, ILC2
--Key functions:
-      → drives Th2 differentiation
-      → promotes IgE class switching
-      → supports B-cell responses
+Main function: Th2 differentiation, IgE class switching, type 2 immunity, alternative macrophage activation.
+Mainly secreted by: Th2 cells, mast cells, basophils, ILC2 cells.
+Main receptor: IL-4 receptor.
 
 IL-5
--Context-dependent cytokine
--Associated with: Th2 differentiation
--Common producers:
-      → Th2, ILC2
-Key functions:
-      → Supports eosinophil growth/activation
-      → Important in parasite defense and allergy
-      → Contributes to mucosal immunity
+Main function: Eosinophil growth, survival, recruitment, and activation.
+Mainly secreted by: Th2 cells, ILC2 cells, mast cells.
+Main receptor: IL-5 receptor.
 
 IL-6
--Fundamental cytokine
--Associated with: Innate inflammation, Th17, Tfh
--Common producers:
-      → Macrophages, DCs, fibroblasts
--Key functions:
-      → Acute phase response (↑ CRP)
-      → Promotes inflammation
-      → Contributes to early Th17 differentiation (with TGF-β)
-      → Supports plasma-cell differentiation
-      → Supports antibody-producing responses
-
+Main function: Acute-phase response, fever, inflammation, early Th17 support, Tfh/plasma-cell support.
+Mainly secreted by: Macrophages, dendritic cells, fibroblasts, endothelial cells, epithelial cells, T cells.
+Main receptor: IL-6 receptor with gp130 signaling.
 
 IL-7
--Fundamental cytokine
--Associated with: Lymphocyte development
--Common producers:
-      → Stromal cells
--Key functions:
-      → T-cell development
-      → Lymphocyte survival
+Main function: T-cell development, naive and memory T-cell survival, lymphocyte homeostasis.
+Mainly secreted by: Stromal cells in bone marrow, thymus, and lymphoid tissues.
+Main receptor: IL-7 receptor.
 
-IL-9
--Specialized cytokine
--Associated with: Th9 / Type 2 immunity
--Common producers:
-      → Th9, ILC2
--Key functions:
-      → Supports mast-cell survival
-      → Promotes mucus production
-
-IL-10   (categorized as a regulatory cytokine)
--Fundamental cytokine
--Associated with: Treg / immune regulation
--Common producers:
-      → Tregs, macrophages, DCs
--Key functions:
-      → Suppresses APC activation
-      → Limits inflammation
-      → Maintains tolerance
-
-IL-11
--Specialized cytokine
--Associated program: Tissue repair
--Common producers:
-      → Stromal cells, fibroblasts
--Key functions:
-      → Fibrosis
-      → Tissue remodeling
+IL-10
+Main function: Suppresses APC activation, limits inflammation, maintains tolerance.
+Mainly secreted by: Tregs, Tr1 cells, macrophages, dendritic cells, Bregs.
+Main receptor: IL-10 receptor.
 
 IL-12
--Fundamental cytokine
--Associated with: Th1
--Common producers:
-      → DCs, macrophages
--Key functions:
-      → Drives Th1 differentiation
-      → Supports IFN-γ production
-      → Supports NK activation
+Main function: Drives Th1 differentiation, supports IFN-gamma production, activates NK cells.
+Mainly secreted by: Dendritic cells, macrophages, monocytes.
+Main receptor: IL-12 receptor.
 
 IL-13
--Context-dependent cytokine
--Associated with: Th2
--Common producers:
-      → Th2, ILC2
--Key functions:
-      → Promotes mucus production
-      → Causes airway hyperreactivity
+Main function: Mucus production, airway hyperreactivity, type 2 tissue responses, fibrosis/remodeling.
+Mainly secreted by: Th2 cells, ILC2 cells, mast cells, basophils.
+Main receptor: IL-13 receptor.
 
 IL-15
--Fundamental cytokine
--Associated with: NK biology, CD8 memory
--Common producers:
-      → DCs, macrophages
--Key functions:
-      → Maintains NK cells
-      → Supports killer T cell survival
-      → Supports + maintain survival of memory CD8 cells
+Main function: NK-cell survival, memory CD8 T-cell maintenance, cytotoxic lymphocyte support.
+Mainly secreted/displayed by: Dendritic cells, macrophages, monocytes, epithelial cells, stromal cells.
+Main receptor: IL-15 receptor; often presented through IL-15R-alpha trans-presentation.
 
 IL-17A / IL-17F
--Fundamental cytokines
--Associated program: Th17 / Barrier immunity
--Common producers:
-      → Th17, ILC3, γδ T cells
--Key functions:
-      → Recruits neutrophils
-      → Supports defense against extracellular bacteria and fungi
-      → Amplifies inflammation
+Main function: Neutrophil recruitment, barrier defense, extracellular bacteria/fungi defense, inflammation amplification.
+Mainly secreted by: Th17 cells, ILC3 cells, gamma-delta T cells.
+Main receptor: IL-17 receptor family.
 
 IL-18
--Context-dependent cytokine
--Associated with: Th1 support
--Common producers:
-      → Macrophages, DCs
--Key functions:
-      → Supports IFN-γ production
-      → Synergizes with IL-12
-      → Enhances intracellular pathogen defense
+Main function: Supports IFN-gamma production, works with IL-12, supports Th1/NK responses.
+Mainly secreted by: Macrophages, dendritic cells, epithelial cells.
+Main receptor: IL-18 receptor.
 
 IL-21
--Fundamental cytokine
--Associated with: Tfh, germinal centers, Th17 support
--Common producers:
-      → Tfh, Th17
--Key functions:
-      → Supports B-cell activation
-      → Supports germinal center responses
-      → Promotes class switching
-      → Supports plasma-cell differentiation
-      → Reinforces Th17 responses
+Main function: Germinal center support, B-cell help, class switching, plasma-cell differentiation, Th17 reinforcement.
+Mainly secreted by: Tfh cells, Th17 cells, activated CD4 T cells.
+Main receptor: IL-21 receptor.
 
 IL-22
--Context-dependent cytokine
--Associated with: Th17 / Barrier immunity
--Common producers:
-      → Th17, ILC3, Th22
--Key functions:
-      → Maintains epithelial barriers
-      → Stimulates antimicrobial peptides
-      → Supports tissue repair
+Main function: Epithelial barrier repair, antimicrobial peptide production, mucosal defense.
+Mainly secreted by: Th17 cells, Th22 cells, ILC3 cells, gamma-delta T cells.
+Main receptor: IL-22 receptor on epithelial/stromal cells.
 
 IL-23
--Fundamental cytokine
--Associated with:
-      → Th17 maintenance
--Common producers:
-      → DCs, macrophages
--Key functions:
-      → Enhances pathogenic Th17 responses
-      → Stabilizes mature Th17
-      → Supports chronic inflammation
+Main function: Maintains and expands pathogenic Th17 responses; supports chronic inflammation.
+Mainly secreted by: Dendritic cells, macrophages, monocytes.
+Main receptor: IL-23 receptor.
 
-IL-25 (IL-17E)
--Specialized cytokine
--Associated with: Type 2 immunity
--Common producers:
-      → Epithelial cells, tuft cells
--Key functions:
-      → Activates ILC2
-      → Amplifies Th2 responses
+IL-25 / IL-17E
+Main function: Activates ILC2 cells, amplifies type 2 immunity, supports helminth defense/allergy.
+Mainly secreted by: Epithelial cells, tuft cells, Th2 cells, mast cells.
+Main receptor: IL-17RB-containing receptor complex.
 
 IL-27
--Context-dependent cytokine
--Associated with: Early Th1 / immune regulation
--Common producers:
-      → DCs, macrophages
-Key functions:
-      → Supports Th1 responses
-      → Suppresses Th17 differentiation
+Main function: Supports early Th1 responses, suppresses Th17 differentiation, promotes regulatory IL-10 responses.
+Mainly secreted by: Dendritic cells, macrophages, monocytes.
+Main receptor: IL-27 receptor.
 
 IL-31
--Specialized cytokine
--Associated with: Allergy
--Common producers:
-      → Th2
--Key functions:
-      → Induces pruritus (itching)
+Main function: Itching/pruritus and allergic skin inflammation.
+Mainly secreted by: Th2 cells, mast cells, activated T cells in inflammatory skin disease.
+Main receptor: IL-31 receptor.
 
 IL-33
--Context-dependent cytokine
--Associated with: Type 2 immunity / alarmin
--Common producers:
-      → Epithelial cells, endothelial cells
--Key functions:
-      → Acts as an alarmin released during tissue injury
-      → Activates ILC2
-      → Amplifies type 2 responses
-
-IL-35   (categorized as a regulatory cytokine)
--Specialized cytokine
--Associated with: Treg
--Common producers:
-      → Tregs
--Key functions:
-      → Immune suppression
-      → Supports tolerance
-
-IL-37  (categorized as a regulatory cytokine)
--Specialized cytokine
--Associated with: Anti-inflammatory regulation
--Common producers:
-      → Macrophages, epithelial cells
--Key functions:
-      → Suppresses innate inflammation
-
-IL-38  (categorized as a regulatory cytokine)
--Specialized cytokine
--Associated with: Immune regulation
-Common producers:
-      → Epithelial cells, B cells
-Key functions:
-      → Anti-inflammatory effects
-      → May suppress Th17 responses
-
-—----------------------------------------------------------------
-B. INTERFERONS (IFN) – “Antiviral”
-
-Type I (IFN-α, IFN-β)
--Common producers:
-      → virus-infected cells, plasmacytoid DCs, many nucleated cells
-Functions:
-      → Induce antiviral state
-      → Increase MHC I expression
-      → Activate NK cells
-
-Type II (IFN-γ)
-Common producers:
-      → NK cells, Th1 cells, CD8 T cells
-Functions:
-      → Activates macrophages
-      → Promotes Th1 immunity
-      → Supports intracellular pathogen defense
-      → Increases MHC I + MHC II expression
-      → Enhances intracellular microbial killing
-      → Supports cytotoxic T-cell responses
-
-Type III (IFN-λ)
--Common producers:
-      → Epithelial cells
-Functions:
-      → Mucosal antiviral defense
-
-—-------------------------------------------------------------
-C. TUMOR NECROSIS FACTOR (TNF)
-
-TNF-α
-Common producers:
-      → Macrophages, NK cells, T cells
-Functions:
-      → Major pro-inflammatory inducer
-      → Causes fever
-      → Can contribute to septic shock
-
-—----------------------------------------------------------
-D. CHEMOKINES – “Where to go”
-
-CXCL8 (IL-8)
-→ Attracts neutrophils
-
-CCL2
-→ Attracts monocytes
-
-
-CXCL8     *historically named IL-8 but classified as a CXC chemokine
--Fundamental cytokine
--Associated with: Innate inflammation
--Common producers:
-      → Macrophages, epithelial cells
--Key functions:
-      → Neutrophil recruitment + activation
-
-CXCL12
-Common producers:
-      → Stromal cells, bone marrow niche cells
-Functions:
-      → Stem-cell homing
-      → Lymphocyte trafficking
-
-CXCL13
-Common producers:
-      → Follicular DCs and stromal cells in B-cell follicles
-Functions:
-      → Tfh cells upregulate CXCR5 receptors
-      → Migrate toward CXCL13-rich B-cell follicles
-
-—--------------------------------------------------------------
-E. GROWTH FACTORS / DIFFERENTIATION FACTORS
-
-Granulocyte Colony-Stimulating Factor (G-CSF)
-→ Neutrophil production
-
-Macrophage-Colony-Stimulating Factor”  (M-CSF)
-→ Macrophage development
-
-Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF)
-→ Granulocyte + macrophage development
-
-Stem Cell Factor (SCF)
-→ Hematopoietic stem-cell maintenance
-→ Mast-cell survival/development
-
-FMS-like Tyrosine Kinase 3 Ligand (FLT3 ligand)
-→ Supports dendritic-cell development
-→ Supports hematopoietic progenitors
-
-Transforming Growth Factor Beta (TGF-β)
-(categorized as both a growth factor + a regulatory cytokine)
--Fundamental
--Associated with: Treg, tolerance, early Th17 differentiation
--Common producers:
-      → Tregs, macrophages, DCs, platelets, stromal cells
--Key functions:
-      → Supports immune suppression
-      → Suppresses excessive T-cell activation
-      → Can suppress B-cell proliferation
-      → Induces FOXP3/Treg formation
-      → Early Th17 differentiation requires TGF-β + IL-6
-      → Promotes IgA class switching
-      → Tissue repair/fibrosis
-
-Vascular Endothelial Growth Factor (VEGF)
-→ Blood vessel formation (angiogenesis)
-→ Essential for wound healing
-
-—------------------------------------------------------------
-*others
-B-cell Activating Factor (BAFF)
-→ Maintains B-cell survival
-→ Supports mature B-cell populations
-→ Associated with autoimmunity (ex. lupus)
-
-A Proliferation-Inducing Ligand (APRIL)
-→ Supports plasma-cell survival
-→ Supports long-lived plasma cells
-→ Promotes IgA responses
-************************************************
-
-CYTOKINES ORGANIZED BY IMMUNE RESPONSE TYPES
-*many cytokines overlap across programs
-
-Barrier epithelial / skin immune response
-   → Th22
-   → IL-22, TNF-α, IL-13
-Innate inflammatory pathway 
-   → innate immune cells 
-   → IL-1α, IL-1β, IL-6, TNF-α, IL-8 (CXCL8), GM-CSF
-
-
-Type 1 immune response (intracellular pathogens, viruses, macrophage activation)
-   (cells involved) Th1 cells (+ ILC1)
-   → IL-12, IFN-γ, IL-2, TNF-α, IL-18
-   *plasmacytic DC’s, NK (antiviral)   → IFN-α, IFN-β
-
-Type 2 immune response (allergy, helminths, eosinophils)
-    (cells involved)  Th2 + (ILC2)
-   → IL-4, IL-5, IL-13, IL-9, IL-25, IL-33, TSLP
-*mucosal allergy / mast-cell support
-   → Th9
-   → IL-9, IL-10
-
-Type 3 immune response  (extracellular bacteria/fungi, barrier defense, neutrophils)
-    (cells involved) Th17 + (ILC3)
-   → TGF-β, IL-6, IL-21, IL-23, IL-17A, IL-17F, IL-22
-
-Regulatory / tolerance / immune suppression
-   → Treg
-   → IL-10, TGF-β, IL-35, IL-37, IL-38, IL-2
-
-Follicular helper / germinal center / B-cell help
-   → Tfh
-   → IL-21, IL-4, IL-10, IFN-γ
-
-Humoral immunity / antibody production
-   → mainly Tfh-driven
-   → IL-21, IL-4, BAFF, APRIL
-
-Hematopoiesis / blood-cell production
-   → not a Th subtype
-   → IL-3, IL-7, IL-11, GM-CSF, G-CSF, M-CSF
-*******************************************************
-
-IMMUNE RECEPTORS
-
-A. RECOGNITION RECEPTORS — "Detect danger / recognize targets"
-
-A1. (INNATE IMMUNITY) PATTERN RECOGNITION RECEPTORS (PRRs)
--Found mainly in innate immune and epithelial cells 
-*Some PRRs are expressed on adaptive immune cells (especially B cells and certain T-cell subsets), where they mainly modulate activation rather than serve as primary antigen recognition receptors
-- PRRs recognize:
-   - Pathogen-associated molecular patterns (PAMPs)
-      → conserved microbial structures
-   - Damage-associated molecular patterns (DAMPs)
-      → signals of cellular stress, injury, or tissue damage
-
-Toll-Like Receptors (TLRs)
--Humans: 10 functional TLRs (TLR1–TLR10)
--Activation results in rapid activation of inflammation and cytokine production
-
-*Cell surface TLRs
-      -Detect extracellular microbial structures
-      -Examples:
-         - TLR1/2 → bacterial lipopeptides
-         - TLR2/6 → lipoteichoic acid, lipopeptides, fungal components
-         - TLR4 → LPS (gram-negative bacteria)
-         - TLR5 → flagellin
-*Endosomal TLRs
-      -Detect pathogen nucleic acids
-      -Examples:
-         - TLR3 → dsRNA
-         - TLR7/8 → ssRNA
-         - TLR9 → CpG DNA
-
-C-Type Lectin Receptors (CLRs)
-*cell surface receptors
-      -Detects carbohydrate-rich microbial structures 
-      -Which are important for detecting fungi, mycobacteria, some parasites
-      -Examples:
-         - Dectin-1 → beta-glucans
-         - Dectin-2 → fungal carbohydrates
-         - Mannose receptor (CD206)
-         - DC-SIGN
-         - Mincle
-         - Langerin
-
-NOD-Like Receptors (NLRs)
-
- -Soluble, intracellular (cytoplasmic) receptors
- -Detect infection, cellular stress, and tissue damage:
-
-
- 1.Inflammasome-forming NLRs
-      -Examples: NLRP3, NLRP1, NLRC4
-      -Detect:
-         -Microbes and microbial toxins
-         -ATP from injured cells
-          -ROS
-          -Mitochondrial damage
-          -Crystals and particulate matter
-   -Mechanism:
-       -NLR + ASC + pro-caspase-1
-          → active caspase-1
-   -Results:
-       -IL-1β production
-       -IL-18 production
-       -Pyroptosis (inflammatory cell death)
-
-2.Regulatory NLRs
-      - Examples: NLRX1, NLRP6, NLRP12
-      - Limit excessive inflammation
-
-3.NOD sensors
-   -Detect: Bacterial peptidoglycan fragments (bacterial cell wall components)
-   -NOD1:
-      -Mainly recognizes peptidoglycan from Gram-negative bacteria 
-   -NOD2:
-      -Recognizes muramyl dipeptide (MDP)
-      -Present in both Gram-positive and Gram-negative bacteria
--Results:
-      -Activate NF-κB
-      -Increase inflammatory cytokine production- TNF-α, IL-6
-
-RIG-I-Like Receptors (RLRs)
-*receptors in mitochondrial outer membrane
--Examples: RIG-I, MDA5
-   → detect viral RNA
-   → induce IFN-α / IFN-β
-
-Cytosolic DNA Sensors
- -Normally, DNA should remain inside the nucleus or mitochondria
- -Cytoplasmic DNA often signals:
-    -Viral infection
-    -Bacterial infection
-    -Cell damage
-    -Mitochondrial damage
-
-1.Absent in Melanoma 2 (AIM2)
-    -Detects: Cytoplasmic double-stranded DNA (dsDNA)
-    -Function:
-          -Forms inflammasome
-    -Mechanism:
-          -AIM2 + ASC + pro-caspase-1
-           → active caspase-1
-    -Results:
-       -IL-1β production
-       -IL-18 production
-       -Pyroptosis (inflammatory cell death)
-
-2.cGAS-STING Pathway 
-   -Components:
-      -cGAS = cytoplasmic DNA sensor
-      -STING = signaling protein on ER membrane
- -Detects:  Cytoplasmic double-stranded DNA (dsDNA)
- -Mechanism:
-    -cGAS binds dsDNA
-       → produces cGAMP
-       → activates STING
-       → activates IRF3 and NF-κB
- -Results:
-    -Type I interferon production (IFN-α, IFN-β)
-       → antiviral response
-
-Scavenger Receptors
-*surface receptors
-   → clearance/phagocytosis
-   → some inflammatory signaling
-   - Examples: CD36, SR-A, MARCO
-
-
-A2. (ADAPTIVE IMMUNITY) SPECIFIC ANTIGEN RECOGNITION RECEPTORS
-*Cognate antigen
-   → antigen recognized by specific TCR/BCR
-*Epitope
-   → specific region physically recognized
-
-TCR (T-cell receptor)
-   + CD3 signaling complex
-   + CD4 or CD8 co-receptors
-   → recognizes peptide-MHC
-
-BCR (B-cell receptor)
-   + Igα / Igβ (CD79A/CD79B)
-   + CD19/CD21/CD81 co-receptor complex
-   → recognizes native antigen
-
-
-A3. COMPLEMENT RECEPTORS
-- CR1 (CD35)
-      → binds C3b
-      → immune complex clearance
-- CR2 (CD21)
-      → binds C3d
-      → B-cell co-receptor
-      → enhances B-cell activation
-- CR3
-      → phagocytosis
-      → leukocyte adhesion
-
-A4. Fc RECEPTORS (binds to the Fc regions of antibodies)
--commonly expressed by: macrophages, neutrophil, NK cells, eosinophils, mast cells, basophils
--Examples:
-   - Fcγ receptors (FcγR)
-      → bind IgG
-      → phagocytosis
-      → ADCC
-   - FcεRI
-      → binds IgE
-      → mast cell/basophil activation
-      → allergy/anaphylaxis
-   - FcαR
-      → binds IgA
-   - FcRn
-      → IgG recycling
-      → prolongs IgG half-life
-      → placental IgG transfer
-
-
-B. CYTOKINE RECEPTORS — "What should the immune cell do?"
--varous receptors to cytokines
-
-
-C. REGULATORY RECEPTORS — "Turn OFF / suppress / eliminate"
-(inhibitory checkpoint receptors)
-- CTLA-4 (surface receptor that appears in B cells)
-      → inhibits early T-cell activation
-      → competes with CD28 for CD80/CD86
-- PD-1
-      → binds PD-L1 / PD-L2
-      → suppresses proliferation
-      → suppresses cytokines
-      → suppresses effector function
-      → exhaustion
-- LAG-3
-- TIM-3
-- TIGIT
-      → chronic stimulation
-      → exhaustion
-
-(NK cell regulatory receptors)
-Inhibitory:
-- KIRs
-      → recognize MHC I
-      → inhibit killing
-- NKG2A
-      → inhibitory receptor
-      → tolerance toward healthy cells
-
-Activating:
-- NKG2D
-      → detects stress ligands
-      → promotes killing
-- NKp30
-- NKp44
-- NKp46
-      → natural cytotoxicity receptors
-
-
-(death receptors)
-- Fas (CD95) receptor
-      → when FasL binds to the Fas receptor on the target cell
-      → the targeted cell undergoes apoptosis
-- TNF receptors
-      → inflammation
-      → apoptosis (context dependent)
-
-
-D. MIGRATION RECEPTORS — "Where should immune cells go?"
-   (chemokine receptors)
-- CXCR1 / CXCR2
-      Ligand:
-         → CXCL8 (IL-8)
-      Function:
-         → neutrophil recruitment
-- CCR7
-      Ligands:
-         → CCL19
-         → CCL21
-      Function:
-         → lymph node homing
-         → T-cell zones
-- CXCR5
-      Ligand:
-         → CXCL13
-      Function:
-         → B-cell follicle migration
-         → Tfh localization
-- CXCR4
-      Ligand:
-         → CXCL12
-      Function:
-         → bone marrow homing
-         → hematopoiesis
-      Clinical:
-         → HIV co-receptor (X4-tropic strains)
-- CCR5
-      Function:
-         → inflammatory trafficking
-         → Th1 recruitment
-      Clinical:
-         → HIV co-receptor (R5 strains)
-
-   (adhesion molecules)
-- L-selectin (CD62L)
-      → lymph node entry
-- LFA-1 (integrin)
-      → adhesion to ICAMs
-      → leukocyte migration
-- VLA-4 (integrin)
-      → endothelial adhesion
-      → tissue migration
-
-*******************************************************
-*******************************************************
-
-A. INNATE IMMUNE SYSTEM
--Some of the weapons of the innate immune system is more than 500 million years old
-   *modern humans have been around for about 300,000 years
-
-PHYSICAL BARRIERS
-- Skin
-- Mucous membranes (total surface area measures about 400 sq meters -about size of 2 tennis courts)
-
-------------------------------------------—-------------------------------------------------
-
-THE COMPLEMENT SYSTEM
--About 20–30 plasma proteins (mainly produced by the liver) that circulate in inactive form
--Work together to destroy pathogens directly + amplify immune responses
--C3 is the central and most abundant component
--Common pathways > all activate C3 → split into:
-   • C3a
-   • C3b  > very reactive
-
-1.Classical pathway (antibody-dependent)
-   -Triggered by antibodies (IgM-much better;  IgG-not as good) bound to antigen
-    >“membrane attack complete (MAC)” 
-
-2.Alternative pathway (antibody-independent)
--A small amount of circulating C3 spontaneously binds with water > then they bind to Factor B, then Factor D cleaves Factor B > Ba + Bb > C3(H2O)Bb (a convertase) > this convertase cleaves more C3 > C3a + C3b (C3b is very reactive) 
-   >C3b can bind to either of 2 common chemical groups (amino or hydroxyl groups)  
-*If C3b doesn’t find one of these chemical groups to react within about 60 microseconds, it is neutralized by binding to a water molecule (so C3b has to be very close to the surface of the invading cell)  > “membrane attack complex (MAC)” 
-*many of the proteins and carbs that make up the surfaces of invaders (ex. Bacterial cells) have these groups, there are lots of targets for these little C3b “grenades”  >> then a cascade is triggered
-*human cells have proteins on their cell surface that prevent damage from the complement system
-
-3.Lectin activation pathway
-   -Triggered by “mannose-binding lectin (MBL)”, which is made in the liver
-   -MBL binds to mannose on microbial surfaces, such as bacteria, yeast, and viruses (but are not found on healthy human cells)
-   -MBL binds to another protein called MASP, then when the MBL grabs its target (mannose on the surface of a bacterium, for ex), the MASP protein functions like a a convertase to clip C3 complement proteins to to make C3b > then chain reaction >  “membrane attack complex (MAC)” 
-
-MAJOR FUNCTIONS:
--Direct killing (Membrane Attack Complex, MAC)
-   - C5b–C9 form MAC
-   → creates pores in microbial membranes
-   → leads to cell lysis (especially Gram-negative bacteria)
--Opsonization (“tagging for phagocytosis”)
-   - C3b coats microbes and enhances recognition by phagocytes (macrophages, neutrophils)
-
--Inflammation & chemotaxis
-   - C3a, C5a are clipped off 
-   → recruit immune cells (chemoattractants)
-   → increase vascular permeability
-   → promote inflammation
-
-*Overactivation → contributes to inflammation and autoimmune disease
-—------------------------------------------------------------------
-
-MACROPHAGES
--derived from embryonic cells or monocytes
--They are phagocytes (“garbage collectors”)
--They are sentinel cells and are present in most tissues.
-   *immunologists can give iron filings to macrophages > then separate with a magnet from the other cells
--some macrophages are specialized depending on which tissue it is in:
-      -brain → microglia
-      -liver → Kupffer cells
-      -lung → alveolar macrophages
--lifespan: months to years in tissues (long-lived)
-
--When activated:
-   -secretes cytokines: TNF-α, (secretes a lot of TNF), IL-1, IL-6, IL-12 
-   -antigen presentation (MHC II) to helper T-cells
-   *also continues to restimulate activated T-cells so they can continue to fight if needed (cDCs usually does the initial activation).
-   -when activated, can increase production of reactive oxygen molecules, such as hydrogen peroxide
-   -also, can dump contents of its lysosomes onto multicellular parasites that are too large to for it to eat
-
--Also, involved with immune regulation, tissue repair, & wound healing
------------------------------------------------------------------------
-
-MONOCYTES
--lives only about 1–5 days in blood
-
-MAIN FUNCTIONS
--pathogen sensing (PRRs) + immune activation
-   - cytokines: TNF-α, IL-1β, IL-6, IL-12
-   - chemokine production
-
--reserve cells → enter tissues and differentiate into:
-     - macrophages
-      - monocyte-derived Dendritic Cells (moDCs)
-
-OTHER FUNCTIONS
--phagocytosis (microbes, debris, dead cells)
--antigen presentation (MHC II; less potent than cDCs)
--chronic inflammation
-   -sustained recruitment → inflammatory macrophages
-   -seen in autoimmunity, atherosclerosis, fibrosis
-
--tissue repair & remodeling
-   -growth factor release
-   -angiogenesis support
-   -debris clearance
-
------------------------------------------------------------------------
-
-conventional DENDRITIC CELLS (cDCs)
--star-shaped, sentinel cells
-
--“professional antigen presenting cells”
--constantly sample environment (“wine drinkers”)
-   >endocytosis → endosome → lysosome processing
--triggered by PRRs + by cytokines from other cells (ex. macrophages /neutrophils)
-   >produces cytokines and chemokines
-
--not present in all tissues at all times
--lives only for a few days to a week
-
-cDC1 (more antiviral / intracellular pathogen / tumor responses/ Th1 reponses):
-- IL-12 → major cytokine; promotes Th1 differentiation and IFN-γ production
-- IL-27 → supports early Th1 responses and immune regulation
-- TNF-α → inflammatory
-- some IL-15 (including trans-presentation to NK/killer T cells)
-
-cDC2 (more extracellular pathogen / mucosal / Th17 responses):
-- IL-1β → inflammatory; supports Th17
-- IL-6 → with TGF-β contributes to Th17 differentiation
-- IL-23 → maintains/stabilizes Th17
-- TNF-α → inflammatory
-- sometimes IL-10 → regulatory/tolerogenic settings
-
-
--About 6 hrs after activation > travel via lymphatics to lymph nodes (takes about a day to reach destination)
--activate naive T cells:
-   • CD4+ naive helper T cells  via its MHC II
-   • CD8+ naive cytotoxic T cells via its MHC I 
-        + provides co-stimulation via B7 to CD28 receptors on the naive T cells
-
-- After cDCs are activated, they only live for 1–3 days 
-   > so it provides a current “snapshot” of antigen exposure
-—----------------------------------------------------------------------------
-
-NEUTROPHILS
-- Most abundant immune cells in the blood
-- lives only about 5 days
-- rapid-response “first responders” → arrives 30min to exit the blood and become fully activated
-- after killing microbes → undergo apoptosis → cleared by macrophages (contributes to pus)
-   *it is important that they do not live long since they can do damage to normal tissue
-
-KILLING METHODS:
-1. Phagocytosis & Intracellular Killing (primary mechanism)
-   (Phagocytosis)
-   - Engulf bacteria, fungi, some viruses
-   - Recognize IgG-coated (Fc receptors) and C3b-coated microbes
-   (Intracellular killing)
-   - Respiratory (oxidative) burst via NADPH oxidase → ROS production
-   - Phagosome fuses with lysosome → enzymatic killing
-
-   *key antimicrobial components in enzymatic killing:
-   - Proteases → degrade microbial proteins
-   - Defensins → disrupt membranes
-   - Lysozyme → breaks peptidoglycan (especially Gram+ bacteria)
-   - Lactoferrin → binds iron, inhibits microbial growth
-
-2. Degranulation
-   - Release enzymes externally when targets are too large
-   - Can cause host tissue damage and inflammation
-
-3. Neutrophil Extracellular Traps (NETs)
-   -under certain conditions, some dying neutrophils can release NETs
-   -DNA + histones + antimicrobial proteins form “nets”
-   -Trap and kill microbes
-   -NETosis: often leads to cell death (can also occur without death)
-   -Excess NETs → tissue damage, thrombosis, autoimmunity
-
-4. Cytokine & Chemokine Secretion
-   -ex. TNF
------------------------------------------------------------------------
-------------------------------------------------------------------
-**INNATE IMMUNE RESPONSE TO VIRAL INFECTION**
-
-plasmacytoid DENDRITIC CELLS (pDCs)
--circulate in low numbers in blood and secondary lymphoid organs
-   → recruited into tissues during infection
-- lifespan: short-lived
-- in resting, inactive state looks lymphocyte-like  >  once activated turns dendritic (“starfish” shape)
--they internalize viral material by endocytosis, phagocytosis-like uptake, and Fc receptor update of antibody-virus complexes
--endosomal PRRs:
-   • TLR7 → detects viral ssRNA
-   • TLR9 → detects viral DNA
-      *they do not have TLR that detects bacteria > so mainly detects viruses
--major producers of Type I interferons (IFN-α, IFN-β) → strongest source in early antiviral defense
-   -up to a 1,000 times as much type I interferons per day
-   
--antigen presentation
-   - MHC II → helper T cells
-   - can present via MHC I under certain conditions
-      *less potent than conventional dendritic cells (cDCs) in antigen presentation
-
-*overactivation of pDCs by self-nucleic acids
-   → chronic IFN production
-   → implicated in:
-      • SLE
-      • Psoriasis
-
------------------------------------------------------------------------
-
-NATURAL KILLER (NK) CELLS
--when not responding to an infection are short-lived
-   >half life only about a week
--Rapid responders to infected tissues (within hours)
-
-(targets)
--Virus, intra-cell bacteria, intra-cell parasite infected-cells
--Tumor cells
--Stressed cells
-
-(mechanism of abnormal cell recognition)
--MHC I 
-      -NK cells have receptors (ex. KIR, NKG2A) that reads MHC I on cell surfaces
-         >normal MHC I → no killing
-         >low/absent MHC I → killing (“missing self”)
--stress ligands (ex. MICA, MICB, ULBPs) > surface proteins
-      >NK has receptors (ex. NKG2D) that detects stress ligands 
--Antibody-Dependent Cellular Cytotoxicity (ADCC)
-      >Fc receptors (CD16) on NK cells bind antibodies on target cells
-
-(killing methods)
-1. Perforin + granzymes
-       >Perforin → forms pores
-       >Granzymes → induce apoptosis
-2. Fas–FasL (CD95) pathway
-   - Fas ligand (on NK) binds Fas receptor (on target cells)
-   → triggers apoptosis
-*killer T cells also carries out step 1 and step 2 mechanism of killing  
-
-(cytokine production)
--IFN-γ (sig amounts)
--TNF-α
-
-(growth and activation)
--during viral attack, IFN-α and IFN-β, given off by virus-infected cells can hyperactivate NK cells
--when their surface receptors detect LPS > can get hyperactivated 
-
--In non-activated state NK cells does not express IL-2 receptors, but in response to TNF produced by macrophages >upregulates the expression of IL-2 receptors 
--Then NK cells themselves produce IL-2 + activated T cells also produce IL-2 
-      → stimulates NK proliferation
--crosstalk with macrophages
-   →LPS stimulates macrophages → IL-12 production,  IL-12 stimulates NK cells → NK cells secretes sig amounts of IFN-γ production > then  IFN-γ further activates macrophages  → positive feedback loop
-
--IL-15 is especially important for NK survival and development
-
-
-*humans with genetic defects which make them deficient in NK cell function have difficulty controlling herpes virus and HPV infections
-—-------------------------------------------------------------------
-
-INNATE LYMPHOID CELLS (ILCs)
--ILCs are rapid tissue-resident “first responders” that shape immune responses by producing cytokines before antigen-specific adaptive immunity (T cells and B cells) fully develops.
--Found mainly at barrier tissues:
-      -skin, mucus membranes of gut, lungs
-
-   1.ILC1
-*innate equivalent of Th1 cells
--supports type1 immunity
--Immune significance:  Context-dependent
--Major cytokine that it secretes:
-   IFN-γ
-
-   2.ILC2 
-*innate equivalent of Th2 cells
--Involved in allergy, asthma, and parasite immunity (Th2 responses in adaptive immunity)
--Major cytokines that it secretes:
-   IL-5 
-   IL-13
-
-   3.ILC3
-*innate equivalent of Th17/Th22 cells
--Involved in gut immunity: maintains intestinal barrier integrity, mucosal immunity, gut homeostasis, defends against extracellular bacterial and fungi
--Major cytokines that it secretes:
-   IL-17
-   IL-22
-
-   4.Natural Killer (NK) Cells “cytotoxic ILCs”
-*innate equivalent of CD8 cytotoxic T cells
--see section above 
-**************************************************************
-****************************************************************
-
-B. ADAPTIVE IMMUNE SYSTEM
--about 99% of all animals do fine with just natural barriers and innate immune system 
-   >however, vertebrates like us have an additional layer- the adaptive immune system
-
----------------------------------------------------------------------------
-—-------------------------------------------------------------------------
-MHC (MAJOR HISTOCOMPATIBILITY COMPLEX)
-
-(MHC I)
--expressed on all nucleated cells in the body (including APCs)
--Genes: HLA-A, HLA-B, HLA-C (on chromosome 6) + paired with β2-microglobulin
-   >highly polymorphic → binds diverse peptides
--fits about 8-9 amino acids in their groove
->>Presents intracellular antigens (“what’s inside the cell”) to killer T cells
-
-(MHC II)
--Expressed on antigen-presenting cells (APCs):
-   -dendritic cells
-   -macrophages
-   -B cells 
-
-—---------------------------------------------------------------------
-* only about one in a million B or T cells will have receptors that can recognize a given invader.
-
-T CELLS
-
--T cell receptor (TCR) 
-   ~95% of circulating T cells express αβ (alpha chain and a beta chain) TCR   “traditional T cells”
-         -has a CD4 or CD8 coreceptor
-        -TCR cannot signal alone (TCR is too short)
-           >CD3 complex (CD3γ, CD3δ, 2x CD3ε, and 2x ζ  chains)-  6 chains in total 
-              transmits the activation signal inside the cell 
-   >>full TCR complex (TCR + CD3γε + CD3δε + ζζ)
- 
-—---------------------------------------------------
-(Non-traditional, “innate-like T-cell” population ) 
--All respond faster than conventional CD4/CD8 αβ T cells, but they use different receptors and recognize different antigens.
-
-1,”Mucosal-Associated Invariant T cells (MAIT cells)”   (1-10% (more commonly 2-5%) of circulating T cells) 
--Innate-like T cells with a semi-invariant αβ TCR 
--Recognize microbial vitamin B2 (riboflavin) metabolites presented by MR1 (not classical MHC) 
-   *MR1 molecule (expressed by APCs, epithelial cells, liver cells, some infected tissue cells) presents small microbial metabolite molecules (esp riboflavin pathway intermediaries)
--Abundant in mucosal tissues, liver, lungs, and blood 
--Rapidly produce cytokines (ex. IFN-γ, TNF, IL-17) and can kill infected cells 
--Important for early defense against many bacteria and fungi 
--Bridge innate and adaptive immunity 
-
-2.γδ T cells   (1-5% of circulating T cells)
--γδ TCR 
--most do not express CD4 or CD8 coreceptor, although some subsets express CD8
--non-traditional T cell, still mysterious
--most abundant in areas such as the intestine, the uterus, and the tongue, which are in contact with the outside world.
-
-3.NKT cell    (<1% of T cells (often 0.01-0.5%) very variable, of circulating 
-   -has some of the properties of the natural killer (NK) cells of the innate system, and some of the properties of traditional αβ T cells 
-—-----------------------------------------
-
-T-cell Development
-Bone marrow: Hematopoietic stem cell (HSC) → Common lymphoid progenitor (CLP) → Early T-cell progenitor
-At this stage: no CD4 or CD8 coreceptor  (Double negative, DN)
-Migration to thymus
-
-Early development in thymus: 
--does not have CD4 or CD8 co-receptor (Double-negative; DN)
--TCR β-chain rearrangement
--proliferation
-
-Mid development in  thymus: 
--develop both CD4+ CD8+ (Double-positive; DP)
--TCR α-chain rearrangement
--Complete αβ TCR formation
-(Positive selection): 
--MHC I weak to moderate affinity → survive toward CD8 lineage 
--MHC II weak to moderate affinity → survive toward CD4 lineage 
--If no affinity to both → apoptosis 
-
-Final stage in thymus: Single-positive cells form
-(Negative selection):
--CD8+ or CD4+ with very strong affinity → apoptosis 
--CD8+ or CD4+ with moderate to strong affinity (but not very strong)  → apoptosis
-   *however, some CD4+ cells with moderate to strong affinity + appropriate signals (including IL-2 and costimulatory cues) can favor FOXP3 induction and become naive thymic regulatory T cells (tTregs)
-
-*each day in the thymus of a young person, about 60 million double‐positive cells are tested, but only about two million single‐positive cells exit the thymus. The rest die by apoptosis, and are quickly eaten by macrophages in the thymus.
->>final cells that survival:
-   → naive CD8+  T cell
-   → naive CD4+ helper T cell 
-   → naive tTregs
-     
-—-----------------------------
-
-T-cell activation (mainly occurs in secondary lymphoid organs)
-1. Initial activation steps
-(signal 1)
--TCR on naive CD4 helper T cell binds:
-   matching peptide antigen + MHC II on APC
-*TCR on naive CD8 T cells are primarily activated by professional APCs presenting peptide-MHC I (often via cross-presentation)  
--mainly activates:
-   NFAT pathway (via calcium/calcineurin signaling)
-
-(signal 2 (costimulation))
--B7 (CD80/CD86) molecule on APC (amount depends on the degree of their activation state) provides the costimulation to CD28 receptor on the naive T cells
--mainly activates:
-   AP-1 and NF-κB pathways
-
-full activation = signal 1 + signal 2
-→ IL-2 production by activated T cells
-→ formation of high-affinity IL-2 receptor in the activated T cells → autocrine IL-2 signaling
-→ T-cell proliferation (clonal expansion)
-→ Supports differentiation into specialized helper T-cell subsets
-
--—----------------------
-The cytokines present (secreted by APCs in the area) during full activation determine which helper T-cell subtype develop during the full activation:
-
-(major helper T-cell subsets)
-
--Th1   (formed from IL-12 environment during activation)
--main cytokines that they produce:   TNF,  IFN-γ,  IL-2 
--main functions:  viruses, cell-mediated immunity, tuberculosis,
-
--Th2   (formed from IL-4 environment during activation)
--main cytokines produced:  IL-4,  IL-5,  IL-13
-*IL-4 is a growth factor for B cells, and can influence B cells to class switch to IgE antibodies- powerful weapons against parasites, such as hook worms.  IL-5 encourages B cells to produce IgA, which are useful for GI tract.  IL-13 stimulates the production of mucus in the intestines.
--main functions: parasite defense/ GI infection, eosinophil activation, IgE class switching, allergy/asthma.
-
--Th17   (formed from IL-6, IL-23, or TGF-β environment during activation)       
--main cytokines that they produce:  IL-17A, IL-17F,  IL-21, IL-23
-*developing Th17 cells often begin producing IL-21:
-      autocrine signaling → stimulates themselves
-      paracrine signaling → stimulates nearby Th17 cells (amplifies and reinforces the Th17 program)
--main functions: extracellular bacteria/fungi defense, mucosal inflammation, neutrophil recruitment
-
--T follicular helper cells (Tfh)   (involves IL-6, IL-21, ICOS signaling, BCL6 induction, and APC/B-cell interactions) 
-   *Tfh cells mainly reside inside germinal centers within follicles of lymph nodes and spleen
--main cytokine produced: IL-21
--main functions:  B-cell help, germinal center reactions, class switching, affinity maturation, memory B-cell formation
-   *they can remain highly active while still expressing inhibitory receptors such as:
-      PD-1 > this helps regulate potentially dangerous antibody responses during intense B-cell selection
-
--Th0 helper cells
--some helper T cells remain “unbiased” when they are activated.  DCs tells them where to go but not what to do > later develops into a specific helper T cell based on the cytokine environment
-
-(additional helper T-cell subsets- less central) 
--Th9  (formed from IL-4 + TGF-β environment)
--main cytokine they produce: IL-9
--functions: parasite defense, allergy, mast cell activation
--Th22   (formed from IL-6 + TNF-α environment)
--main cytokine they produce: IL-22
--functions: epithelial barrier, defense tissue repair, antimicrobial peptide production
-
-—----------------------------------------------------
--Once any of the helper T cells become activated, they express CD40L (CD154), which can bind to CD40 receptors on APCs and B cells. -This interaction “licenses” APCs (APCs become more stimulatory)
-   ↑ B7 (CD80/CD86) expression
-   ↑ cytokine production
- →better costimulation of naive T cells
- →final activation of already activated killer T cells 
-
-*Activated killer T cells also express CD40L but much less and temporarily and are not able to “license” APCs well. Therefore, activated killer T cells (without “licensed APCs”) results in a small burst of killer T cells designed to deal quickly with invaders early in an infection. However, it does not get full blown activation. 
--In order for killer T cells to get full blown activation, CD4 help is needed to “license” the APC that is presenting the antigen.
-—----------------------------------------------------
-
-
-*B-cell activation in secondary lymphoid organs
--CD40L on activated follicular helper T cells binding CD40 receptors on B cells is essential for:
-   -T-dependent B-cell activation (see in later section)
--Then B7 on B-cell activates CD28 on the follicular helper T cell (Tfh) > then the activated Tfh cells are ready to go to follicle to help the fragile B cells in germinal center to undergo class switching and undergo somatic hypermutation
-   >>dance (can last for more than 1 hr between the follicle and T cell zone)
-—------------------------------------------------------------
-
-activated killer T cell killing mechanisms:
-1. Perforin–granzyme pathway
-      -Perforin forms pores in the target cell membrane.
-      -Granzymes enter the target cell and trigger apoptosis.
-2. Fas–FasL pathway
-      -”Fas ligand (FasL)” on the killer T cell binds Fas (CD95) on the target cell.
-      -This activates caspase-8, leading to apoptosis.
-3. Cytokine secretion
-      -killer T cells also secrete IFN-γ, which can increase MHC I expression and enhance antiviral and immune responses.
-
-activated T cells can differentiate into : 
--Effector cells → immediate function 
--Memory T cells → long-term protection
-   (memory subsets)
-      -Central memory (Tcm)
-      -Effector memory (Tem)
-      -Tissue resident memory (Trm)
-      -Stem-like memory (Tscm)
+Main function: Alarmin for tissue damage; activates ILC2, mast cells, basophils, eosinophils, and Th2 responses.
+Mainly secreted/released by: Epithelial cells, endothelial cells, fibroblasts, stromal cells during stress or injury.
+Main receptor: ST2 / IL-33 receptor.
 
+IL-35
+Main function: Immune suppression and tolerance.
+Mainly secreted by: Tregs, regulatory B cells, tolerogenic APCs.
+Main receptor: IL-35 receptor complexes.
 
+
+2. REGULATORY / GROWTH-RELATED CYTOKINES
+
+Transforming growth factor beta (TGF-beta)
+Main function: Immune suppression, Treg formation, IgA switching, tissue repair, fibrosis; supports Th17 differentiation with IL-6/IL-21.
+Mainly secreted by: Tregs, macrophages, dendritic cells, platelets, stromal cells, epithelial cells.
+Main receptor: TGF-beta receptors.
+
+
+3. TNF-FAMILY CYTOKINES
+
+Tumor necrosis factor alpha (TNF-alpha)
+Main function: Endothelial activation, fever, inflammation, leukocyte recruitment, granuloma support, septic shock risk when excessive.
+Mainly secreted/displayed by: Macrophages, monocytes, dendritic cells, NK cells, T cells, mast cells.
+Main receptor: TNFR1 and TNFR2.
+
+
+4. INTERFERONS
+
+Type I interferons: interferon alpha and interferon beta (IFN-alpha and IFN-beta)
+Main function: Antiviral state, increased MHC I, NK-cell activation, antigen-presentation support.
+Mainly secreted by: Virus-infected cells, plasmacytoid dendritic cells, many nucleated cells.
+Main receptor: Type I IFN receptor / IFNAR.
+
+Type II interferon: interferon gamma (IFN-gamma)
+Main function: Macrophage activation, Th1 immunity, intracellular pathogen defense, increased MHC I and MHC II.
+Mainly secreted by: NK cells, Th1 cells, CD8 T cells, NKT cells.
+Main receptor: IFN-gamma receptor.
+
+Type III interferons: interferon lambda family (IFN-lambda)
+Main function: Mucosal antiviral defense, especially at epithelial barriers.
+Mainly secreted by: Epithelial cells, dendritic cells, virus-infected mucosal cells.
+Main receptor: IFN-lambda receptor.
+
+
+5. CHEMOKINES
+
+C-X-C motif chemokine ligand 8 / interleukin-8 (CXCL8 / IL-8)
+Main function: Neutrophil recruitment and activation.
+Mainly secreted by: Macrophages, monocytes, epithelial cells, endothelial cells, fibroblasts.
+Main receptor: CXCR1 and CXCR2.
+
+C-C motif chemokine ligand 2 / monocyte chemoattractant protein-1 (CCL2 / MCP-1)
+Main function: Monocyte recruitment into inflamed tissues.
+Mainly secreted by: Macrophages, endothelial cells, fibroblasts, epithelial cells.
+Main receptor: CCR2.
+
+C-C motif chemokine ligand 3 / macrophage inflammatory protein-1 alpha and C-C motif chemokine ligand 4 / macrophage inflammatory protein-1 beta (CCL3 / MIP-1alpha and CCL4 / MIP-1beta)
+Main function: Recruitment of monocytes, T cells, NK cells, and inflammatory leukocytes.
+Mainly secreted by: Macrophages, dendritic cells, T cells, NK cells.
+Main receptor: Mainly CCR5 and related receptors depending on context.
+
+C-C motif chemokine ligand 5 / regulated upon activation, normal T cell expressed and secreted (CCL5 / RANTES)
+Main function: Recruitment of T cells, eosinophils, basophils, monocytes, and NK cells.
+Mainly secreted by: T cells, platelets, epithelial cells, macrophages.
+Main receptor: CCR5 and related receptors.
+
+C-C motif chemokine ligand 11 / eotaxin (CCL11 / Eotaxin)
+Main function: Eosinophil recruitment.
+Mainly secreted by: Epithelial cells, endothelial cells, fibroblasts.
+Main receptor: CCR3.
+
+C-C motif chemokine ligand 19 and C-C motif chemokine ligand 21 (CCL19 and CCL21)
+Main function: Guide naive T cells and dendritic cells to T-cell zones.
+Mainly secreted/displayed by: Stromal cells, high endothelial venules, lymphatic endothelial cells.
+Main receptor: CCR7.
+
+C-X-C motif chemokine ligand 9, C-X-C motif chemokine ligand 10, and C-X-C motif chemokine ligand 11 (CXCL9, CXCL10, and CXCL11)
+Main function: Recruit Th1 cells, CD8 T cells, and NK cells during IFN-gamma-driven inflammation.
+Mainly secreted by: Macrophages, endothelial cells, fibroblasts, epithelial cells after IFN-gamma stimulation.
+Main receptor: CXCR3.
+
+C-X-C motif chemokine ligand 12 / stromal cell-derived factor 1 (CXCL12 / SDF-1)
+Main function: Bone marrow homing, stem-cell retention, lymphocyte trafficking, plasma-cell niche support.
+Mainly secreted/displayed by: Stromal cells, bone marrow niche cells, endothelial cells.
+Main receptor: CXCR4.
+
+C-X-C motif chemokine ligand 13 (CXCL13)
+Main function: Attracts B cells and Tfh cells into follicles.
+Mainly secreted/displayed by: Follicular dendritic cells and stromal cells in B-cell follicles.
+Main receptor: CXCR5.
+
+C-X3-C motif chemokine ligand 1 / fractalkine (CX3CL1 / fractalkine)
+Main function: Supports adhesion and migration of monocytes, NK cells, and some T cells.
+Mainly secreted/displayed by: Endothelial cells, neurons, epithelial cells, inflamed tissue cells.
+Main receptor: CX3CR1.
+
+X-C motif chemokine ligand 1 / lymphotactin (XCL1 / lymphotactin)
+Main function: Recruits XCR1-positive conventional dendritic cell 1 (cDC1) populations and supports cross-presentation contexts.
+Mainly secreted by: NK cells, CD8 T cells, activated T cells.
+Main receptor: XCR1.
+
+
+B. GROWTH AND SURVIVAL LIGANDS
+
+Granulocyte colony-stimulating factor (G-CSF)
+Main function: Neutrophil production, maturation, release, and survival.
+Mainly secreted by: Macrophages, endothelial cells, fibroblasts, stromal cells.
+Main receptor: G-CSF receptor.
+
+Macrophage colony-stimulating factor / colony-stimulating factor 1 (M-CSF / CSF-1)
+Main function: Monocyte/macrophage development and survival.
+Mainly secreted by: Stromal cells, fibroblasts, endothelial cells, macrophages.
+Main receptor: CSF-1 receptor.
+
+Granulocyte-macrophage colony-stimulating factor (GM-CSF)
+Main function: Granulocyte and macrophage production; myeloid-cell activation; dendritic-cell support in some contexts.
+Mainly secreted by: T cells, macrophages, epithelial cells, endothelial cells, fibroblasts.
+Main receptor: GM-CSF receptor.
+
+Stem cell factor / KIT ligand (SCF)
+Main function: Hematopoietic stem/progenitor support and mast-cell development/survival.
+Mainly secreted or displayed by: Stromal cells, endothelial cells, fibroblasts.
+Main receptor: KIT / CD117.
+
+FMS-like tyrosine kinase 3 ligand (FLT3 ligand)
+Main function: Dendritic-cell development and hematopoietic progenitor support.
+Mainly secreted/displayed by: Stromal cells, T cells, bone marrow microenvironment cells.
+Main receptor: FLT3 / CD135.
+
+Vascular endothelial growth factor (VEGF)
+Main function: Angiogenesis, vascular permeability, wound healing, tumor blood-vessel formation.
+Mainly secreted by: Macrophages, endothelial cells, fibroblasts, tumor cells, hypoxic tissue cells.
+Main receptor: VEGF receptors.
+
+B-cell activating factor / B lymphocyte stimulator (BAFF / BLyS)
+Main function: Mature B-cell survival and maintenance; excess can support autoimmunity.
+Mainly secreted/displayed by: Myeloid cells, dendritic cells, monocytes, macrophages, neutrophils, stromal cells.
+Main receptor: BAFF-R, TACI, BCMA.
+
+A proliferation-inducing ligand (APRIL)
+Main function: Plasma-cell survival, long-lived antibody responses, IgA support.
+Mainly secreted by: Myeloid cells, stromal cells, epithelial cells.
+Main receptor: TACI and BCMA.
+
+
+C. MEMBRANE-BOUND CONTACT LIGANDS
+
+Major histocompatibility complex class I-peptide (MHC I-peptide)
+Main function: Displays intracellular peptides to CD8 T cells.
+Mainly displayed by: Nearly all nucleated cells.
+Main receptor: TCR on CD8 T cells, with CD8 coreceptor.
+
+Major histocompatibility complex class II-peptide (MHC II-peptide)
+Main function: Displays extracellularly derived peptides to CD4 T cells.
+Mainly displayed by: Dendritic cells, macrophages, B cells, some activated epithelial/endothelial cells in inflammation.
+Main receptor: TCR on CD4 T cells, with CD4 coreceptor.
+
+CD40 ligand / cluster of differentiation 154 (CD40L / CD154)
+Main function: Provides essential help for B-cell class switching, germinal centers, memory B cells, and long-lived plasma cells; also activates macrophages and dendritic cells.
+Mainly displayed by: Activated CD4 T cells, especially Tfh cells; also some platelets and other activated immune cells.
+Main receptor: CD40.
+
+B7-1 / cluster of differentiation 80 and B7-2 / cluster of differentiation 86 (B7-1 / CD80 and B7-2 / CD86)
+Main function: Costimulates T cells through CD28; can inhibit through CTLA-4.
+Mainly displayed by: Dendritic cells, macrophages, B cells, other activated APCs.
+Main receptor: CD28 and CTLA-4.
+
+Inducible T-cell costimulator ligand (ICOSL)
+Main function: Supports Tfh differentiation, Tfh maintenance, and germinal center help.
+Mainly displayed by: B cells, dendritic cells, macrophages, some stromal/endothelial cells.
+Main receptor: ICOS.
+
+Programmed death-ligand 1 and programmed death-ligand 2 (PD-L1 / PD-L2)
+Main function: Inhibits T-cell activation and limits tissue damage; supports immune tolerance/exhaustion pathways.
+Mainly displayed by: APCs, tissue cells, tumor cells; PD-L2 mainly on dendritic cells and macrophages.
+Main receptor: PD-1.
+
+Fas ligand / cluster of differentiation 95 ligand (FasL / CD95L)
+Main function: Triggers apoptosis in Fas-expressing target cells.
+Mainly displayed by: Activated T cells, NK cells, some immune-privileged tissues.
+Main receptor: Fas / CD95.
+
+OX40 ligand (OX40L)
+Main function: Supports T-cell survival, expansion, and memory formation.
+Mainly displayed by: Activated APCs, including dendritic cells, B cells, macrophages.
+Main receptor: OX40 / CD134.
+
+4-1BB ligand / cluster of differentiation 137 ligand (4-1BBL / CD137L)
+Main function: Supports CD8 T-cell and NK-cell survival, proliferation, and cytotoxic responses.
+Mainly displayed by: Activated APCs, macrophages, dendritic cells, B cells.
+Main receptor: 4-1BB / CD137.
+
+Cluster of differentiation 70 (CD70)
+Main function: Supports T-cell and B-cell activation, survival, and differentiation.
+Mainly displayed by: Activated dendritic cells, B cells, T cells.
+Main receptor: CD27.
+
+TNF-related apoptosis-inducing ligand (TRAIL)
+Main function: Can trigger apoptosis in susceptible target cells, especially abnormal or stressed cells.
+Mainly displayed/secreted by: NK cells, cytotoxic T cells, dendritic cells, monocytes, some tissue cells.
+Main receptor: TRAIL receptors, especially death receptor 4 and death receptor 5 (DR4/DR5).
+
+
+D. DISPLAYED OR SURFACE-BOUND LIGANDS
+
+Intact antigen
+Main function: Specific native antigen recognition by B cells; microbial or damage patterns on or within antigen can also trigger innate sensing.
+Mainly displayed by: Pathogens, free proteins or particles, toxins, follicular dendritic cells, immune complexes.
+Main receptor: BCR for specific native antigen recognition; PRRs for conserved microbial or damage patterns.
+
+Microbial pathogen-associated molecular patterns (microbial PAMPs)
+Main function: Innate immune sensing and early inflammation.
+Mainly displayed by: Bacteria, fungi, viruses, parasites, microbial products.
+Main receptor: PRRs such as TLRs, CLRs, NLRs, RLRs, scavenger receptors, and cytosolic nucleic-acid sensors.
+
+C3d-coated antigen
+Main function: Lowers B-cell activation threshold and strengthens BCR signaling.
+Mainly displayed on: Complement-coated microbes or immune complexes.
+Main receptor: CR2 / CD21 on B cells, often acting with the BCR coreceptor complex.
+
+Complement-coated target
+Main function: Opsonization, phagocytosis, immune-complex clearance, and stronger B-cell activation depending on complement fragment.
+Mainly displayed on: Microbes, apoptotic cells, immune complexes, damaged cells.
+Main receptor: CR1, CR2/CD21, CR3, CR4, depending on the complement fragment.
+
+Antibody-coated antigen / immune complex
+Main function: Promotes phagocytosis, antigen capture, immune-cell activation, or inhibition depending on Fc receptor.
+Mainly displayed on: Microbes, parasites, infected cells, tumor cells, immune complexes.
+Main receptor: Fc receptors.
+
+IgE bound to antigen
+Main function: Activates mast cells and basophils during allergy and parasite responses.
+Mainly displayed on: Antigen cross-linking IgE that is already bound to Fc-epsilon-RI.
+Main receptor: Fc-epsilon-RI on mast cells and basophils.
+
+
+D. COMPLEMENT FRAGMENTS AS LIGANDS
+
+Complement component 3b (C3b)
+Main function: Opsonization, phagocytosis, complement amplification.
+Mainly generated by: Complement activation in plasma/tissue fluids.
+Main receptor: Complement receptor 1 (CR1/CD35); C3b breakdown products also support binding by CR3/CR4.
+
+Complement component 4b (C4b)
+Main function: Opsonization and classical/lectin pathway C3 convertase formation.
+Mainly generated by: Classical and lectin complement pathway activation.
+Main receptor: Complement receptor 1 (CR1/CD35) can bind C4b.
+
+Inactive complement component 3b (iC3b)
+Main function: Opsonization and phagocyte binding.
+Mainly generated by: Cleavage/inactivation of C3b on surfaces.
+Main receptor: CR3 and CR4.
+
+Complement component 3d (C3d)
+Main function: B-cell coreceptor activation through CR2/CD21.
+Mainly generated by: Further breakdown of C3b/iC3b on antigen surfaces.
+Main receptor: CR2 / CD21.
+
+Complement component 3a (C3a)
+Main function: Anaphylatoxin; inflammation, mast-cell activation, leukocyte effects.
+Mainly generated by: Complement activation.
+Main receptor: C3a receptor.
+
+Complement component 5a (C5a)
+Main function: Strong anaphylatoxin and chemoattractant; neutrophil activation and recruitment.
+Mainly generated by: Complement activation.
+Main receptor: C5a receptor.
+
+Complement component 5b-9 / membrane attack complex (C5b-9 / MAC)
+Main function: Forms pores in target membranes and can lyse susceptible microbes, especially gram-negative bacteria.
+Mainly generated by: Terminal complement pathway activation.
+Main receptor: Not a receptor-ligand signal; acts as a membrane pore complex.
+
+
+E. ADHESION AND HOMING LIGANDS
+
+Intercellular adhesion molecule 1 (ICAM-1)
+Main function: Firm adhesion of leukocytes to endothelium or APCs.
+Mainly displayed by: Endothelial cells, APCs, many inflamed tissue cells.
+Main receptor: LFA-1.
+
+Vascular cell adhesion molecule 1 (VCAM-1)
+Main function: Leukocyte adhesion and tissue entry during inflammation.
+Mainly displayed by: Activated endothelial cells and stromal cells.
+Main receptor: VLA-4.
+
+Endothelial selectin and platelet selectin (E-selectin and P-selectin)
+Main function: Leukocyte rolling on activated endothelium.
+Mainly displayed by: Activated endothelial cells; P-selectin also by platelets.
+Main receptor: Selectin ligands such as PSGL-1.
+
+Addressins
+Main function: Tissue-specific lymphocyte homing.
+Mainly displayed by: Specialized endothelial cells such as high endothelial venules.
+Main receptor: Homing receptors such as L-selectin or integrins, depending on tissue.
+
+Peripheral node addressin (PNAd)
+Main function: Supports lymphocyte entry into peripheral lymph nodes.
+Mainly displayed by: High endothelial venules in lymph nodes.
+Main receptor: L-selectin / CD62L.
+
+Mucosal addressin cell adhesion molecule 1 (MAdCAM-1)
+Main function: Supports gut-associated lymphocyte homing.
+Mainly displayed by: Mucosal endothelial cells, especially in gut-associated lymphoid tissues.
+Main receptor: alpha4beta7 integrin.
+
+Sphingosine-1-phosphate (S1P)
+Main function: Guides lymphocyte exit from lymph nodes into lymph and blood.
+Mainly produced by: Blood, lymph, endothelial cells, and other tissue sources that create S1P gradients.
+Main receptor: S1P receptor 1 (S1PR1).
+
+
+
+
+V. IMMUNE RECEPTORS
+
+A. RECOGNITION RECEPTORS
+Main idea: Detect danger, recognize pathogens, or recognize specific antigen.
+
+1. PATTERN RECOGNITION RECEPTORS / PRRs
+Found mainly on: Innate immune cells and epithelial cells.
+Also found on: Some adaptive immune cells, especially B cells and certain T-cell subsets, where they modulate activation.
+Recognize: PAMPs and DAMPs.
+
+Pathogen-associated molecular patterns (PAMPs)
+Meaning: Conserved microbial structures.
+
+Damage-associated molecular patterns (DAMPs)
+Meaning: Signals of cellular stress, injury, or tissue damage.
 —-------------------------------------------------
 
-Inhibitory signal in ALL activated T cells:
--CTLA-4 receptors on the T cell’s surface about 2 days after activation CTLA-4 is upregulated (initially stored inside the cell, then moves to the surface)
->B7 binds to the CTLA-4 receptor better than CD28 on T cells
-   → suppresses activation
-*Tregs always express CTLA-4 > suppresses other T cells
+a. Toll-like receptors (TLRs)
+Location: Cell surface or endosomes.
+Main function: Detect microbial products and rapidly induce inflammation/cytokine production.
+Human note: Humans have 10 functional TLRs, TLR1-TLR10.
 
-A few peripheral tolerance mechanisms:
--Another molecule, programmed death 1 (PD‐1), can also help deactivate T cells. Like CTLA‐4, expression of PD‐1 on the surface of T cells increases after activation. Its ligand, PD‐L1, appears on the surface of many different cell types in tissues that are under attack (inflamed tissues). When the PD‐L1 protein on inflamed tissues binds to PD‐1 on T cells that have been at work for a while, the T cells become functionally inhibited or exhausted. 
+Cell-surface TLRs
+Main function: Detect extracellular microbial structures.
+Examples: TLR1/2 detects bacterial lipopeptides; TLR2/6 detects lipoteichoic acid, lipopeptides, and fungal components; TLR4 detects LPS from gram-negative bacteria; TLR5 detects flagellin.
 
+Endosomal TLRs
+Main function: Detect pathogen nucleic acids.
+Examples: TLR3 detects dsRNA; TLR7/8 detect ssRNA; TLR9 detects CpG DNA.
+—------------------------------------------
 
--Chronic antigen exposure (persistent infection, cancer, prolonged stimulation) → sustained expression of inhibitory receptors immune cells: PD-1 TIM-3 LAG-3 CTLA-4 (sometimes) forms.  
+b. C-type lectin receptors (CLRs)
+Location: Cell surface.
+Main function: Detect carbohydrate-rich microbial structures, especially fungi, mycobacteria, and some parasites.
+Examples: Dectin-1, Dectin-2, mannose receptor / CD206, DC-SIGN, Mincle, Langerin.
+—------------------------------------------------
 
--Activation-induced cell death (AICD) → T cells repeatedly stimulated over long periods (including persistent self antigens) → apoptotic pathways activated → elimination of potentially harmful T cells
--------------------------------------------
+c. NOD-like receptors (NLRs)
+Location: Cytoplasm.
+Main function: Detect infection, cellular stress, tissue damage, and bacterial peptidoglycan fragments.
 
-T Regulatory Cells (Tregs) 
-*considered a separate category from helper and killer T cells (but closer to a helper T cell)
+Inflammasome-forming NLRs
+Examples: NLRP3, NLRP1, NLRC4.
+Detect: Microbes, microbial toxins, ATP from injured cells, ROS, mitochondrial damage, crystals, particulate matter.
+Mechanism: NLR + ASC + pro-caspase-1 -> active caspase-1.
+Results: IL-1 beta production, IL-18 production, pyroptosis.
 
--thymic Tregs (tTregs)    aka “natural Tregs” (older term)
--in the Thymus, developing T cell recognizes self peptide-MHC with moderate to high affinity (but not very high enough for deletion) + signals favoring Treg fate  > CD4+ >  FOXP3 expression  > naive tTreg is formed  > leave thymus and travel to secondary lymphoid organ > there the naive tTreg cells can get activated. 
--Once activated, tTreg cells are able to suppress the activation of potentially self‐reactive T cells. How nTregs accomplish this suppression is incompletely understood. One likely mechanism is that when an Treg cell recognizes its cognate antigen displayed by an antigen presenting cell, the nTreg cell acts to reduce expression of co‐stimulatory molecules on that APC. nTregs express high levels of CTLA‐4 proteins on their surface, and it has been proposed that when CTLA‐4 plugs into the B7 co‐stimulator protein on an APC, the tTreg “plucks” B7 proteins from the surface of the APC. The resulting decrease B7 proteins on the APC surface makes it more difficult for the APC to activate potentially self‐reactive effector T cells. 
--Activated/Effector Tregs upregulate molecules, such as CTLA-4, ICOS, TIGIT, CD25, PD-1 (sometimes), chemokine receptors that direct it to a specific tissue:
-(path A- Follicular pathway)
--activated Treg > upregulate CXCR5 + BCL6 > become “T follicular regulatory (Tfr)” cells > enter follicles/germinal centers > regulate Tfh cells and B-cell responses to prevent excessive or autoreactive antibody responses
-(path B- Tissue adaptation)
--activated Treg > express tissue-directing receptors > migrate to tissues > differentiate into tissue- adapted Tregs
--ex. adipose Tregs, gut Tregs, skin Tregs, muscle Tregs, tumor-associated Tregs
-*not all Tregs must first become activated in secondary lymphoid organs before entering tissues (but majority do)
+Regulatory NLRs
+Examples: NLRX1, NLRP6, NLRP12.
+Main function: Limit excessive inflammation.
 
--induced Tregs (iTreg)    aka “peripheral Tregs”
--Just as naive CD4+ T cells can be encouraged to become Th1, Th2, or Th17 cells, if activated in an environment that is rich in TGFβ can be “induced” to become iTregs. 
--In secondary lymphoid organs or peripheral tissues (esp. in the gut, mucosal, and peripheral tissues; in TGF-β + IL-2 + low inflammatory environment + often chronic/repeated harmless exposure) > naive CD4+ T cells  >FOXP3 induction  >  iTreg 
--main functions: tolerance to harmless external antigens, food tolerance, microbiome tolerance, mucosal tolerance, environmental tolerance
-> main cytokines produced by iTregs: IL-10 + TGF-β
+NOD1
+Detects: Peptidoglycan fragments, especially from gram-negative bacteria.
+Result: Activates NF-kappaB and increases inflammatory cytokines such as TNF-alpha and IL-6.
 
->>tTregs and iTreg’s targets of their suppressive activities appear to be different. Whereas the role of tTregs is to provide protection against T cells which have the potential to react against self antigens and cause autoimmunity, the main function of iTregs is to keep the immune system from overreacting to foreign invaders.
+NOD2
+Detects: Muramyl dipeptide / MDP from both gram-positive and gram-negative bacteria.
+Result: Activates NF-kappaB and increases inflammatory cytokines such as TNF-alpha and IL-6.
+—------------------------------------
+d. RIG-I-like receptors (RLRs)
+Examples: RIG-I and MDA5.
+Location: Cytoplasm; signal through MAVS on the mitochondrial outer membrane.
+Detect: Viral RNA.
+Result: Induce type I interferons, especially IFN-alpha and IFN-beta.
+—----------------------------------
 
-*Tregs can function as an IL‐2 sink, soaking up the IL‐2 which T cells need to proliferate.
+e. Cytosolic DNA sensors
+Main idea: DNA in cytoplasm suggests viral infection, bacterial infection, cell damage, or mitochondrial damage.
 
-****************************************
+Absent in melanoma 2 (AIM2)
+Detects: Cytoplasmic double-stranded DNA.
+Function: Forms inflammasome.
+Mechanism: AIM2 + ASC + pro-caspase-1 -> active caspase-1.
+Results: IL-1 beta production, IL-18 production, pyroptosis.
 
-B CELLS 
--matures in the bone marrow
--B cell tolerance occurs in the bone marrow
+cGAS-STING pathway
+Components: cGAS is the cytoplasmic DNA sensor; STING is a signaling protein on the ER membrane.
+Detects: Cytoplasmic double-stranded DNA.
+Mechanism: cGAS binds dsDNA -> produces cGAMP -> activates STING -> activates IRF3 and NF-kappaB.
+Result: Type I interferon production and antiviral response.
+—-------------------------------------
 
--Development sequence:
-   1.Hematopoietic stem cell
-   2.Common lymphoid progenitor
-   3.Pro-B cell
-      -heavy chain of the B cell receptor rearrangement begins
-   4.Pre-B cell
-      -successful heavy tested
-         >if unsuccessful the B cell dies
-      -light chain rearrangement begins
-   5.Immature B cell
-      -complete IgM BCR expressed
-   6.Mature B cell (still naive)
-      -expresses IgM and IgD
-
-*CD20 is on surface of immature B cells   (rituximab- monoclonal antibody binds to CD20) > destruction by antibody-dependent cellular cytotoxicity  >>1st monoclonal antibody approved for cancer treatment (non-Hodkin lymphoma)
-
--B-cell receptor (BCR)
--The BCR is made up of 2 kinds of proteins, the heavy chain (Hc) and light chain (lc), and each is encoded by genes that are assembled from gene segments all from chromosome 14.
--We need about 100 million different antibodies to protect us from every possible invader. However, human cells have only a total of 25,000 genes
->possible because mature antibody genes are made by modular design & junctional diversity
-(only a small amount of genetic info is required to create incredible antibody diversity)
-
--The BCR is connected to 2 accessory proteins- Igα and Igβ which extend inside of the cell to help signal.
-
--B cell receptor’s co-receptor complex:   
-   CD19 + “complement receptor 2 (CR2)” + CD81
-         -CD19 main signaling amplifier   (CD19 is target of CAR-T therapy)
-               → lowers activation threshold
-               → enhances activation strength
-         -CR2 binds complement C3d, C3dg, iC3b
-               → lowers activation threshold
-         -CD81- stabilizes and organizes the complex 
-                    -helps CD19 function properly
-*C19 is expressed on the surface of most leukemias and lymphomas
-   >CAR T cell therapy has been used successfully 
-
--naive B cells express CXCR5, which attracts them into CXCL13-rich follicles (mainly located within B-cell follicles of secondary lymphoid organs).
-—--------------------------------------
-
-B cell activation
--Two main types:
-1. (T-independent B cell activation)
--non-protein antigens (polysaccharides, lipids, repetitive structures)
-2 ways:
--(TI-1) T-independent type-1   (innate receptors)   
-      ex. TLR-mediated activation (e.g., LPS)
--(TI-2) T- independent type2       (BCR-driven activation) 
-      ex. strong BCR cross-linking (repetitive epitopes)
-   *complement-assisted activation (via CR2 coreceptor) is esp important for TI-2 responses (not as important for TI-1 since its signaling is already strong)
-      
-outcomes:
-   →Mainly IgM production (some IgD production occurs but its significance is uncertain)
-         →Minimal class switching
-         →No affinity maturation
-   →Short-lived plasma cells (weak or no memory)
-—---------------------
-
-2 (T-dependent B-cell activation)
-Signal 1  
--antigens flow via lymph to follicles in secondary lymphoid organs (antigens alone, or opsonized by complement or later antibodies).  
--the resting follicles are called primary follicles (which are loose networks of follicular dendritic cells (fDCs) embedded in regions of the secondary lymphoid organs that are rich in B cells).
-   *despite the name, fDCs are stromal support cells of follicles rather than true antigen-presenting dendritic cells.
--the fDCs have receptors that captures complement fragments and constant regions of antibodies, and then they display these antigens on their surface for B cells 
-   >can display for weeks or months
--It can take up to a few days for migratory cDCs in infected tissues to load up on antigen and travel to nearby lymph nodes. In contrast, antigen drained from infected tissues can reach lymph nodes much more quickly. Consequently, lymph node resident cDCs can take up this antigen and help initiate an adaptive immune response.
--Naive B cells mainly hang out in the follicles and they bind DIRECTLY to intact antigen (antigen cross-linking multiple BCRs usually produce a much stronger signal).  
-   > then internalizes the antigen, processes it into peptides, presents them on its MHC class II 
-   >activated helper follicular T cell (Tfh) cell with matching TCR specificity recognizes the peptide–MHC II complex on the B cell 
--once this happens, the follicle begins to grow and become a center of B cell development. Such an active lymphoid follicle is called a “secondary lymphoid follicle” or germinal center.
--the B cells will continue to divide, especially if cross-linked antigen continues to stimulate it.  They divide so much that they push other B cells away and form a dense “dark zone”
-
-Signal 2 (essential costimulation) by follicular helper T cells (Tfh)
--signals 2 and 3 begins at the T–B border in the follicle 
--the above B cells will die by apoptosis if no co-stimulation
--After follicular helper T cells have been activated in the T cell zones of secondary lymphoid organs, they move to the lymphoid follicles to give help to B cells. 
--The B cells also provide the co‐stimulation (e.g., B7) required for the Tfh cell to remain active
--T follicular helper (Tfh) cells that has already been activated (with matching TCR with the B-cells antigen being presented)  used their CD40L expressed  > binds to CD40 receptors on B cell
-   >this is essential for full B-cell activation >>germinal center formation, class switching process, affinity maturation, memory formation 
-
-*B cell is not very good at antigen presentation, because it expresses only low levels of class II MHC molecules and little or no B7. However, once a B cell has been activated, the levels of class II MHC molecules and B7 proteins on its surface increase dramatically.
-*The important point here is that for this bidirectional stimulation to work, the Tfh cell’s receptors and the B cell’s receptors must recognize the same antigen – or more precisely,parts of the same antigen. 
-So if a B cell hypermutates so that its BCRs bind to, internalize, and present a self antigen, that new antigen will not be recognized by the “needy” Tfh cell’s receptors. As a result, the B and T cells will not be able to collaborate to stimulate each other. They will have lost their “common interest.” And because B cells require Tfh cell help to survive in the germinal center, the interdependence of B and Tfh cells helps keep B cells “on track” as they undergo somatic hypermutation. 
-
-Signal 3 (cytokine help) 
--Generally the same activated Tfh/helper T cell mainly provides the cytokines to its activating B cell, but cytokines can also come from the environment (although lesser impact).
-
--(Tfh) → secretes IL-21 (core Tfh cytokine) 
--major germinal center cytokine 
-   →supports germinal center formation, enhances class switching and affinity maturation, promotes B-cell proliferation, drives plasma-cell differentiation 
-
--(Th1-like Tfh cells / Th1 cells) → secretes IFN-γ  
-   → activates STAT1
-   → promotes opsonizing/complement-fixing IgG subclasses
-   → important for intracellular pathogen responses 
-
--(Th2-like Tfh cells / Th2 cells) → secretes IL-4 
-   → activates STAT6 
-   → promotes IgE (and some IgG subclass) switching (important for parasite/allergy responses)
-
--(Th2)  →  IL-5 
-   → supports IgA production 
-   → supports eosinophil responses
-   → opsonizing/complement-fixing IgG subclasses (important for intracellular pathogen responses)
-
--(Tregs, DCs, epithelial/stromal cells)  → secretes TGF-β 
-   → promotes IgA switching -important for mucosal immunity -contributes to immune regulation/tolerance
-
--(mainly from APCs/innate immune cells)  → secretes IL-6 
-   → supports plasma-cell differentiation 
-   → contributes to Tfh development and antibody responses
-—----------------------
-
-Post-Activation Fates 
--After Signals 1–3, activated B cells can follow two major pathways:
-
-1. (some activated B cells) Extrafollicular response-occurs outside follicles (early rapid response) 
-   -rapid plasma-cell generation > mainly produces IgM -low-affinity antibodies 
-   -short-lived plasma cells with limited or minimal memory formation 
-
-2. Germinal Center (GC) reaction  (main high-quality adaptive response) 
--Signal 1 usually occurs in the follicles
--Then Signals 2 and 3 usually occur at the T–B border, then some activated B cells migrate back into the follicle and form germinal centers. 
-(dark zone) 
--proliferation + mutation phase
-   -B cells become centroblasts 
-   -Rapid proliferation occurs 
-   -Class switch recombination (CSR) occurs 
-         -The B cell changes the antibody class/isotype:
-         -IgM → IgG, IgA, or IgE
-         -The antigen-binding specificity stays the same.
-   -key enzyme: AID (activation-induced cytidine deaminase) is required for SHM and CSR 
-      >to generate diversified antibody varients
-   -Somatic hypermutation (SHM) of Ig variable regions 
-         -The B cell intentionally introduces small mutations into the variable region of its antibody genes, which is the region that binds the antigen
-         -Some mutations make the antibody bind better, while others make it bind worse.
-(light zone) 
--selection + survival/instruction phase
-   -B cells become centrocytes 
-   -B cells compete for intact antigen displayed on fDCs 
-   -Only higher-affinity B cells capture enough antigen 
-   -B cells then present peptide–MHC II to Tfh cells 
-   -Tfh cells provide: -CD40L, IL-21, and other cytokines > survival signals 
-   -Lower-affinity B cells fail selection and undergo apoptosis
->>>cyclic affinity maturation loop C -B cells repeatedly cycle between the above zones progressively increasing antibody affinity
-outcomes:
-   →Class-switched antibodies (IgG, IgA, IgE) + Affinity maturation, resulting in high-affinity antibodies produced by plasma cells (which only live for a few days) 
-   →Memory B cells (long-term immunity) 
-   →Long-lived plasma cells (sustained antibody production)- makes antibodies for months or even yrs
+f. Scavenger receptors
+Location: Cell surface.
+Main function: Clearance, phagocytosis, and some inflammatory signaling.
+Examples: cluster of differentiation 36 (CD36), scavenger receptor A (SR-A), macrophage receptor with collagenous structure (MARCO).
 
 
-When an invader is first encountered, all the B cells which could recognize that particular invaders are virgins, so the important APCs are activated dendritic cells. Then, while the battle is raging, activated macrophages on the front lines present antigen to warring T cells to keep them pumped up. Later in the infection, or if this same invader is encountered again, experienced B cells are extremely important APCs – because they can quickly activate helper T cells by concentrating small amounts of antigen for presentation.
------------------------------------------------------------------------
-—-------------------------------------------------------------------
 
-ANTIBODIES:
--B cells can make antibodies that recognize any organic molecule (but T cells specialize in recognizing protein antigens)
--light chains “Antigen Binding Region (Fab)” + heavy chains “Fc Region”-the constant region
--produced by plasma cells:
+2. SPECIFIC ANTIGEN RECOGNITION RECEPTORS
+definitions:
+Cognate antigen- Antigen recognized by a specific TCR or BCR.
+Epitope- Specific region physically recognized by a receptor or antibody.
 
-(antibody types)
-IgM
--First produced
--Pentamer
--Strong complement activator
--Short half-life (~5 days)
+T-cell receptor (TCR)
+Associated signaling complex: cluster of differentiation 3 (CD3).
+Coreceptors: cluster of differentiation 4 (CD4) or cluster of differentiation 8 (CD8).
+Recognizes: Peptide-MHC.
 
-IgD
-- B cell receptor on naïve B cells (with IgM)
-- Regulates activation
-- Minimal circulating levels
+B-cell receptor (BCR)
+Associated signaling complex: immunoglobulin alpha / immunoglobulin beta (Ig-alpha / Ig-beta; CD79A/CD79B).
+Coreceptor complex: cluster of differentiation 19 / cluster of differentiation 21 / cluster of differentiation 81 (CD19/CD21/CD81).
+Recognizes: Native/intact antigen.
 
-IgG
-- Most abundant in blood (75%)
--different subtypes (IgG1 is good for allowing opsonization by phagocytes; IgG3 is good at activating the Complement cascade and also NK cells can bind to the Fc regions of IgG3 well for direct cell killing)
-- Opsonization (phagocytosis)
-- “antibody-dependent cellular cytotoxicity (ADCC)” via NK cells
-- Long half-life (~21 days)
-- Crosses placenta
 
-IgA
-- Mucosal immunity (GI, respiratory, saliva, tears) 
--resistent to stomach acid
--secreted into breast milk
-- Dimer
 
-IgE
--to fight Parasites (helminths)
--after produced its Fc region binds to basophils and mast cells 
--involved in allergic reaction and anaphylaxis
+3. COMPLEMENT RECEPTORS
 
-****************************************************
+Complement receptor 1 / CD35 (CR1)
+Binds: C3b and C4b.
+Main function: Immune complex clearance and complement regulation.
 
--Roughly 5% of Americans suffer from some form of autoimmune disease.
+Complement receptor 2 / CD21 (CR2)
+Binds: C3d.
+Main function: B-cell coreceptor that enhances B-cell activation.
 
-4 different types of allergies
+Complement receptor 3 (CR3)
+Binds: iC3b and related complement-coated targets.
+Main function: Phagocytosis and leukocyte adhesion.
+
+Complement receptor 4 (CR4)
+Binds: iC3b and related complement-coated targets.
+Main function: Phagocytosis, adhesion, and myeloid-cell interactions with complement-opsonized targets.
+
+
+
+4. Fc RECEPTORS
+
+Fc receptors
+Bind: Fc regions of antibodies.
+Commonly expressed by: Macrophages, neutrophils, NK cells, eosinophils, mast cells, basophils.
+
+Fc-gamma receptors (Fc-gamma-R)
+Bind: IgG.
+Main function: Phagocytosis, antibody-dependent cellular cytotoxicity (ADCC), immune-cell activation or inhibition depending on receptor subtype.
+
+Fc-gamma receptor III / cluster of differentiation 16 (Fc-gamma-RIII / CD16)
+Bind: IgG on antibody-coated target cells.
+Main function: NK-cell antibody-dependent cellular cytotoxicity (ADCC); also expressed by some myeloid cells.
+
+Fc-epsilon receptor I (Fc-epsilon-RI)
+Bind: IgE.
+Main function: Mast-cell and basophil activation, allergy, anaphylaxis, parasite responses.
+
+Fc-epsilon receptor II / cluster of differentiation 23 (Fc-epsilon-RII / CD23)
+Bind: IgE.
+Main function: Low-affinity IgE receptor involved in IgE regulation and B-cell/allergic immune responses.
+
+Fc-alpha receptor (Fc-alpha-R)
+Bind: IgA.
+Main function: Mucosal immune responses and phagocyte activation.
+
+Neonatal Fc receptor (FcRn)
+Bind: IgG.
+Main function: IgG recycling, prolonged IgG half-life, placental IgG transfer.
+
+
+
+5. NK-CELL RECOGNITION RECEPTORS
+
+Natural killer group 2D (NKG2D)
+Type: Activating receptor.
+Main function: Detects stress ligands and promotes killing.
+
+Natural cytotoxicity receptors (NKp30, NKp44, NKp46)
+Type: Activating receptors.
+Main function: Promote NK-cell recognition and killing of abnormal cells.
+
+Killer-cell immunoglobulin-like receptors (KIRs)
+Type: Inhibitory or activating depending on subtype; high-yield role is inhibitory.
+Main function: Recognize MHC I and help prevent killing of healthy cells.
+
+Natural killer group 2A (NKG2A)
+Type: Inhibitory receptor.
+Main function: Recognizes MHC-related ligands and supports tolerance toward healthy cells.
+
+
+
+B. CYTOKINE RECEPTORS
+-Tells immune cells “what to do” after cytokine binding.
+
+Interleukin receptors
+Examples: IL-2 receptor, IL-4 receptor, IL-6 receptor, IL-7 receptor, IL-10 receptor, IL-12 receptor, IL-21 receptor.
+Main function: Control T-cell growth, differentiation, inflammation, regulation, B-cell help, and barrier immunity.
+
+TGF-beta receptors
+Main function: Immune suppression, tissue repair, fibrosis, Treg/Th17 context-dependent differentiation.
+
+Interferon receptors
+Examples: type I interferon receptor (IFNAR), IFN-gamma receptor, IFN-lambda receptor.
+Main function: Antiviral defense, macrophage activation, antigen-presentation changes.
+
+Tumor necrosis factor receptors (TNF receptors)
+Examples: tumor necrosis factor receptor 1 (TNFR1) and tumor necrosis factor receptor 2 (TNFR2).
+Main function: Inflammation, survival, apoptosis, tissue activation depending on receptor/context.
+
+Colony-stimulating factor receptors
+Examples: G-CSF receptor, GM-CSF receptor, CSF-1 receptor.
+Main function: Myeloid-cell development, survival, and activation.
+
+
+C. COSTIMULATORY RECEPTORS
+
+Cluster of differentiation 28 (CD28)
+Ligands: B7-1/CD80 and B7-2/CD86.
+Main function: T-cell costimulation.
+
+Inducible T-cell costimulator (ICOS)
+Ligand: ICOSL.
+Main function: Tfh differentiation, Tfh maintenance, germinal center help.
+
+Cluster of differentiation 40 (CD40)
+Ligand: CD40L/CD154.
+Main function: B-cell class switching, germinal centers, memory, long-lived plasma cells; also activates macrophages and dendritic cells.
+
+OX40 / cluster of differentiation 134 (OX40 / CD134)
+Ligand: OX40L.
+Main function: T-cell survival, expansion, memory formation.
+
+4-1BB / cluster of differentiation 137 (4-1BB / CD137)
+Ligand: 4-1BBL/CD137L.
+Main function: CD8 T-cell and NK-cell survival, proliferation, cytotoxic responses.
+
+Cluster of differentiation 27 (CD27)
+Ligand: CD70.
+Main function: T-cell and B-cell activation, survival, differentiation.
+
+
+D. INHIBITORY AND REGULATORY RECEPTORS
+
+Cytotoxic T-lymphocyte-associated protein 4 (CTLA-4)
+Ligands: CD80/CD86.
+Main function: Inhibits early T-cell activation by competing with CD28.
+High-yield note: Strongly expressed by Tregs; can also appear on activated T cells. CTLA-4 can compete for and remove B7 molecules from APCs, reducing costimulation.
+
+Programmed cell death protein 1 (PD-1)
+Ligands: PD-L1 and PD-L2.
+Main function: Suppresses proliferation, cytokine production, and effector function; associated with exhaustion during chronic stimulation.
+
+Lymphocyte activation gene 3 (LAG-3)
+Main function: Inhibitory checkpoint receptor involved in T-cell regulation/exhaustion.
+
+T-cell immunoglobulin and mucin-domain containing 3 (TIM-3)
+Main function: Inhibitory/exhaustion-associated receptor in chronic stimulation contexts.
+
+T-cell immunoreceptor with Ig and ITIM domains (TIGIT)
+Main function: Inhibitory receptor involved in T-cell and NK-cell restraint.
+
+KIRs
+Ligand: MHC I.
+Main function: Inhibit NK-cell killing of healthy cells.
+
+NKG2A
+Main function: Inhibitory NK receptor that supports tolerance toward healthy cells.
+
+
+E. DEATH RECEPTORS
+
+Fas / cluster of differentiation 95 (Fas / CD95)
+Ligand: FasL/CD95L.
+Main function: Triggers apoptosis of Fas-expressing target cells.
+
+Tumor necrosis factor receptors (TNF receptors)
+Ligand: TNF-alpha.
+Main function: Inflammation, survival, or apoptosis depending on receptor and context.
+
+TRAIL receptors / death receptor 4 and death receptor 5 (TRAIL receptors / DR4 and DR5)
+Ligand: TNF-related apoptosis-inducing ligand (TRAIL).
+Main function: Trigger apoptosis in susceptible target cells.
+
+
+F. MIGRATION RECEPTORS
+
+Chemokine receptors
+Main idea: Tell immune cells where to go.
+
+C-X-C chemokine receptor 1 / C-X-C chemokine receptor 2 (CXCR1 / CXCR2)
+Ligand: CXCL8 / IL-8.
+Main function: Neutrophil recruitment.
+
+C-C chemokine receptor 7 (CCR7)
+Ligands: CCL19 and CCL21.
+Main function: Lymph node homing and movement to T-cell zones.
+
+C-X-C chemokine receptor 5 (CXCR5)
+Ligand: CXCL13.
+Main function: B-cell follicle migration and Tfh localization.
+
+C-X-C chemokine receptor 4 (CXCR4)
+Ligand: CXCL12.
+Main function: Bone marrow homing and hematopoiesis.
+Clinical note: HIV coreceptor for X4-tropic strains.
+
+C-C chemokine receptor 5 (CCR5)
+Ligands: CCL3, CCL4, CCL5 and related inflammatory chemokines.
+Main function: Inflammatory trafficking and Th1-cell recruitment.
+Clinical note: HIV coreceptor for R5-tropic strains.
+
+C-C chemokine receptor 3 (CCR3)
+Ligand: CCL11 / eotaxin.
+Main function: Eosinophil recruitment.
+
+C-X3-C chemokine receptor 1 (CX3CR1)
+Ligand: CX3CL1 / fractalkine.
+Main function: Monocyte, NK-cell, and T-cell adhesion/migration in vascular and tissue inflammation.
+
+X-C chemokine receptor 1 (XCR1)
+Ligand: XCL1 / lymphotactin.
+Main function: cDC1 positioning and cross-presentation-related immune coordination.
+
+C-C chemokine receptor 4 (CCR4)
+Ligands: CCL17 and CCL22.
+Main function: Th2/Treg trafficking, especially in allergic and skin-associated inflammation.
+
+C-C chemokine receptor 6 (CCR6)
+Ligand: CCL20.
+Main function: Th17 and mucosal/barrier immune trafficking.
+
+C-C chemokine receptor 9 (CCR9)
+Ligand: CCL25.
+Main function: Small-intestine homing.
+
+C-C chemokine receptor 10 (CCR10)
+Ligands: CCL27 and CCL28.
+Main function: Skin and mucosal homing.
+
+
+G. ADHESION AND HOMING RECEPTORS
+
+L-selectin / cluster of differentiation 62L (L-selectin / CD62L)
+Main function: Lymph node entry through high endothelial venules.
+
+Leukocyte function-associated antigen 1 (LFA-1)
+Ligand: ICAMs.
+Main function: Firm adhesion to endothelium/APCs and leukocyte migration.
+
+Very late antigen 4 (VLA-4)
+Ligand: VCAM-1.
+Main function: Endothelial adhesion and tissue migration.
+
+Selectin ligands such as P-selectin glycoprotein ligand 1 (PSGL-1)
+Ligand: E-selectin and P-selectin.
+Main function: Leukocyte rolling on activated endothelium.
+
+Alpha4beta7 integrin
+Ligand: MAdCAM-1.
+Main function: Gut homing of lymphocytes.
+
+Sphingosine-1-phosphate receptor 1 (S1PR1)
+Ligand: S1P.
+Main function: Lymphocyte exit from lymph nodes into lymph and blood.
+
+
+*******************************************************
+*******************************************************
+
+VI. INNATE IMMUNE SYSTEM
+-The innate immune system is the fast, non-antigen-specific arm of immunity.
+-It uses barriers, soluble proteins, phagocytes, dendritic cells, natural killer cells, and innate lymphoid cells to detect and control infection before adaptive immunity fully develops.
+-Some innate immune mechanisms are evolutionarily ancient, far older than modern humans.
+
+
+A. PHYSICAL AND CHEMICAL BARRIERS
+
+Skin
+Main function: Physical barrier that blocks pathogen entry.
+Important features: Tight cell junctions, keratinized surface, antimicrobial peptides, low pH, resident microbiota.
+
+Mucous membranes
+Main function: Barrier protection at surfaces exposed to the outside world.
+Locations: Respiratory tract, gastrointestinal tract, urogenital tract, eyes, oral cavity.
+Important features: Mucus, cilia, antimicrobial peptides, secreted IgA, enzymes, resident microbiota.
+
+Chemical defenses
+Examples: Low stomach pH, lysozyme, defensins, lactoferrin, bile, antimicrobial peptides.
+Main function: Directly inhibit microbes or make surfaces harder for microbes to colonize.
+
+Microbiota
+Main function: Compete with pathogens, shape immune development, and support barrier function.
+
+
+B. THE COMPLEMENT SYSTEM
+The complement system is a group of plasma proteins, mostly made by the liver, that circulate in inactive form and become activated during infection or tissue damage.
+Complement can directly kill microbes, tag microbes for phagocytosis, recruit immune cells, and amplify inflammation.
+
+C3 is the central complement component.
+All major complement pathways lead to C3 activation.
+C3 is cleaved into C3a and C3b.
+
+→C3a
+Main function: Anaphylatoxin; promotes inflammation, vascular permeability, and immune-cell recruitment.
+
+→C3b
+Main function: Opsonization and complement amplification.
+Important note: C3b is highly reactive and can covalently attach to nearby microbial surfaces.
+
+Direct killing:
+Main mechanism: Membrane attack complex (MAC).
+Components: C5b, C6, C7, C8, C9.
+Result: C5b-C9 forms pores in target membranes.
+Most important against: Susceptible microbes, especially gram-negative bacteria.
+
+Opsonization:
+Main opsonin: C3b and breakdown products such as iC3b.
+Main function: Tags microbes for phagocytosis by macrophages and neutrophils.
+
+Inflammation and chemotaxis:
+Important fragments: C3a and C5a.
+C5a is especially strong as a chemoattractant and neutrophil activator.
+Effects: Recruit immune cells, increase vascular permeability, promote inflammation.
+
+B-cell activation support
+Important fragment: C3d.
+C3d-coated antigen binds CR2/CD21 on B cells.
+Effect: Lowers the activation threshold for B cells.
+
+3 pathways:
+
+1. Classical Pathway
+
+Trigger: Antibody bound to antigen.
+
+IgM is especially efficient at activating the classical pathway because one pentameric IgM can bind C1 well.
+
+Other antibody triggers:
+Certain IgG subclasses can also activate complement, but generally require multiple IgG molecules close together.
+
+Main sequence:
+Antibody-antigen complex activates C1.
+C1 cleaves C4 and C2.
+C4b and C2a form the classical C3 convertase.
+The C3 convertase cleaves C3 into C3a and C3b.
+
+Main outcome:
+C3b deposition, inflammation, opsonization, and progression toward the membrane attack complex.
+
+
+2. Lectin Pathway
+
+Trigger:
+Mannose-binding lectin (MBL) or ficolins bind microbial carbohydrate patterns.
+
+Mannose-rich patterns are common on many microbes but are not normally exposed in the same way on healthy human cells.
+
+Main sequence:
+MBL binds mannose on microbial surfaces.
+MBL-associated serine proteases (MASPs) become activated.
+MASPs cleave C4 and C2.
+C4b and C2a form the same C3 convertase used by the classical pathway.
+The C3 convertase cleaves C3 into C3a and C3b.
+
+Main outcome:
+C3b deposition, inflammation, opsonization, and possible MAC formation.
+
+
+3. Alternative Pathway 
+
+Trigger:
+Spontaneous low-level C3 activation and amplification on microbial surfaces.
+
+A small amount of C3 is continuously hydrolyzed in plasma.
+Hydrolyzed C3 can bind Factor B.
+Factor D cleaves Factor B.
+This forms a fluid-phase C3 convertase that generates more C3b.
+
+C3b surface binding:
+C3b can attach to nearby amino or hydroxyl groups on surfaces.
+Microbial surfaces often allow C3b deposition and amplification.
+If C3b does not rapidly bind an appropriate surface, it is inactivated by water or regulatory proteins.
+
+Host protection:
+Human cells are protected by complement-regulatory proteins.
+Examples: Factor H, Factor I, CD46/MCP, CD55/DAF, CD59.
+
+Main outcome:
+Amplifies complement activation on microbial surfaces and helps drive opsonization and MAC formation.
+—------------------------------------------
+
+*Complement overactivation can contribute to inflammation, tissue damage, and autoimmune disease.
+Complement deficiencies can increase susceptibility to infections or immune-complex disease depending on the missing component.
+
+
+C. MACROPHAGES
+
+Macrophages are phagocytes, sentinel cells, antigen-presenting cells, and tissue-maintenance cells.
+
+Origin:
+Many tissue-resident macrophages arise from embryonic progenitors before birth and self-renew in tissues.
+Other macrophages develop from adult blood monocytes, especially during inflammation, infection, or tissue injury.
+
+Tissue examples:
+Microglia: brain macrophages.
+Kupffer cells: liver macrophages.
+Alveolar macrophages: lung macrophages.
+
+Lifespan:
+Many tissue macrophages can live for months to years.
+Monocyte-derived inflammatory macrophages may be shorter-lived depending on context.
+
+Main functions:
+Phagocytose microbes, dead cells, and debris.
+Detect pathogens and tissue damage through pattern recognition receptors.
+Secrete cytokines such as TNF-alpha, IL-1, IL-6, IL-12, and IL-10 depending on context.
+Present antigen on MHC II to CD4 T cells.
+Support tissue repair, wound healing, and immune regulation.
+
+Activated macrophage killing mechanisms:
+Reactive oxygen species.
+Reactive nitrogen species in some contexts.
+Lysosomal enzymes.
+Phagolysosomal killing.
+Extracellular release of toxic contents against targets too large to phagocytose, such as some parasites.
+
+Important interaction with T cells:
+Macrophages can present antigen and restimulate activated T cells in tissues.
+Conventional dendritic cells are usually the main cells for initial activation of naive T cells.
+
+
+D. MONOCYTES
+
+Monocytes are circulating myeloid cells that can enter tissues and differentiate into macrophages or monocyte-derived dendritic cells.
+
+Blood lifespan:
+Often about 1 to 3 days in blood (some estimates: up to about 5 days)
+
+Main functions:
+Pathogen sensing through PRRs.
+Phagocytosis of microbes, debris, and dead cells.
+Cytokine production such as TNF-alpha, IL-1 beta, IL-6, and IL-12.
+Chemokine production.
+Antigen presentation on MHC II, though usually less potent than conventional dendritic cells for naive T-cell priming.
+
+During inflammation:
+Monocytes are recruited into tissues.
+They can become inflammatory macrophages.
+They can become monocyte-derived dendritic cells.
+Sustained recruitment contributes to chronic inflammation.
+
+Disease contexts: 
+Monocytes participate in many chronic disease processes by entering tissues, differentiating into macrophages or dendritic cells.  
+It is involved in chronic immune responses (persistent infections) , tissue repair and regeneration, tissue remodeling and scarring (fibrosis), plaque formation (atherosclerosis), and is also found to be involved in certain autoimmunity.
+
+E. CONVENTIONAL DENDRITIC CELLS (cDCs)
+
+Conventional dendritic cells are professional antigen-presenting cells.
+They are sentinel cells that sample tissues and initiate adaptive immune responses.
+
+Main functions:
+Capture and process antigen.
+Present peptide on MHC molecules.
+Provide costimulation through B7 (CD80/CD86).
+Produce cytokines that shape T-cell differentiation.
+
+Antigen processing:
+Extracellular antigen is usually presented on MHC II to CD4 T cells.
+Intracellular antigen is usually presented on MHC I to CD8 T cells.
+Some dendritic cells, especially cDC1, can cross-present extracellular antigen on MHC I to CD8 T cells.
+
+Activation triggers:
+PRR signaling.
+Inflammatory cytokines.
+Signals from infected or damaged tissues.
+
+Migration:
+After activation, cDCs travel through lymphatics to draining lymph nodes.
+Migration can take many hours to about a day.
+They provide a current snapshot of antigen exposure.
+
+Lifespan after activation:
+Activated cDCs are often short-lived, commonly lasting days.
+Therefore, the antigens that cDCs present are a “snapshot” of what is currently occurring.
+
+Subtypes:
+
+cDC1
+
+Main immune role:
+Antiviral responses, intracellular pathogen responses, tumor immunity, Th1 responses, and CD8 T-cell activation.
+
+High-yield features:
+Strong cross-presentation.
+Important for CD8 T-cell priming.
+
+Common cytokines/signals:
+IL-12: promotes Th1 differentiation and IFN-gamma production.
+IL-27: supports early Th1 responses and immune regulation.
+TNF-alpha: inflammatory.
+IL-15 trans-presentation: supports NK cells and cytotoxic T cells.
+
+cDC2
+
+Main immune role:
+CD4 T-cell priming and helper T-cell differentiation.
+Important in extracellular pathogen, mucosal, Th2, Th17, and Tfh contexts depending on environment.
+
+Common cytokines/signals:
+IL-1 beta: inflammatory and supports Th17 contexts.
+IL-6: supports inflammation, Tfh responses, and early Th17 differentiation with TGF-beta.
+IL-23: maintains/stabilizes Th17 responses.
+TNF-alpha: inflammatory.
+IL-10: regulatory/tolerogenic settings.
+
+
+F. NEUTROPHILS
+
+Neutrophils are the most abundant circulating white blood cells and major first responders in acute inflammation.
+They can arrive rapidly at infected or damaged tissues, often within minutes to hours.
+
+Lifespan:
+Circulating neutrophils are short-lived, often hours to about 1 day.
+Tissue lifespan can extend during inflammation.
+
+Why short lifespan matters:
+Neutrophils contain highly damaging antimicrobial tools.
+Short lifespan helps limit host tissue injury.
+
+Main targets:
+Extracellular bacteria and fungi.
+Some viruses and immune complexes depending on context.
+
+1. Phagocytosis and Intracellular Killing
+
+Recognition:
+Fc receptors bind IgG-coated microbes.
+Complement receptors bind complement-coated microbes.
+PRRs recognize microbial patterns.
+
+Killing mechanisms:
+Respiratory burst through NADPH oxidase.
+Reactive oxygen species.
+Phagosome-lysosome fusion.
+Antimicrobial granule enzymes.
+
+Key antimicrobial components:
+Proteases: degrade microbial proteins.
+Defensins: disrupt membranes.
+Lysozyme: breaks peptidoglycan, especially in gram-positive bacteria.
+Lactoferrin: binds iron and limits microbial growth.
+
+
+2. Degranulation
+
+Main function:
+Release antimicrobial enzymes and toxic products outside the cell.
+
+This helps attack large or extracellular targets.  However, it can damage host tissue and amplify inflammation.
+
+3. Neutrophil Extracellular Traps (NETs)
+
+Main function:
+DNA, histones, and antimicrobial proteins form extracellular nets that trap microbes.
+
+NETs release has often been associated with neutrophil death, but some NET release can occur without immediate cell death.
+
+Risk:
+Excess NETs can contribute to tissue damage, thrombosis, and autoimmunity.
+
+4. Cytokine and Chemokine Production 
+Neutrophils can produce inflammatory mediators.
+Examples include TNF-alpha and chemokines that recruit additional immune cells.
+
+
+G. PLASMACYTOID DENDRITIC CELLS (pDCs)
+
+pDCs are innate-like dendritic cells specialized for antiviral type I interferon production.
+
+Location:
+Circulate in low numbers in blood and secondary lymphoid organs.
+Can be recruited into tissues during infection or inflammation.
+
+Resting appearance:
+Resting pDCs can look lymphocyte-like.
+After activation, they can develop dendritic morphology.
+
+Key receptors:
+TLR7 detects viral single-stranded RNA.
+TLR9 detects CpG DNA, including viral and microbial DNA.
+
+Major cytokines:
+Type I interferons, especially IFN-alpha and IFN-beta.
+pDCs can produce very large amounts of type I IFN during early antiviral responses.
+
+Antigen presentation:
+MHC II presentation to CD4 T cells.
+Can present on MHC I under some conditions.
+Generally less potent than cDCs for naive T-cell priming.
+
+Disease relevance:
+Overactivation by self nucleic acids can drive chronic type I interferon production.
+Associated with diseases such as systemic lupus erythematosus and psoriasis.
+
+
+
+H. NATURAL KILLER (NK) CELLS
+
+NK cells are circulating, cytotoxic innate lymphoid cells (ILCs)
+They respond rapidly to infected, stressed, or transformed cells.
+
+Targets:
+Virus-infected cells.
+Some intracellular bacteria- or parasite-infected cells.
+Tumor cells.
+Stressed cells.
+
+1. Recognition of Abnormal Cells
+
+Missing-self recognition
+Healthy cells usually express MHC I.
+NK inhibitory receptors such as KIRs and NKG2A detect MHC I.
+Normal MHC I sends inhibitory signals.
+Low or absent MHC I reduces inhibition and can permit NK killing.
+
+Stress-ligand recognition
+Stressed cells can express ligands such as MICA, MICB, and ULBPs.
+NK activating receptor NKG2D detects these stress ligands.
+
+Antibody-dependent cellular cytotoxicity (ADCC)
+NK cells express CD16 / Fc-gamma-RIII.
+CD16 binds IgG-coated target cells.
+This triggers killing of antibody-coated cells.
+
+2. NK-Cell Killing Methods
+
+Perforin-granzyme pathway
+Perforin forms pores.
+Granzymes enter the target cell.
+Granzymes trigger apoptosis.
+
+Fas-FasL pathway
+Fas ligand on NK cells binds Fas/CD95 on target cells.
+This activates apoptotic signaling.
+
+TRAIL pathway
+TRAIL can bind TRAIL receptors on susceptible target cells.
+This can trigger apoptosis.
+
+3. NK-Cell Cytokines
+
+IFN-gamma
+Main NK-cell cytokine.
+Activates macrophages and supports Th1-type immunity.
+
+TNF-alpha
+Can contribute to inflammation and target-cell effects.
+
+4. NK-Cell Growth and Activation
+
+Major activating/survival signals:
+IL-15 is especially important for NK-cell development, survival, and maintenance.
+IL-12 stimulates NK-cell IFN-gamma production.
+IL-18 synergizes with IL-12 to increase IFN-gamma.
+Type I interferons activate NK cells during viral infection.
+
+Clinical relevance:
+NK-cell defects can cause difficulty controlling certain viral infections, especially herpesviruses, and can impair tumor surveillance.
+
+
+I. (other) INNATE LYMPHOID CELLS (ILCs)
+
+ILCs are rapid tissue-resident immune cells that produce cytokines before antigen-specific adaptive immunity fully develops.
+They are enriched at barrier tissues.
+
+Main locations:
+Skin, gut mucosa, lung mucosa, and other barrier tissues.
+
+1. ILC1
+
+Main role:
+Supports type 1 immune responses.
+
+Major cytokine:
+IFN-gamma.
+
+Main defense pattern:
+Intracellular pathogens and early type 1 inflammation.
+
+2. ILC2
+
+Main role:
+Supports type 2 immune responses.
+
+Major cytokines:
+IL-5.
+IL-13.
+Sometimes IL-4 depending on context.
+
+Main defense pattern:
+Helminths, allergy, asthma, mucus production, eosinophil responses, and tissue repair.
+
+3. ILC3
+
+Main role:
+Supports type 3/barrier immune responses.
+
+Major cytokines:
+IL-17.
+IL-22.
+
+Main defense pattern:
+Extracellular bacteria, fungi, gut barrier integrity, mucosal immunity, and antimicrobial peptide production.
+
+
+VII. ADAPTIVE IMMUNE SYSTEM
+Adaptive immunity is antigen-specific and improves with exposure.
+It is built mainly around T cells, B cells, antibodies, antigen receptors, clonal expansion, memory, and tolerance.
+Most animals rely only on barriers and innate immunity, but vertebrates have an adaptive immune system.
+
+
+MAJOR HISTOCOMPATIBILITY COMPLEX (MHC)
+
+MHC molecules display peptide fragments to T cells.
+T cells recognize antigen as peptide-MHC, not as free intact antigen.
+
+
+MHC CLASS I
+
+Expressed on nearly all nucleated cells.
+
+Genes:
+HLA-A, HLA-B, HLA-C.
+
+Structure:
+MHC I heavy chain plus beta-2 microglobulin.
+
+Peptides:
+Usually binds peptides about 8 to 10 amino acids long.
+
+Main function:
+Presents intracellular antigens to CD8 cytotoxic T cells.
+
+Examples of antigen source:
+Viral proteins.
+Tumor proteins.
+Intracellular microbial proteins.
+Normal self proteins.
+
+
+MHC CLASS II
+
+Mainly expressed on professional antigen-presenting cells.
+
+Main APCs:
+Dendritic cells, macrophages, and B cells.
+
+Peptides:
+Usually binds longer peptides than MHC I.
+
+Main function:
+Presents extracellularly derived antigens to CD4 helper T cells.
+
+
+A. T CELLS
+
+T cells are adaptive immune cells that recognize peptide-MHC through the T-cell receptor.
+
+T-cell receptor (TCR)
+Most circulating T cells have alpha-beta TCRs.
+The TCR recognizes peptide-MHC.
+The CD3 complex transmits the activation signal inside the cell.
+CD4 or CD8 coreceptors help stabilize recognition of MHC II or MHC I.
+
+CD4 T cells
+Recognize peptide-MHC II.
+Differentiate into helper or regulatory subsets.
+
+CD8 T cells
+Recognize peptide-MHC I.
+Can differentiate into cytotoxic T cells.
+
+Frequency concept
+Only a small fraction of T or B cells will recognize any given antigen.
+This is why clonal expansion is needed after activation.
+
+
+1. T-CELL DEVELOPMENT
+
+Origin:
+Hematopoietic stem cell in bone marrow.
+Common lymphoid progenitor.
+Early T-cell progenitor migrates to thymus.
+
+Double-negative stage:
+No CD4 or CD8.
+TCR beta-chain rearrangement begins.
+Successful beta-chain rearrangement supports survival and proliferation.
+
+Double-positive stage:
+Developing T cells express both CD4 and CD8.
+TCR alpha-chain rearrangement occurs.
+Complete alpha-beta TCR is formed.
+
+Positive selection:
+Occurs in the thymus.
+T cells with weak to moderate recognition of self-MHC plus self peptide survive.
+Recognition of MHC I biases toward CD8 lineage.
+Recognition of MHC II biases toward CD4 lineage.
+Cells with no useful MHC recognition die by neglect.
+
+Negative selection:
+T cells with high-affinity recognition of self antigen are eliminated by apoptosis.
+This helps prevent autoimmunity.
+
+Treg development:
+Some CD4 T cells with self-reactivity in the appropriate range and signals can become thymic regulatory T cells.
+FOXP3 is the key transcription factor.
+
+Final thymic output:
+Naive CD8 T cells.
+Naive CD4 T cells.
+Naive thymic Tregs.
+
+
+2. T-CELL ACTIVATION
+
+Main site:
+Secondary lymphoid organs such as lymph nodes and spleen.
+
+
+Signal 1
+
+CD4 T cells
+TCR binds matching peptide-MHC II on an APC.
+
+CD8 T cells
+TCR binds matching peptide-MHC I.
+Naive CD8 T cells are often activated by professional APCs, especially dendritic cells, including by cross-presentation.
+
+Main signaling
+TCR/CD3 signaling activates pathways including NFAT, NF-kappaB, and AP-1.
+
+
+Signal 2
+
+Costimulation:
+B7 (CD80/CD86) on APC binds CD28 on naive T cells.
+
+Importance:
+Signal 1 without adequate costimulation can lead to anergy, deletion, or tolerance.
+
+
+Signal 3
+
+Cytokine environment:
+Cytokines from APCs and surrounding cells guide T-cell differentiation.
+
+Full activation leads to
+IL-2 production by activated T cells.
+High-affinity IL-2 receptor expression.
+Clonal expansion.
+Differentiation into effector and memory cells.
+
+
+3. HELPER T-CELL SUBSETS
+Th= helper T cell
+
+Th1 cells
+Induced by: IL-12 and IFN-gamma-rich environments.
+Main cytokines produced: IFN-gamma, TNF-alpha, IL-2.
+Main functions: Intracellular pathogen defense, macrophage activation, cell-mediated immunity.
+Examples: Viruses, intracellular bacteria such as tuberculosis.
+
+Th2 cells
+Induced by: IL-4-rich environments.
+Main cytokines produced: IL-4, IL-5, IL-13.
+Main functions: Helminth defense, eosinophil activation, IgE class switching, mucus production, allergy/asthma.
+Important correction: TGF-beta is the main IgA class-switching cytokine; IL-5 can support IgA-producing plasma-cell responses in mucosal/type 2 contexts.
+
+Th17 cells
+Induced by: IL-6 plus TGF-beta and inflammatory cytokines such as IL-1.
+Maintained/stabilized by: IL-23.
+Main cytokines produced: IL-17A, IL-17F, IL-21, IL-22.
+Important correction: IL-23 is mainly produced by APCs and maintains Th17 responses; Th17 cells are not usually considered a main IL-23-producing cell.
+Main functions: Extracellular bacteria/fungi defense, mucosal inflammation, neutrophil recruitment, barrier immunity.
+
+T follicular helper cells (Tfh)
+Induced by: IL-6, IL-21, ICOS signaling, BCL6 induction, APC/B-cell interactions.
+Main cytokine: IL-21.
+Main functions: B-cell help, germinal center reactions, class switching, affinity maturation, memory B-cell formation.
+Important note: Tfh cells often express PD-1, which helps regulate intense germinal center responses.
+
+Th9 cells
+Induced by: IL-4 plus TGF-beta.
+Main cytokine: IL-9.
+Main functions: Allergy, mast-cell responses, helminth defense.
+
+Th22 cells
+Associated with: IL-6, TNF-alpha, and tissue/barrier signals.
+Main cytokine: IL-22.
+Main functions: Epithelial barrier defense, tissue repair, antimicrobial peptide production.
+
+Th0 concept
+Some activated CD4 T cells remain less committed early and may differentiate further depending on cytokine environment.
+
+
+4. CD4 HELP AND APC LICENSING
+
+CD40L expression:
+Activated CD4 T cells express CD40L.
+CD40L binds CD40 on APCs and B cells.
+
+APC licensing:
+CD40L-CD40 signaling can license dendritic cells.
+Effects include increased B7/CD80/CD86 expression and increased cytokine production.
+This improves the APC's ability to activate CD8 T cells.
+
+CD8 T-cell help:
+CD8 T cells can express CD40L transiently in some contexts, but CD4 T-cell help is the classic pathway for strong APC licensing and durable CD8 T-cell responses.
+
+
+5. CYTOTOXIC T-CELL KILLING
+
+Perforin-granzyme pathway:
+Perforin forms pores.
+Granzymes enter target cells and trigger apoptosis.
+
+Fas-FasL pathway:
+FasL on cytotoxic T cells binds Fas/CD95 on target cells.
+This activates apoptotic signaling.
+
+Cytokine secretion:
+CD8 T cells can secrete IFN-gamma.
+IFN-gamma increases MHC I expression and supports antiviral and intracellular pathogen defense.
+
+Final CD8 T-cell fates:
+Effector cytotoxic T cells.
+Memory T cells.
+
+Memory subsets:
+Central memory T cells (Tcm).
+Effector memory T cells (Tem).
+Tissue-resident memory T cells (Trm).
+Stem-like memory T cells (Tscm).
+
+
+6. T-CELL TOLERANCE AND REGULATION
+
+CTLA-4
+Upregulated after T-cell activation.
+Binds B7/CD80/CD86 with higher affinity than CD28.
+Reduces costimulation.
+Tregs use CTLA-4 to remove B7 molecules from APCs.
+
+PD-1
+Upregulated after activation and during chronic stimulation.
+Binds PD-L1 and PD-L2.
+Suppresses proliferation, cytokine production, and effector function.
+Important in chronic infection, cancer, and tissue inflammation.
+
+Chronic stimulation
+Persistent infection, cancer, or self antigen can increase inhibitory receptors such as PD-1, TIM-3, LAG-3, TIGIT, and sometimes CTLA-4.
+
+Activation-induced cell death (AICD)
+Repeated stimulation can trigger apoptosis.
+This helps remove overly activated or potentially harmful T cells.
+
+
+7. REGULATORY T CELLS (Tregs)
+
+Main identity
+Tregs suppress excessive immune responses and maintain tolerance.
+FOXP3 is the key transcription factor.
+
+Thymic Tregs (tTregs)
+Develop in the thymus.
+Help protect against autoimmunity to self antigens.
+
+Peripheral/induced Tregs (pTregs/iTregs)
+Develop from naive CD4 T cells outside the thymus.
+Favored by TGF-beta, IL-2, low inflammation, and repeated harmless antigen exposure.
+Important in food tolerance, microbiome tolerance, mucosal tolerance, and environmental tolerance.
+
+Effector Treg mechanisms
+High CD25 expression acts as an IL-2 sink.
+CTLA-4 reduces B7/CD80/CD86 on APCs.
+IL-10 suppresses inflammatory responses.
+TGF-beta supports immune suppression and tissue regulation.
+
+T follicular regulatory cells (Tfr)
+Treg subset that expresses CXCR5 and BCL6.
+Enters follicles/germinal centers.
+Regulates Tfh and B-cell responses.
+Helps prevent excessive or autoreactive antibody responses.
+
+
+8. INNATE-LIKE T CELLS
+
+Innate-like T cells respond faster than conventional T cells and often recognize nonclassical antigens.
+
+Mucosal-associated invariant T cells (MAIT cells)
+TCR type: Semi-invariant alpha-beta TCR.
+Recognize: Microbial vitamin B2/riboflavin pathway metabolites.
+Antigen-presenting molecule: MR1.
+Locations: Mucosal tissues, liver, lungs, blood.
+Functions: Rapid cytokine production such as IFN-gamma, TNF-alpha, IL-17; can kill infected cells.
+Important for: Early defense against many bacteria and fungi.
+
+Gamma-delta T cells
+TCR type: Gamma-delta TCR.
+Coreceptors: Usually lack CD4/CD8, though some subsets express CD8.
+Locations: Barrier tissues such as intestine, skin, reproductive tract, tongue.
+Functions: Rapid tissue defense, cytokine production, epithelial surveillance.
+
+Natural killer T cells (NKT cells)
+Features: Share properties of NK cells and alpha-beta T cells.
+Recognize: Lipid antigens presented by CD1d.
+Functions: Rapid cytokine production and immune regulation.
+
+
+B. B CELLS
+
+B cells are adaptive immune cells that recognize native/intact antigen through the B-cell receptor.
+B cells can become plasma cells or memory B cells.
+
+Development site:
+Bone marrow.
+
+B-cell tolerance:
+Central B-cell tolerance occurs mainly in bone marrow.
+Peripheral tolerance occurs after B cells leave bone marrow.
+
+B-cell development sequence:
+Hematopoietic stem cell.
+Common lymphoid progenitor.
+Pro-B cell.
+Pre-B cell.
+Immature B cell.
+Mature naive B cell.
+
+BCR expression:
+Immature B cells express IgM BCR.
+Mature naive B cells express IgM and IgD BCRs.
+
+BCR genetics correction:
+Heavy chain locus: chromosome 14.
+Kappa light chain locus: chromosome 2.
+Lambda light chain locus: chromosome 22.
+
+BCR signaling complex:
+Ig-alpha and Ig-beta, also called CD79A and CD79B, transmit signals inside the B cell.
+
+B-cell coreceptor complex:
+CD19 amplifies signaling.
+CR2/CD21 binds C3d-coated antigen.
+CD81 stabilizes and organizes the complex.
+
+Clinical note:
+CD19 is expressed on many B-cell leukemias and lymphomas.
+CD19-targeted CAR T-cell therapy is used for some blood cancers.
+
+
+1. Lymph Node Organization
+
+T-cell zone / paracortex:
+Contains many conventional dendritic cells.
+Contains naive T cells.
+Main site of naive T-cell activation.
+
+B-cell follicles
+Contain B cells.
+Contain follicular dendritic cells.
+Can contain germinal centers during active immune responses.
+Contain Tfh cells during germinal center responses.
+May contain some cDCs.
+
+
+2. B-cell Activation
+
+B cells can be activated in two major ways:
+
+a. T-INDEPENDENT ACTIVATION
+Fast.
+Usually strongest for non-protein antigens such as polysaccharides, lipids, and repetitive microbial structures.
+Mainly produces IgM.
+Little germinal center formation.
+Little affinity maturation.
+Weak memory.
+Important against encapsulated bacteria.
+
+T-independent type 1 (TI-1)
+Main trigger: Innate receptor signaling, especially TLRs.
+Example: LPS activating TLR4.
+High antigen levels can cause polyclonal B-cell activation.
+Lower antigen levels often require both BCR recognition and TLR signaling.
+
+T-independent type 2 (TI-2)
+Main trigger: Strong BCR cross-linking by repetitive identical epitopes.
+Example: Bacterial polysaccharide capsules.
+Complement support: C3d-coated antigen binds CR2/CD21 and lowers the B-cell activation threshold.
+
+b. T-dependent activation
+Usually involves protein antigen.
+Requires help from CD4 T cells, especially Tfh cells.
+Produces germinal centers, class switching, affinity maturation, memory B cells, long-lived plasma cells, and high-affinity antibodies.
+
+
+b1. Antigen Arrival
+
+Antigen can drain through lymph to lymph nodes.
+Antigen can arrive attached to complement or antibodies.
+Migratory dendritic cells can carry antigen from infected tissues to lymph nodes.
+Free antigen can arrive rapidly; migratory DC arrival can take longer.
+
+
+b2. Follicular Dendritic Cells (FDCs)
+
+FDCs are stromal support cells in follicles.
+They are not classical antigen-presenting dendritic cells.
+
+FDC function:
+Capture complement-coated and antibody-coated antigen.
+Display intact antigen for B cells.
+Can retain antigen for long periods.
+
+
+b3. T-cell Priming Before B-cell Help 
+
+cDCs present antigen peptide on MHC II to naive CD4 T cells.
+Naive CD4 T cells begin differentiating toward pre-Tfh cells.
+Pre-Tfh cells increase CXCR5.
+CXCR5 helps migration toward CXCL13-rich follicles.
+ICOS signaling and BCL6 maintenance support mature Tfh differentiation.
+
+b4. B-cell Activation
+
+Signal 1: B-cell Antigen Recognition  
+
+Naive B cells recognize native/intact antigen through the BCR.
+B cells are different from T cells because B cells can bind intact antigen directly.
+
+After BCR binding
+B cell internalizes antigen.
+B cell processes antigen into peptides.
+B cell presents peptides on MHC II.
+B cells already express MHC II; activation increases antigen-loaded MHC II presentation.
+B cell increases costimulatory molecules such as B7/CD80/CD86.
+B cell migrates toward the T-B border.
+
+
+Signal 2: Tfh Costimulation
+
+Main interaction
+CD40L on Tfh binds CD40 on B cell.
+
+CD40L-CD40 is essential for
+Germinal center formation.
+Class switching.
+Affinity maturation.
+Memory B-cell formation.
+Long-lived plasma-cell formation.
+B-cell survival and proliferation.
+
+
+LINKED RECOGNITION
+
+The B cell and Tfh cell must recognize linked epitopes from the same antigen.
+
+How it works:
+BCR binds intact antigen.
+B cell internalizes antigen.
+B cell presents peptide from that antigen on MHC II.
+Tfh cell recognizes peptide-MHC II.
+Tfh cell provides help to that B cell.
+
+Tolerance role:
+If somatic hypermutation makes a B cell self-reactive, that B cell may fail to obtain Tfh help and die.
+This helps maintain tolerance, although tolerance mechanisms can fail in autoimmunity.
+
+
+Signal 3: Cytokine Help
+
+IL-21
+Main source: Tfh cells.
+Effect: B-cell proliferation, germinal center support, class switching, plasma-cell differentiation.
+
+IL-4
+Main source: Th2-like Tfh cells and Th2 cells.
+Effect: IgE switching and type 2 antibody responses.
+
+IFN-gamma
+Main source: Th1-like Tfh cells, Th1 cells, NK cells.
+Effect: Opsonizing/complement-fixing IgG subclasses and intracellular pathogen responses.
+
+TGF-beta
+Main source: Tregs, epithelial cells, stromal cells, APCs.
+Effect: IgA class switching, mucosal immunity, tolerance.
+
+IL-6
+Main source: APCs and innate immune cells.
+Effect: Tfh support, plasma-cell differentiation, antibody responses.
+
+
+b5. Early Extrafollicular Response 
+
+Some activated B cells rapidly become short-lived plasma cells outside germinal centers.
+
+Main antibody:
+Often IgM.
+
+Antibody quality:
+Usually lower affinity.
+
+Main benefit:
+Immediate early antibody protection before germinal center responses mature.
+
+
+b6. Germinal Center Reaction 
+
+Germinal centers are sites where B cells improve antibody quality.
+
+Requirements:
+B-cell antigen recognition.
+Tfh help.
+CD40L-CD40 signaling.
+Cytokines such as IL-21.
+AID activity.
+
+Dark zone
+B cells are called centroblasts.
+Main events: Proliferation, somatic hypermutation, class switch recombination.
+Key enzyme: AID / activation-induced cytidine deaminase.
+
+Somatic hypermutation
+Introduces mutations into antibody variable-region genes.
+Some mutations improve binding.
+Some worsen binding.
+Some can create autoreactivity.
+
+Class switch recombination
+Changes antibody isotype from IgM to IgG, IgA, or IgE.
+Antigen specificity is preserved because the variable region remains the same.
+The constant region changes.
+
+Light zone
+B cells are called centrocytes.
+B cells compete for intact antigen displayed on FDCs.
+Higher-affinity B cells capture more antigen.
+B cells present more peptide-MHC II to Tfh cells.
+Tfh cells provide survival and differentiation signals.
+
+Cyclic affinity maturation
+Selected B cells can return to the dark zone for more mutation and proliferation.
+Repeated cycles increase antibody affinity.
+
+Final germinal center outcomes:
+Class-switched antibodies.
+Affinity maturation.
+Memory B cells.
+Long-lived plasma cells.
+High-affinity antibodies.
+Durable humoral immunity.
+Faster and stronger secondary responses.
+
+
+C. ANTIBODIES
+
+Antibodies are immunoglobulins produced by B-lineage cells.
+Membrane-bound immunoglobulins function as B-cell receptors (BCRs) on B cells.
+Secreted immunoglobulins are produced mainly by plasma cells.
+They can recognize aweige range of antigens, including proteins, polysaccharides, lipids, nucleic acids, and small molecules/haptens.
+
+Basic structure:
+Fab region: variable antigen-binding region.
+Fc region: constant region mediating effector functions through Fc receptors and complement proteins.
+
+1. IgM
+
+First antibody isotype produced during primary immune responses.
+First BCR expressed during immature B-cell development.
+Pentamer when secreted.
+Strong complement activator.
+Short serum half-life compared with IgG.
+
+Main roles:
+Early antibody response.
+Complement activation.
+BCR on naive B cells as monomeric membrane IgM.
+
+
+2. IgD
+
+Co-expressed with IgM on mature naive B cells via alternative splicing. 
+Low circulating level.
+
+Main roles:
+BCR function and regulation of naive B-cell activation.
+
+
+3. IgG
+
+Most abundant antibody in blood.
+Long half-life, about 21 days for many IgG subclasses.
+Crosses placenta through FcRn.
+
+Main roles:
+Opsonization.
+Neutralization.
+Complement activation mainly by IgG1 and IgG3 (human).
+ADCC through NK-cell CD16/Fc-gamma-RIII.
+
+Subclass note:
+IgG1 and IgG3 are generally strong effector subclasses.
+IgG3 is especially good at complement activation.
+
+
+4. IgA
+
+Major mucosal antibody.
+Often dimeric in secretions.
+Found in GI tract, respiratory tract, saliva, tears, and breast milk.
+
+Main roles:
+Neutralizes microbes and toxins at mucosal surfaces.
+Secretory IgA contains a secretory component that helps resist degradation at mucosal surfaces.
+
+
+5. IgE
+
+Binds Fc-epsilon-RI on mast cells and basophils.
+Low free serum concentration.
+
+Main roles:
+Helminth defense.
+Mast-cell and basophil activation.
+Allergy.
+Anaphylaxis.
+
+Mechanism:
+Antigen cross-links IgE bound to Fc-epsilon-RI.
+This triggers degranulation and mediator release.
+
+
+
