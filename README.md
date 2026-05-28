@@ -1,10 +1,32 @@
-Last content review: May 27, 2026
-Fast-changing clinical sections should be rechecked before clinical use or app publication.
+# Immunology Summary
 
-Educational note
-These notes are for immunology education and app content, not medical decision-making.
 
-I. IMMUNOLOGY: TWO CONNECTED SYSTEMS
+## Table of Contents
+
+- [I. IMMUNOLOGY: TWO CONNECTED SYSTEMS](#i-immunology-two-connected-systems)
+- [II. ORIGIN OF WHITE BLOOD CELLS (LEUKOCYTES)](#ii-origin-of-white-blood-cells-leukocytes)
+- [III. COMMON WHITE BLOOD CELL COUNTS (WBCs) IN BLOOD](#iii-common-white-blood-cell-counts-wbcs-in-blood)
+- [IV. INNATE IMMUNE SYSTEM](#iv-innate-immune-system)
+- [V. ADAPTIVE IMMUNE SYSTEM](#v-adaptive-immune-system)
+- [VI. IMMUNE LIGANDS](#vi-immune-ligands)
+- [VII. IMMUNE RECEPTORS](#vii-immune-receptors)
+- [VIII. ADAPTIVE IMMUNE MEMORY](#viii-adaptive-immune-memory)
+- [IX. INTESTINAL IMMUNITY](#ix-intestinal-immunity)
+- [X. AUTOIMMUNITY](#x-autoimmunity)
+- [XI. ALLERGIC AND HYPERSENSITIVITY REACTION TYPES](#xi-allergic-and-hypersensitivity-reaction-types)
+- [XII. VACCINES](#xii-vaccines)
+- [XIII. COVID-19](#xiii-covid-19)
+- [XIV. HIV](#xiv-hiv)
+- [XV. CANCER IMMUNOLOGY](#xv-cancer-immunology)
+- [XVI. IMMUNOTHERAPY](#xvi-immunotherapy)
+
+> **Last content review:** May 27, 2026
+> Fast-changing clinical sections should be rechecked before clinical use or app publication.
+
+> **Educational note**
+> These notes are for immunology education and app content, not medical decision-making.
+
+## I. IMMUNOLOGY: TWO CONNECTED SYSTEMS
 
 The immune system has two major arms: innate immunity and adaptive immunity.
 They are often taught separately, but they constantly communicate with each other.
@@ -34,75 +56,76 @@ Key idea
 Innate immunity detects danger and shapes the response.
 Adaptive immunity targets specific antigens and remembers them.
 
-II. ORIGIN OF WHITE BLOOD CELLS (LEUKOCYTES)
+## II. ORIGIN OF WHITE BLOOD CELLS (LEUKOCYTES)
+
 Hematopoietic Stem Cell (HSC)
-   → Multipotent Progenitor (MPP)   →
+- Multipotent Progenitor (MPP)   ->
 
-1. COMMON LYMPHOID PROGENITOR (CLP)
-       → T cells
-       → B cells
-       → Natural Killer (NK) cells 
-       → Innate Lymphoid Cells (ILCs): ILC1, ILC2, ILC3
+#### 1. COMMON LYMPHOID PROGENITOR (CLP)
 
-2. COMMON MYELOID PROGENITOR (CMP)
-      → Granulocyte lineage
-            → Neutrophils
-            → Eosinophils
-            → Basophils
-            → Mast cells  (leave bone marrow immature → mature in tissues)
-      → Monocyte lineage
-            → Monocytes (circulating blood)
-                  → Monocyte-derived macrophages 
-                  → Monocyte-derived dendritic cells (moDC) (during inflammation)
-      → Dendritic-cell lineage
-            → Common Dendritic Progenitor (CDP)
-                  → conventional dendritic cell 1 (cDC1)
-                  → conventional dendritic cell 2 (cDC2)
-                  → plasmacytoid dendritic cells (pDCs)
+- T cells
+- B cells
+- Natural Killer (NK) cells
+- Innate Lymphoid Cells (ILCs): ILC1, ILC2, ILC3
 
+#### 2. COMMON MYELOID PROGENITOR (CMP)
 
-Macrophage origin note:
-Macrophages come from two major sources:
-   -Embryonic-derived tissue-resident macrophages
-         → Established before birth
-         → Self-renew in tissues
-          examples:
-            → Microglia (brain)
-            → Kupffer cells (liver)
-            → many alveolar macrophages (lung)
-            → many Langerhans cells (skin)  
-            → some peritoneal macrophages
-   -Monocyte-derived macrophages
-         → Blood monocyte → enter tissue → differentiate into macrophage
-          -especially important during inflammation, infection, tissue injury
-          -also contribute to replacement in some tissues during steady state (ex. intestine)
- 
-pDC origin note:
+- Granulocyte lineage
+- Neutrophils
+- Eosinophils
+- Basophils
+- Mast cells  (leave bone marrow immature -> mature in tissues)
+- Monocyte lineage
+- Monocytes (circulating blood)
+- Monocyte-derived macrophages
+- Monocyte-derived dendritic cells (moDC) (during inflammation)
+- Dendritic-cell lineage
+- Common Dendritic Progenitor (CDP)
+- conventional dendritic cell 1 (cDC1)
+- conventional dendritic cell 2 (cDC2)
+- plasmacytoid dendritic cells (pDCs)
+
+**Macrophage origin note:**
+**Macrophages come from two major sources:**
+- Embryonic-derived tissue-resident macrophages
+- Established before birth
+- Self-renew in tissues
+**examples:**
+- Microglia (brain)
+- Kupffer cells (liver)
+- many alveolar macrophages (lung)
+- many Langerhans cells (skin)
+- some peritoneal macrophages
+- Monocyte-derived macrophages
+- Blood monocyte -> enter tissue -> differentiate into macrophage
+- especially important during inflammation, infection, tissue injury
+- also contribute to replacement in some tissues during steady state (ex. intestine)
+
+**pDC origin note:**
 pDC developmental origin remains debated.
 Traditionally classified as mainly myeloid-derived.
 Some evidence suggests lymphoid contributions.
 
+## III. COMMON WHITE BLOOD CELL COUNTS (WBCs) IN BLOOD
 
-III. COMMON WHITE BLOOD CELL COUNTS (WBCs) IN BLOOD
--Neutrophils   (~ 38-80% of total WBCs)
--Lymphocytes   (~ 15-49% of total WBCs)
-         -T cells   (~ 60-85% of total lymphocytes)
-         -B cells   (~ 5-20% of total lymphocytes)
-         -NK cells   (~ 5-20% of total lymphocytes)
--Monocytes   (~ 0-13% of total WBCs)
--Eosinophils   (~ 0-8% of total WBCs)
--Basophils   (~ 0-2% of total WBCs)
+- Neutrophils   (~ 38-80% of total WBCs)
+- Lymphocytes   (~ 15-49% of total WBCs)
+- T cells   (~ 60-85% of total lymphocytes)
+- B cells   (~ 5-20% of total lymphocytes)
+- NK cells   (~ 5-20% of total lymphocytes)
+- Monocytes   (~ 0-13% of total WBCs)
+- Eosinophils   (~ 0-8% of total WBCs)
+- Basophils   (~ 0-2% of total WBCs)
 
-*Many other immune cells (ex. dendritic cells, macrophages, mast cells, and most helper-like ILCs) are uncommon in blood and primarily reside in tissues or lymphoid organs.
+> **Note:** Many other immune cells (ex. dendritic cells, macrophages, mast cells, and most helper-like ILCs) are uncommon in blood and primarily reside in tissues or lymphoid organs.
 
+## IV. INNATE IMMUNE SYSTEM
 
-IV. INNATE IMMUNE SYSTEM
--The innate immune system is the fast, non-antigen-specific arm of immunity.
--It uses barriers, soluble proteins, phagocytes, dendritic cells, natural killer cells, and innate lymphoid cells to detect and control infection before adaptive immunity fully develops.
--Some innate immune mechanisms are evolutionarily ancient, far older than modern humans.
+- The innate immune system is the fast, non-antigen-specific arm of immunity.
+- It uses barriers, soluble proteins, phagocytes, dendritic cells, natural killer cells, and innate lymphoid cells to detect and control infection before adaptive immunity fully develops.
+- Some innate immune mechanisms are evolutionarily ancient, far older than modern humans.
 
-
-A. PHYSICAL AND CHEMICAL BARRIERS
+### A. PHYSICAL AND CHEMICAL BARRIERS
 
 Skin
 Main function: Physical barrier that blocks pathogen entry.
@@ -120,8 +143,8 @@ Main function: Directly inhibit microbes or make surfaces harder for microbes to
 Microbiota
 Main function: Compete with pathogens, shape immune development, and support barrier function.
 
+### B. THE COMPLEMENT SYSTEM
 
-B. THE COMPLEMENT SYSTEM
 The complement system is a group of plasma proteins, mostly made by the liver, that circulate in inactive form and become activated during infection or tissue damage.
 Complement can directly kill microbes, tag microbes for phagocytosis, recruit immune cells, and amplify inflammation.
 
@@ -129,10 +152,10 @@ C3 is the central complement component
 All major complement pathways lead to C3 activation.
 C3 is cleaved into C3a and C3b.
 
-   →C3a
+- C3a
 Main function: Anaphylatoxin; promotes inflammation, vascular permeability, and immune-cell recruitment.
 
-   →C3b
+- C3b
 Main function: Opsonization and complement amplification.
 Important note: C3b is highly reactive and can covalently attach to nearby microbial surfaces.
 
@@ -156,28 +179,27 @@ Important fragment: C3d.
 C3d-coated antigen binds CR2/CD21 on B cells.
 Effect: Lowers the activation threshold for B cells.
 
-3 pathways:
+**3 pathways:**
 
-1. Classical Pathway
+#### 1. Classical Pathway
 
 Trigger: Antibody bound to antigen.
 
 IgM is especially efficient at activating the classical pathway because one pentameric IgM can bind C1 well.
 
-Other antibody triggers:
+**Other antibody triggers:**
 Certain IgG subclasses can also activate complement, but generally require multiple IgG molecules close together.
 
-Main sequence:
+**Main sequence:**
 Antibody-antigen complex activates C1.
 C1 cleaves C4 and C2.
 C4b and C2a form the classical C3 convertase.
 The C3 convertase cleaves C3 into C3a and C3b.
 
-Main outcome:
+**Main outcome:**
 C3b deposition, inflammation, opsonization, and progression toward the membrane attack complex.
 
-
-2. Lectin Pathway
+#### 2. Lectin Pathway
 
 Trigger
 Mannose-binding lectin (MBL) or ficolins bind microbial carbohydrate patterns.
@@ -194,8 +216,7 @@ The C3 convertase cleaves C3 into C3a and C3b.
 Main outcome
 C3b deposition, inflammation, opsonization, and possible MAC formation.
 
-
-3. Alternative Pathway 
+#### 3. Alternative Pathway
 
 Trigger
 Spontaneous low-level C3 activation and amplification on microbial surfaces.
@@ -217,11 +238,10 @@ Examples: Factor H, Factor I, CD46/MCP, CD55/DAF, CD59.
 Main outcome
 Amplifies complement activation on microbial surfaces and helps drive opsonization and MAC formation.
 
-*Complement overactivation can contribute to inflammation, tissue damage, and autoimmune disease.
+> **Note:** Complement overactivation can contribute to inflammation, tissue damage, and autoimmune disease.
 Complement deficiencies can increase susceptibility to infections or immune-complex disease depending on the missing component.
 
-
-C. MACROPHAGES
+### C. MACROPHAGES
 
 Macrophages are phagocytes, sentinel cells, antigen-presenting cells, and tissue-maintenance cells.
 
@@ -256,8 +276,7 @@ Important interaction with T cells
 Macrophages can present antigen and restimulate activated T cells in tissues.
 Conventional dendritic cells are usually the main cells for initial activation of naive T cells.
 
-
-D. MONOCYTES
+### D. MONOCYTES
 
 Monocytes are circulating myeloid cells that can enter tissues and differentiate into macrophages or monocyte-derived dendritic cells.
 
@@ -277,11 +296,11 @@ They can become inflammatory macrophages.
 They can become monocyte-derived dendritic cells.
 Sustained recruitment contributes to chronic inflammation.
 
-Disease contexts:
+**Disease contexts:**
 Monocytes participate in many chronic disease processes by entering tissues and differentiating into macrophages or dendritic cells.
 They are involved in chronic immune responses, persistent infections, tissue repair and regeneration, tissue remodeling and scarring (fibrosis), plaque formation (atherosclerosis), and some autoimmune contexts.
 
-E. CONVENTIONAL DENDRITIC CELLS (cDCs)
+### E. CONVENTIONAL DENDRITIC CELLS (cDCs)
 
 Conventional dendritic cells are professional antigen-presenting cells.
 They are sentinel cells that sample tissues and initiate adaptive immune responses.
@@ -311,18 +330,18 @@ Lifespan after activation
 Activated cDCs are often short-lived, commonly lasting days.
 Therefore, the antigens that cDCs present are a "snapshot" of what is currently occurring.
 
-Subtypes:
+**Subtypes:**
 
 cDC1
 
-Main immune role:
+**Main immune role:**
 Antiviral responses, intracellular pathogen responses, tumor immunity, Th1 responses, and CD8 T-cell activation.
 
-High-yield features:
+**High-yield features:**
 Strong cross-presentation.
 Important for CD8 T-cell priming.
 
-Common cytokines/signals:
+**Common cytokines/signals:**
 IL-12: promotes Th1 differentiation and IFN-gamma production.
 IL-27: supports early Th1 responses and immune regulation.
 TNF-alpha: inflammatory.
@@ -341,8 +360,7 @@ IL-23: maintains/stabilizes Th17 responses.
 TNF-alpha: inflammatory.
 IL-10: regulatory/tolerogenic settings.
 
-
-F. NEUTROPHILS
+### F. NEUTROPHILS
 
 Neutrophils are the most abundant circulating white blood cells and major first responders in acute inflammation.
 They can arrive rapidly at infected or damaged tissues, often within minutes to hours.
@@ -359,7 +377,7 @@ Main targets
 Extracellular bacteria and fungi.
 Some viruses and immune complexes depending on context.
 
-1. Phagocytosis and Intracellular Killing
+#### 1. Phagocytosis and Intracellular Killing
 
 Recognition
 Fc receptors bind IgG-coated microbes.
@@ -378,15 +396,14 @@ Defensins: disrupt membranes.
 Lysozyme: breaks peptidoglycan, especially in gram-positive bacteria.
 Lactoferrin: binds iron and limits microbial growth.
 
-
-2. Degranulation
+#### 2. Degranulation
 
 Main function
 Release antimicrobial enzymes and toxic products outside the cell.
 
 This helps attack large or extracellular targets.  However, it can damage host tissue and amplify inflammation.
 
-3. Neutrophil Extracellular Traps (NETs)
+#### 3. Neutrophil Extracellular Traps (NETs)
 
 Main function
 DNA, histones, and antimicrobial proteins form extracellular nets that trap microbes.
@@ -396,13 +413,12 @@ NETs release has often been associated with neutrophil death, but some NET relea
 Risk
 Excess NETs can contribute to tissue damage, thrombosis, and autoimmunity.
 
-4. Cytokine and Chemokine Production 
+#### 4. Cytokine and Chemokine Production
 
 Neutrophils can produce inflammatory mediators.
 Examples include TNF-alpha and chemokines that recruit additional immune cells.
 
-
-G. PLASMACYTOID DENDRITIC CELLS (pDCs)
+### G. PLASMACYTOID DENDRITIC CELLS (pDCs)
 
 pDCs are innate-like dendritic cells specialized for antiviral type I interferon production.
 
@@ -431,9 +447,7 @@ Disease relevance
 Overactivation by self nucleic acids can drive chronic type I interferon production.
 Associated with diseases such as systemic lupus erythematosus and psoriasis.
 
-
-
-H. NATURAL KILLER (NK) CELLS
+### H. NATURAL KILLER (NK) CELLS
 
 NK cells are circulating, cytotoxic innate lymphoid cells (ILCs)
 They respond rapidly to infected, stressed, or transformed cells.
@@ -444,7 +458,7 @@ Some intracellular bacteria- or parasite-infected cells.
 Tumor cells.
 Stressed cells.
 
-1. Recognition of Abnormal Cells
+#### 1. Recognition of Abnormal Cells
 
 Missing-self recognition
 Healthy cells usually express MHC I.
@@ -461,7 +475,7 @@ NK cells express CD16 / Fc-gamma-RIII.
 CD16 binds IgG-coated target cells.
 This triggers killing of antibody-coated cells.
 
-2. NK-Cell Killing Methods
+#### 2. NK-Cell Killing Methods
 
 Perforin-granzyme pathway
 Perforin forms pores.
@@ -476,7 +490,7 @@ TRAIL pathway
 TRAIL can bind TRAIL receptors on susceptible target cells.
 This can trigger apoptosis.
 
-3. NK-Cell Cytokines
+#### 3. NK-Cell Cytokines
 
 IFN-gamma
 Main NK-cell cytokine.
@@ -485,7 +499,7 @@ Activates macrophages and supports Th1-type immunity.
 TNF-alpha
 Can contribute to inflammation and target-cell effects.
 
-4. NK-Cell Growth and Activation
+#### 4. NK-Cell Growth and Activation
 
 Major activating/survival signals
 IL-15 is especially important for NK-cell development, survival, and maintenance.
@@ -496,8 +510,7 @@ Type I interferons activate NK cells during viral infection.
 Clinical relevance
 NK-cell defects can cause difficulty controlling certain viral infections, especially herpesviruses, and can impair tumor surveillance.
 
-
-I. OTHER INNATE LYMPHOID CELLS (ILCs)
+### I. OTHER INNATE LYMPHOID CELLS (ILCs)
 
 ILCs are rapid tissue-resident immune cells that produce cytokines before antigen-specific adaptive immunity fully develops.
 They are enriched at barrier tissues.
@@ -505,7 +518,7 @@ They are enriched at barrier tissues.
 Main locations
 Skin, gut mucosa, lung mucosa, and other barrier tissues.
 
-1. ILC1
+#### 1. ILC1
 
 Main role
 Supports type 1 immune responses.
@@ -516,7 +529,7 @@ IFN-gamma.
 Main defense pattern
 Intracellular pathogens and early type 1 inflammation.
 
-2. ILC2
+#### 2. ILC2
 
 Main role
 Supports type 2 immune responses.
@@ -529,7 +542,7 @@ Sometimes IL-4 depending on context.
 Main defense pattern
 Helminths, allergy, asthma, mucus production, eosinophil responses, and tissue repair.
 
-3. ILC3
+#### 3. ILC3
 
 Main role
 Supports type 3/barrier immune responses.
@@ -541,18 +554,16 @@ IL-22.
 Main defense pattern
 Extracellular bacteria, fungi, gut barrier integrity, mucosal immunity, and antimicrobial peptide production.
 
+## V. ADAPTIVE IMMUNE SYSTEM
 
-V. ADAPTIVE IMMUNE SYSTEM
 Adaptive immunity is antigen-specific and improves with exposure.
 It is built mainly around T cells, B cells, antibodies, antigen receptors, clonal expansion, memory, and tolerance.
 Most animals rely only on barriers and innate immunity, but vertebrates have an adaptive immune system.
 
-
-A. MAJOR HISTOCOMPATIBILITY COMPLEX (MHC)
+### A. MAJOR HISTOCOMPATIBILITY COMPLEX (MHC)
 
 MHC molecules display peptide fragments to T cells.
 T cells recognize antigen as peptide-MHC, not as free intact antigen.
-
 
 MHC CLASS I
 
@@ -576,7 +587,6 @@ Tumor proteins.
 Intracellular microbial proteins.
 Normal self proteins.
 
-
 MHC CLASS II
 
 Mainly expressed on professional antigen-presenting cells.
@@ -590,8 +600,7 @@ Usually binds longer peptides than MHC I.
 Main function
 Presents extracellularly derived antigens to CD4 helper T cells.
 
-
-B. T CELLS
+### B. T CELLS
 
 T cells are adaptive immune cells that recognize peptide-MHC through the T-cell receptor.
 
@@ -613,8 +622,7 @@ Frequency concept
 Only a small fraction of T or B cells will recognize any given antigen.
 This is why clonal expansion is needed after activation.
 
-
-1. T-CELL DEVELOPMENT
+#### 1. T-CELL DEVELOPMENT
 
 Origin
 Hematopoietic stem cell in bone marrow.
@@ -651,12 +659,10 @@ Naive CD8 T cells.
 Naive CD4 T cells.
 Naive thymic Tregs.
 
-
-2. T-CELL ACTIVATION
+#### 2. T-CELL ACTIVATION
 
 Main site
 Secondary lymphoid organs such as lymph nodes and spleen.
-
 
 Signal 1
 
@@ -670,7 +676,6 @@ Naive CD8 T cells are often activated by professional APCs, especially dendritic
 Main signaling
 TCR/CD3 signaling activates pathways including NFAT, NF-kappaB, and AP-1.
 
-
 Signal 2
 
 Costimulation
@@ -678,7 +683,6 @@ B7 (CD80/CD86) on APC binds CD28 on naive T cells.
 
 Importance
 Signal 1 without adequate costimulation can lead to anergy, deletion, or tolerance.
-
 
 Signal 3
 
@@ -691,8 +695,8 @@ High-affinity IL-2 receptor expression.
 Clonal expansion.
 Differentiation into effector and memory cells.
 
+#### 3. HELPER T-CELL SUBSETS
 
-3. HELPER T-CELL SUBSETS
 Th= helper T cell
 
 Th1 cells
@@ -733,8 +737,7 @@ Main functions: Epithelial barrier defense, tissue repair, antimicrobial peptide
 Th0 concept
 Some activated CD4 T cells remain less committed early and may differentiate further depending on cytokine environment.
 
-
-4. CD4 HELP AND APC LICENSING
+#### 4. CD4 HELP AND APC LICENSING
 
 CD40L expression
 Activated CD4 T cells express CD40L.
@@ -748,8 +751,7 @@ This improves the APC's ability to activate CD8 T cells.
 CD8 T-cell help
 CD8 T cells can express CD40L transiently in some contexts, but CD4 T-cell help is the classic pathway for strong APC licensing and durable CD8 T-cell responses.
 
-
-5. CYTOTOXIC T-CELL KILLING
+#### 5. CYTOTOXIC T-CELL KILLING
 
 Perforin-granzyme pathway
 Perforin forms pores.
@@ -768,7 +770,7 @@ Effector cytotoxic T cells.
 Memory T cells.
 Detailed memory T-cell subsets are covered in VIII. ADAPTIVE IMMUNE MEMORY.
 
-6. T-CELL TOLERANCE AND REGULATION
+#### 6. T-CELL TOLERANCE AND REGULATION
 
 CTLA-4
 Upregulated after T-cell activation.
@@ -789,8 +791,7 @@ Activation-induced cell death (AICD)
 Repeated stimulation can trigger apoptosis.
 This helps remove overly activated or potentially harmful T cells.
 
-
-7. REGULATORY T CELLS (Tregs)
+#### 7. REGULATORY T CELLS (Tregs)
 
 Tregs suppress excessive immune responses and maintain tolerance.
 FOXP3 is the key transcription factor.
@@ -816,8 +817,7 @@ Enters follicles/germinal centers.
 Regulates Tfh and B-cell responses.
 Helps prevent excessive or autoreactive antibody responses.
 
-
-8. INNATE-LIKE T CELLS
+#### 8. INNATE-LIKE T CELLS
 
 Innate-like T cells respond faster than conventional T cells and often recognize nonclassical antigens.
 
@@ -840,20 +840,19 @@ Features: Share properties of NK cells and alpha-beta T cells.
 Recognize: Lipid antigens presented by CD1d.
 Functions: Rapid cytokine production and immune regulation.
 
-
-C. B CELLS
+### C. B CELLS
 
 B cells are adaptive immune cells that recognize native/intact antigen through the B-cell receptor.
 B cells can become plasma cells or memory B cells.
 
-Development site:
+**Development site:**
 Bone marrow.
 
-B-cell tolerance:
+**B-cell tolerance:**
 Central B-cell tolerance occurs mainly in bone marrow.
 Peripheral tolerance occurs after B cells leave bone marrow.
 
-B-cell development sequence:
+**B-cell development sequence:**
 Hematopoietic stem cell.
 Common lymphoid progenitor.
 Pro-B cell.
@@ -861,31 +860,30 @@ Pre-B cell.
 Immature B cell.
 Mature naive B cell.
 
-BCR expression:
+**BCR expression:**
 Immature B cells express IgM BCR.
 Mature naive B cells express IgM and IgD BCRs.
 
-BCR genetics correction:
+**BCR genetics correction:**
 Heavy chain locus: chromosome 14.
 Kappa light chain locus: chromosome 2.
 Lambda light chain locus: chromosome 22.
 
-BCR signaling complex:
+**BCR signaling complex:**
 Ig-alpha and Ig-beta, also called CD79A and CD79B, transmit signals inside the B cell.
 
-B-cell coreceptor complex:
+**B-cell coreceptor complex:**
 CD19 amplifies signaling.
 CR2/CD21 binds C3d-coated antigen.
 CD81 stabilizes and organizes the complex.
 
-Clinical note:
+**Clinical note:**
 CD19 is expressed on many B-cell leukemias and lymphomas.
 CD19-targeted CAR T-cell therapy is used for some blood cancers.
 
+#### 1. Lymph Node Organization
 
-1. Lymph Node Organization
-
-T-cell zone / paracortex:
+**T-cell zone / paracortex:**
 Contains many conventional dendritic cells.
 Contains naive T cells.
 Main site of naive T-cell activation.
@@ -897,12 +895,12 @@ Can contain germinal centers during active immune responses.
 Contain Tfh cells during germinal center responses.
 May contain some cDCs.
 
+#### 2. B-cell Activation
 
-2. B-cell Activation
+**B cells can be activated in two major ways:**
 
-B cells can be activated in two major ways:
+##### a. T-INDEPENDENT ACTIVATION
 
-a. T-INDEPENDENT ACTIVATION
 Fast.
 Usually strongest for non-protein antigens such as polysaccharides, lipids, and repetitive microbial structures.
 Mainly produces IgM.
@@ -922,32 +920,30 @@ Main trigger: Strong BCR cross-linking by repetitive identical epitopes.
 Example: Bacterial polysaccharide capsules.
 Complement support: C3d-coated antigen binds CR2/CD21 and lowers the B-cell activation threshold.
 
-b. T-dependent activation
+##### b. T-dependent activation
+
 Usually involves protein antigen.
 Requires help from CD4 T cells, especially Tfh cells.
 Produces germinal centers, class switching, affinity maturation, memory B cells, long-lived plasma cells, and high-affinity antibodies.
 
-
-b1. Antigen Arrival
+##### b1. Antigen Arrival
 
 Antigen can drain through lymph to lymph nodes.
 Antigen can arrive attached to complement or antibodies.
 Migratory dendritic cells can carry antigen from infected tissues to lymph nodes.
 Free antigen can arrive rapidly; migratory DC arrival can take longer.
 
-
-b2. Follicular Dendritic Cells (FDCs)
+##### b2. Follicular Dendritic Cells (FDCs)
 
 FDCs are stromal support cells in follicles.
 They are not classical antigen-presenting dendritic cells.
 
-FDC function:
+**FDC function:**
 Capture complement-coated and antibody-coated antigen.
 Display intact antigen for B cells.
 Can retain antigen for long periods.
 
-
-b3. T-cell Priming Before B-cell Help 
+##### b3. T-cell Priming Before B-cell Help
 
 cDCs present antigen peptide on MHC II to naive CD4 T cells.
 Naive CD4 T cells begin differentiating toward pre-Tfh cells.
@@ -955,9 +951,9 @@ Pre-Tfh cells increase CXCR5.
 CXCR5 helps migration toward CXCL13-rich follicles.
 ICOS signaling and BCL6 maintenance support mature Tfh differentiation.
 
-b4. B-cell Activation
+##### b4. B-cell Activation
 
-Signal 1: B-cell Antigen Recognition  
+Signal 1: B-cell Antigen Recognition
 
 Naive B cells recognize native/intact antigen through the BCR.
 B cells are different from T cells because B cells can bind intact antigen directly.
@@ -970,20 +966,18 @@ B cells already express MHC II; activation increases antigen-loaded MHC II prese
 B cell increases costimulatory molecules such as B7/CD80/CD86.
 B cell migrates toward the T-B border.
 
-
 Signal 2: Tfh Costimulation
 
 Main interaction
 CD40L on Tfh binds CD40 on B cell.
 
-CD40L-CD40 is essential for:
+**CD40L-CD40 is essential for:**
 Germinal center formation.
 Class switching.
 Affinity maturation.
 Memory B-cell formation.
 Long-lived plasma-cell formation.
 B-cell survival and proliferation.
-
 
 LINKED RECOGNITION
 The B cell and Tfh cell must recognize linked epitopes from the same antigen.
@@ -998,7 +992,6 @@ Tfh cell provides help to that B cell.
 Tolerance role
 If somatic hypermutation makes a B cell self-reactive, that B cell may fail to obtain Tfh help and die.
 This helps maintain tolerance, although tolerance mechanisms can fail in autoimmunity.
-
 
 Signal 3: Cytokine Help
 
@@ -1022,8 +1015,7 @@ IL-6
 Main source: APCs and innate immune cells.
 Effect: Tfh support, plasma-cell differentiation, antibody responses.
 
-
-b5. Early Extrafollicular Response 
+##### b5. Early Extrafollicular Response
 
 Some activated B cells rapidly become short-lived plasma cells outside germinal centers.
 
@@ -1036,8 +1028,7 @@ Usually lower affinity.
 Main benefit
 Immediate early antibody protection before germinal center responses mature.
 
-
-b6. Germinal Center Reaction 
+##### b6. Germinal Center Reaction
 
 Germinal centers are sites where B cells improve antibody quality.
 
@@ -1084,8 +1075,7 @@ High-affinity antibodies.
 Durable humoral immunity.
 Faster and stronger secondary responses.
 
-
-D. ANTIBODIES
+### D. ANTIBODIES
 
 Antibodies are immunoglobulins produced by B-lineage cells.
 Membrane-bound immunoglobulins function as B-cell receptors (BCRs) on B cells.
@@ -1096,7 +1086,7 @@ Basic structure
 Fab region: variable antigen-binding region.
 Fc region: constant region mediating effector functions through Fc receptors and complement proteins.
 
-1. IgM
+#### 1. IgM
 
 First antibody isotype produced during primary immune responses.
 First BCR expressed during immature B-cell development.
@@ -1109,17 +1099,15 @@ Early antibody response.
 Complement activation.
 BCR on naive B cells as monomeric membrane IgM.
 
+#### 2. IgD
 
-2. IgD
-
-Co-expressed with IgM on mature naive B cells via alternative splicing. 
+Co-expressed with IgM on mature naive B cells via alternative splicing.
 Low circulating level.
 
-Main roles:
+**Main roles:**
 BCR function and regulation of naive B-cell activation.
 
-
-3. IgG
+#### 3. IgG
 
 Most abundant antibody in blood.
 Long half-life, about 21 days for many IgG subclasses.
@@ -1135,19 +1123,17 @@ Subclass note
 IgG1 and IgG3 are generally strong effector subclasses.
 IgG3 is especially good at complement activation.
 
-
-4. IgA
+#### 4. IgA
 
 Major mucosal antibody.
 Often dimeric in secretions.
 Found in GI tract, respiratory tract, saliva, tears, and breast milk.
 
-Main roles:
+**Main roles:**
 Neutralizes microbes and toxins at mucosal surfaces.
 Secretory IgA contains a secretory component that helps resist degradation at mucosal surfaces.
 
-
-5. IgE
+#### 5. IgE
 
 Binds Fc-epsilon-RI on mast cells and basophils.
 Low free serum concentration.
@@ -1158,20 +1144,19 @@ Mast-cell and basophil activation.
 Allergy.
 Anaphylaxis.
 
-Mechanism:
+**Mechanism:**
 Antigen cross-links IgE bound to Fc-epsilon-RI.
 This triggers degranulation and mediator release.
 
+## VI. IMMUNE LIGANDS
 
-
-
-VI. IMMUNE LIGANDS
 Ligands send signals.
 Receptors receive signals.
 
-A. CYTOKINES
+### A. CYTOKINES
 
-1. INTERLEUKINS
+#### 1. INTERLEUKINS
+
 IL = interleukin
 
 IL-1 alpha / IL-1 beta
@@ -1274,24 +1259,21 @@ Main function: Immune suppression and tolerance.
 Mainly secreted by: Tregs, regulatory B cells, tolerogenic APCs.
 Main receptor: IL-35 receptor complexes.
 
-
-2. REGULATORY / GROWTH-RELATED CYTOKINES
+#### 2. REGULATORY / GROWTH-RELATED CYTOKINES
 
 Transforming growth factor beta (TGF-beta)
 Main function: Immune suppression, Treg formation, IgA switching, tissue repair, fibrosis; supports Th17 differentiation with IL-6/IL-21.
 Mainly secreted by: Tregs, macrophages, dendritic cells, platelets, stromal cells, epithelial cells.
 Main receptor: TGF-beta receptors.
 
-
-3. TNF-FAMILY CYTOKINES
+#### 3. TNF-FAMILY CYTOKINES
 
 Tumor necrosis factor alpha (TNF-alpha)
 Main function: Endothelial activation, fever, inflammation, leukocyte recruitment, granuloma support, septic shock risk when excessive.
 Mainly secreted/displayed by: Macrophages, monocytes, dendritic cells, NK cells, T cells, mast cells.
 Main receptor: TNFR1 and TNFR2.
 
-
-4. INTERFERONS
+#### 4. INTERFERONS
 
 Type I interferons: interferon alpha and interferon beta (IFN-alpha and IFN-beta)
 Main function: Antiviral state, increased MHC I, NK-cell activation, antigen-presentation support.
@@ -1308,8 +1290,7 @@ Main function: Mucosal antiviral defense, especially at epithelial barriers.
 Mainly secreted by: Epithelial cells, dendritic cells, virus-infected mucosal cells.
 Main receptor: IFN-lambda receptor.
 
-
-5. CHEMOKINES
+#### 5. CHEMOKINES
 
 C-X-C motif chemokine ligand 8 / interleukin-8 (CXCL8 / IL-8)
 Main function: Neutrophil recruitment and activation.
@@ -1366,8 +1347,7 @@ Main function: Recruits XCR1-positive conventional dendritic cell 1 (cDC1) popul
 Mainly secreted by: NK cells, CD8 T cells, activated T cells.
 Main receptor: XCR1.
 
-
-6. CYTOKINES BY IMMUNE PROGRAM / RESPONSE TYPE
+#### 6. CYTOKINES BY IMMUNE PROGRAM / RESPONSE TYPE
 
 The same cytokines can be organized by the immune program they help create.
 
@@ -1419,8 +1399,7 @@ Common cytokines: G-CSF, GM-CSF, M-CSF/CSF-1, IL-3, IL-5, FLT3 ligand.
 Main cells involved: Bone marrow progenitors, neutrophils, monocytes/macrophages, dendritic cells, eosinophils.
 High-yield pattern: G-CSF supports neutrophils; M-CSF supports monocytes/macrophages; FLT3 ligand supports dendritic-cell development.
 
-
-B. GROWTH AND SURVIVAL LIGANDS
+### B. GROWTH AND SURVIVAL LIGANDS
 
 Granulocyte colony-stimulating factor (G-CSF)
 Main function: Neutrophil production, maturation, release, and survival.
@@ -1462,8 +1441,7 @@ Main function: Plasma-cell survival, long-lived antibody responses, IgA support.
 Mainly secreted by: Myeloid cells, stromal cells, epithelial cells.
 Main receptor: TACI and BCMA.
 
-
-C. MEMBRANE-BOUND CONTACT LIGANDS
+### C. MEMBRANE-BOUND CONTACT LIGANDS
 
 Major histocompatibility complex class I-peptide (MHC I-peptide)
 Main function: Displays intracellular peptides to CD8 T cells.
@@ -1520,8 +1498,7 @@ Main function: Can trigger apoptosis in susceptible target cells, especially abn
 Mainly displayed/secreted by: NK cells, cytotoxic T cells, dendritic cells, monocytes, some tissue cells.
 Main receptor: TRAIL receptors, especially death receptor 4 and death receptor 5 (DR4/DR5).
 
-
-D. DISPLAYED OR SURFACE-BOUND LIGANDS
+### D. DISPLAYED OR SURFACE-BOUND LIGANDS
 
 Intact antigen
 Main function: Specific native antigen recognition by B cells; microbial or damage patterns on or within antigen can also trigger innate sensing.
@@ -1553,8 +1530,7 @@ Main function: Activates mast cells and basophils during allergy and parasite re
 Mainly displayed on: Antigen cross-linking IgE that is already bound to Fc-epsilon-RI.
 Main receptor: Fc-epsilon-RI on mast cells and basophils.
 
-
-E. COMPLEMENT FRAGMENTS AS LIGANDS
+### E. COMPLEMENT FRAGMENTS AS LIGANDS
 
 Complement component 3b (C3b)
 Main function: Opsonization, phagocytosis, complement amplification.
@@ -1586,7 +1562,7 @@ Main function: Strong anaphylatoxin and chemoattractant; neutrophil activation a
 Mainly generated by: Complement activation.
 Main receptor: C5a receptor.
 
-F. ADHESION AND HOMING LIGANDS
+### F. ADHESION AND HOMING LIGANDS
 
 Intercellular adhesion molecule 1 (ICAM-1)
 Main function: Firm adhesion of leukocytes to endothelium or APCs.
@@ -1623,13 +1599,14 @@ Main function: Guides lymphocyte exit from lymph nodes into lymph and blood.
 Mainly produced by: Blood, lymph, endothelial cells, and other tissue sources that create S1P gradients.
 Main receptor: S1P receptor 1 (S1PR1).
 
+## VII. IMMUNE RECEPTORS
 
-VII. IMMUNE RECEPTORS
+### A. RECOGNITION RECEPTORS
 
-A. RECOGNITION RECEPTORS
 Main idea: Detect danger, recognize pathogens, or recognize specific antigen.
 
-1. PATTERN RECOGNITION RECEPTORS / PRRs
+#### 1. PATTERN RECOGNITION RECEPTORS / PRRs
+
 Found mainly on: Innate immune cells and epithelial cells.
 Also found on: Some adaptive immune cells, especially B cells and certain T-cell subsets, where they modulate activation.
 Recognize: PAMPs and DAMPs.
@@ -1639,9 +1616,10 @@ Meaning: Conserved microbial structures.
 
 Damage-associated molecular patterns (DAMPs)
 Meaning: Signals of cellular stress, injury, or tissue damage.
---------------------------------------------------
+---
 
-a. Toll-like receptors (TLRs)
+##### a. Toll-like receptors (TLRs)
+
 Location: Cell surface or endosomes.
 Main function: Detect microbial products and rapidly induce inflammation/cytokine production.
 Human note: Humans have 10 functional TLRs, TLR1-TLR10.
@@ -1653,22 +1631,24 @@ Examples: TLR1/2 detects bacterial lipopeptides; TLR2/6 detects lipoteichoic aci
 Endosomal TLRs
 Main function: Detect pathogen nucleic acids.
 Examples: TLR3 detects dsRNA; TLR7/8 detect ssRNA; TLR9 detects CpG DNA.
--------------------------------------------
+---
 
-b. C-type lectin receptors (CLRs)
+##### b. C-type lectin receptors (CLRs)
+
 Location: Cell surface.
 Main function: Detect carbohydrate-rich microbial structures, especially fungi, mycobacteria, and some parasites.
 Examples: Dectin-1, Dectin-2, mannose receptor / CD206, DC-SIGN, Mincle, Langerin.
--------------------------------------------------
+---
 
-c. NOD-like receptors (NLRs)
+##### c. NOD-like receptors (NLRs)
+
 Location: Cytoplasm.
 Main function: Detect infection, cellular stress, tissue damage, and bacterial peptidoglycan fragments.
 
 Inflammasome-forming NLRs
 Examples: NLRP3, NLRP1, NLRC4.
 Detect: Microbes, microbial toxins, ATP from injured cells, ROS, mitochondrial damage, crystals, particulate matter.
-Mechanism: NLR + ASC + pro-caspase-1 → active caspase-1.
+Mechanism: NLR + ASC + pro-caspase-1 -> active caspase-1.
 Results: IL-1 beta production, IL-18 production, pyroptosis.
 
 Regulatory NLRs
@@ -1682,40 +1662,42 @@ Result: Activates NF-kappaB and increases inflammatory cytokines such as TNF-alp
 NOD2
 Detects: Muramyl dipeptide / MDP from both gram-positive and gram-negative bacteria.
 Result: Activates NF-kappaB and increases inflammatory cytokines such as TNF-alpha and IL-6.
--------------------------------------
+---
 
-d. RIG-I-like receptors (RLRs)
+##### d. RIG-I-like receptors (RLRs)
+
 Examples: RIG-I and MDA5.
 Location: Cytoplasm; signal through MAVS on the mitochondrial outer membrane.
 Detect: Viral RNA.
 Result: Induce type I interferons, especially IFN-alpha and IFN-beta.
------------------------------------
+---
 
-e. Cytosolic DNA sensors
+##### e. Cytosolic DNA sensors
+
 Main idea: DNA in cytoplasm suggests viral infection, bacterial infection, cell damage, or mitochondrial damage.
 
 Absent in melanoma 2 (AIM2)
 Detects: Cytoplasmic double-stranded DNA.
 Function: Forms inflammasome.
-Mechanism: AIM2 + ASC + pro-caspase-1 → active caspase-1.
+Mechanism: AIM2 + ASC + pro-caspase-1 -> active caspase-1.
 Results: IL-1 beta production, IL-18 production, pyroptosis.
 
 cGAS-STING pathway
 Components: cGAS is the cytoplasmic DNA sensor; STING is a signaling protein on the ER membrane.
 Detects: Cytoplasmic double-stranded DNA.
-Mechanism: cGAS binds dsDNA → produces cGAMP → activates STING → activates IRF3 and NF-kappaB.
+Mechanism: cGAS binds dsDNA -> produces cGAMP -> activates STING -> activates IRF3 and NF-kappaB.
 Result: Type I interferon production and antiviral response.
---------------------------------------
+---
 
-f. Scavenger receptors
+##### f. Scavenger receptors
+
 Location: Cell surface.
 Main function: Clearance, phagocytosis, and some inflammatory signaling.
 Examples: cluster of differentiation 36 (CD36), scavenger receptor A (SR-A), macrophage receptor with collagenous structure (MARCO).
 
+#### 2. SPECIFIC ANTIGEN RECOGNITION RECEPTORS
 
-
-2. SPECIFIC ANTIGEN RECOGNITION RECEPTORS
-definitions:
+**definitions:**
 cognate antigen: Antigen recognized by a specific TCR or BCR.
 epitope: Specific region physically recognized by a receptor or antibody.
 
@@ -1729,9 +1711,7 @@ Associated signaling complex: immunoglobulin alpha / immunoglobulin beta (Ig-alp
 Coreceptor complex: cluster of differentiation 19 / cluster of differentiation 21 / cluster of differentiation 81 (CD19/CD21/CD81).
 Recognizes: Native/intact antigen.
 
-
-
-3. COMPLEMENT RECEPTORS
+#### 3. COMPLEMENT RECEPTORS
 
 Complement receptor 1 / CD35 (CR1)
 Binds: C3b and C4b.
@@ -1749,9 +1729,7 @@ Complement receptor 4 (CR4)
 Binds: iC3b and related complement-coated targets.
 Main function: Phagocytosis, adhesion, and myeloid-cell interactions with complement-opsonized targets.
 
-
-
-4. Fc RECEPTORS
+#### 4. Fc RECEPTORS
 
 Fc receptors
 Bind: Fc regions of antibodies.
@@ -1781,9 +1759,7 @@ Neonatal Fc receptor (FcRn)
 Bind: IgG.
 Main function: IgG recycling, prolonged IgG half-life, placental IgG transfer.
 
-
-
-5. NK-CELL RECOGNITION RECEPTORS
+#### 5. NK-CELL RECOGNITION RECEPTORS
 
 Natural killer group 2D (NKG2D)
 Type: Activating receptor.
@@ -1801,10 +1777,9 @@ Natural killer group 2A (NKG2A)
 Type: Inhibitory receptor.
 Main function: Recognizes MHC-related ligands and supports tolerance toward healthy cells.
 
+### B. CYTOKINE RECEPTORS
 
-
-B. CYTOKINE RECEPTORS
--Tells immune cells "what to do" after cytokine binding.
+- Tells immune cells "what to do" after cytokine binding.
 
 Interleukin receptors
 Examples: IL-2 receptor, IL-4 receptor, IL-6 receptor, IL-7 receptor, IL-10 receptor, IL-12 receptor, IL-21 receptor.
@@ -1825,8 +1800,7 @@ Colony-stimulating factor receptors
 Examples: G-CSF receptor, GM-CSF receptor, CSF-1 receptor.
 Main function: Myeloid-cell development, survival, and activation.
 
-
-C. COSTIMULATORY RECEPTORS
+### C. COSTIMULATORY RECEPTORS
 
 Cluster of differentiation 28 (CD28)
 Ligands: B7-1/CD80 and B7-2/CD86.
@@ -1852,8 +1826,7 @@ Cluster of differentiation 27 (CD27)
 Ligand: CD70.
 Main function: T-cell and B-cell activation, survival, differentiation.
 
-
-D. INHIBITORY AND REGULATORY RECEPTORS
+### D. INHIBITORY AND REGULATORY RECEPTORS
 
 Cytotoxic T-lymphocyte-associated protein 4 (CTLA-4)
 Ligands: CD80/CD86.
@@ -1880,8 +1853,7 @@ Main function: Inhibit NK-cell killing of healthy cells.
 NKG2A
 Main function: Inhibitory NK receptor that supports tolerance toward healthy cells.
 
-
-E. DEATH RECEPTORS
+### E. DEATH RECEPTORS
 
 Fas / cluster of differentiation 95 (Fas / CD95)
 Ligand: FasL/CD95L.
@@ -1895,8 +1867,7 @@ TRAIL receptors / death receptor 4 and death receptor 5 (TRAIL receptors / DR4 a
 Ligand: TNF-related apoptosis-inducing ligand (TRAIL).
 Main function: Trigger apoptosis in susceptible target cells.
 
-
-F. MIGRATION RECEPTORS
+### F. MIGRATION RECEPTORS
 
 Chemokine receptors
 Main idea: Tell immune cells where to go.
@@ -1951,8 +1922,7 @@ C-C chemokine receptor 10 (CCR10)
 Ligands: CCL27 and CCL28.
 Main function: Skin and mucosal homing.
 
-
-G. ADHESION AND HOMING RECEPTORS
+### G. ADHESION AND HOMING RECEPTORS
 
 L-selectin / cluster of differentiation 62L (L-selectin / CD62L)
 Main function: Lymph node entry through high endothelial venules.
@@ -1977,16 +1947,12 @@ Sphingosine-1-phosphate receptor 1 (S1PR1)
 Ligand: S1P.
 Main function: Lymphocyte exit from lymph nodes into lymph and blood.
 
-
-
-
-
-VIII. ADAPTIVE IMMUNE MEMORY
+## VIII. ADAPTIVE IMMUNE MEMORY
 
 Adaptive immune memory allows the immune system to respond faster, stronger, and more effectively when it sees the same antigen again.
 Memory is one of the defining features of adaptive immunity.
 
-Main cells involved:
+**Main cells involved:**
 Memory B cells.
 Long-lived plasma cells.
 Memory CD4 T cells.
@@ -2031,11 +1997,10 @@ Effector memory T cells: Patrol blood and tissues; faster effector function.
 Tissue-resident memory T cells: Stay in barrier tissues; rapid local protection.
 Stem-like memory T cells: Long-term renewal and recall potential.
 
-Key idea for vaccines:
+**Key idea for vaccines:**
 Vaccines work mainly by creating memory B cells, memory T cells, and/or long-lived antibody-producing plasma cells without requiring dangerous natural infection.
 
-
-IX. INTESTINAL IMMUNITY
+## IX. INTESTINAL IMMUNITY
 
 The intestine must defend against pathogens while tolerating food antigens and helpful microbiota.
 This makes intestinal immunity a balance between protection, barrier repair, and immune tolerance.
@@ -2106,8 +2071,7 @@ Help prevent unnecessary inflammation.
 Clinical concept
 Loss of intestinal immune balance can contribute to inflammatory bowel disease, food allergy, chronic inflammation, and barrier dysfunction.
 
-
-X. AUTOIMMUNITY
+## X. AUTOIMMUNITY
 
 Autoimmunity happens when the immune system reacts against self antigens.
 Autoimmune disease occurs when self-reactive immune responses cause tissue injury, inflammation, or organ dysfunction.
@@ -2143,8 +2107,7 @@ Autoreactive T cells
 Main idea: T cells that recognize self peptide-MHC.
 Can cause tissue damage by killing cells directly or by driving chronic inflammation.
 
-
-1. HOW AUTOIMMUNE DAMAGE HAPPENS
+#### 1. HOW AUTOIMMUNE DAMAGE HAPPENS
 
 Type II-like autoimmune injury
 Autoantibodies bind cell-surface or tissue antigens.
@@ -2164,8 +2127,7 @@ T-cell-mediated autoimmune injury
 Autoreactive T cells attack tissues or drive inflammation.
 Examples: Type 1 diabetes, multiple sclerosis, some autoimmune skin and gut diseases.
 
-
-2. WHY AUTOIMMUNITY DEVELOPS
+#### 2. WHY AUTOIMMUNITY DEVELOPS
 
 Genetic risk
 Some people inherit immune-regulation variants that increase risk.
@@ -2194,8 +2156,7 @@ Defective clearance of dead cells
 Main idea: Poor removal of apoptotic cells can expose nuclear antigens and promote autoantibody formation.
 High-yield example: Systemic lupus erythematosus.
 
-
-3. ORGAN-SPECIFIC VS SYSTEMIC AUTOIMMUNITY
+#### 3. ORGAN-SPECIFIC VS SYSTEMIC AUTOIMMUNITY
 
 Organ-specific autoimmune disease
 Main idea: Immune damage mainly targets one organ or tissue.
@@ -2205,8 +2166,7 @@ Systemic autoimmune disease
 Main idea: Immune damage can affect many organs.
 Examples: Systemic lupus erythematosus, rheumatoid arthritis, systemic sclerosis, vasculitis.
 
-
-4. AUTOIMMUNE DISEASE EXAMPLES
+#### 4. AUTOIMMUNE DISEASE EXAMPLES
 
 Systemic lupus erythematosus (SLE)
 Main mechanism: Autoantibodies and immune-complex inflammation.
@@ -2239,8 +2199,7 @@ Main mechanism: Autoantibodies interfere with neuromuscular junction signaling.
 Common target: Acetylcholine receptor or related proteins.
 Main result: Muscle weakness.
 
-
-5. AUTOIMMUNITY TREATMENT CONCEPTS
+#### 5. AUTOIMMUNITY TREATMENT CONCEPTS
 
 Broad immunosuppression
 Main idea: Reduce immune activity widely.
@@ -2261,8 +2220,7 @@ High-yield immunology takeaway
 Autoimmunity is the cost of having a powerful adaptive immune system.
 The same tools that protect against infection can damage self tissues when tolerance fails.
 
-
-XI. ALLERGIC AND HYPERSENSITIVITY REACTION TYPES
+## XI. ALLERGIC AND HYPERSENSITIVITY REACTION TYPES
 
 Hypersensitivity reactions are harmful or excessive immune responses.
 They are classically divided into four types.
@@ -2271,8 +2229,7 @@ Important note
 Type I is the classic "allergic reaction."
 Types II, III, and IV are also hypersensitivity reactions, but they are not always what people casually mean by allergy.
 
-
-1. TYPE I HYPERSENSITIVITY
+#### 1. TYPE I HYPERSENSITIVITY
 
 Main name
 Immediate hypersensitivity.
@@ -2307,8 +2264,7 @@ IL-4 supports IgE class switching.
 IL-5 supports eosinophils.
 IL-13 supports mucus and airway/type 2 responses.
 
-
-2. TYPE II HYPERSENSITIVITY
+#### 2. TYPE II HYPERSENSITIVITY
 
 Main name
 Antibody-mediated cytotoxic or antibody-mediated cellular dysfunction.
@@ -2337,8 +2293,7 @@ Usually hours to days after exposure.
 Can be faster if pre-existing antibodies are already present, such as in some transfusion reactions.
 Can be more gradual in autoimmune diseases where antibody-mediated injury develops over time.
 
-
-3. TYPE III HYPERSENSITIVITY
+#### 3. TYPE III HYPERSENSITIVITY
 
 Main name
 Immune complex-mediated hypersensitivity.
@@ -2361,8 +2316,7 @@ Hypersensitivity pneumonitis can involve type III and type IV mechanisms.
 Timing
 Often hours to days after exposure.
 
-
-4. TYPE IV HYPERSENSITIVITY
+#### 4. TYPE IV HYPERSENSITIVITY
 
 Main name
 Delayed-type or T-cell-mediated hypersensitivity.
@@ -2403,8 +2357,7 @@ Key distinction
 Types I, II, and III are antibody-mediated.
 Type IV is T-cell-mediated.
 
-
-XII. VACCINES
+## XII. VACCINES
 
 Vaccines train the immune system to recognize a pathogen or toxin without requiring dangerous natural infection.
 The goal is to create protective immune memory.
@@ -2485,8 +2438,7 @@ Primary failure: Person does not generate an adequate immune response.
 Secondary failure: Protection decreases over time.
 Pathogen variation: Antigen changes can reduce recognition by prior immunity.
 
-
-XIII. COVID-19
+## XIII. COVID-19
 
 COVID-19 is the disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 It is mainly a respiratory viral infection, but it can affect many organ systems through inflammation, vascular effects, immune responses, and tissue injury.
@@ -2565,8 +2517,7 @@ Possible contributors include persistent immune activation, tissue injury, viral
 High-yield immunology takeaway
 COVID-19 is useful for understanding antiviral immunity, interferons, mucosal infection, neutralizing antibodies, T-cell memory, immune dysregulation, and vaccine updating against evolving variants.
 
-
-XIV. HIV
+## XIV. HIV
 
 Human immunodeficiency virus (HIV) infects key immune cells, especially CD4 T cells.
 Without treatment, progressive CD4 T-cell loss can lead to acquired immunodeficiency syndrome (AIDS).
@@ -2686,8 +2637,7 @@ Natural infection does not reliably produce sterilizing protective immunity.
 High-yield immunology takeaway
 HIV is useful for understanding CD4 T-cell function, viral immune evasion, chronic immune activation, latent reservoirs, mucosal transmission, chemokine receptors, and how antiviral therapy can restore immune function.
 
-
-XV. CANCER IMMUNOLOGY
+## XV. CANCER IMMUNOLOGY
 
 Cancer immunology studies how the immune system recognizes, controls, edits, or fails to eliminate cancer cells.
 Cancer is useful for understanding immune surveillance, T-cell killing, NK-cell recognition, checkpoints, inflammation, and immune escape.
@@ -2702,8 +2652,7 @@ Cancer cells come from the body's own cells.
 This means many tumor antigens look partly like self.
 The immune system must recognize abnormal tumor features without causing excessive damage to normal tissue.
 
-
-1. TUMOR ANTIGENS
+#### 1. TUMOR ANTIGENS
 
 Tumor antigens
 Main idea: Molecules on or inside tumor cells that immune cells can recognize.
@@ -2721,8 +2670,7 @@ Main idea: Some cancers are driven by oncogenic viruses.
 Examples: Human papillomavirus (HPV), Epstein-Barr virus (EBV), hepatitis B virus (HBV), hepatitis C virus (HCV).
 Importance: Viral proteins can provide clearer immune targets.
 
-
-2. IMMUNE SURVEILLANCE AND IMMUNOEDITING
+#### 2. IMMUNE SURVEILLANCE AND IMMUNOEDITING
 
 Immune surveillance
 Main idea: The immune system can detect and eliminate some abnormal or transformed cells before they become clinically obvious cancer.
@@ -2744,8 +2692,7 @@ Elimination: Immune system destroys many tumor cells.
 Equilibrium: Immune system restrains tumor growth but does not fully eliminate all tumor cells.
 Escape: Tumor variants grow despite immune pressure.
 
-
-3. ANTITUMOR T-CELL RESPONSE
+#### 3. ANTITUMOR T-CELL RESPONSE
 
 Main sequence
 Tumor cells release antigens.
@@ -2769,8 +2716,7 @@ Dendritic cells
 Main function: Connect tumor antigen detection to T-cell activation.
 cDC1 cells are especially important for cross-presentation of tumor antigens to CD8 T cells.
 
-
-4. NK CELLS IN CANCER
+#### 4. NK CELLS IN CANCER
 
 NK cells can kill tumor cells that look abnormal or stressed.
 
@@ -2786,8 +2732,7 @@ Antibody-dependent cellular cytotoxicity (ADCC)
 NK-cell CD16 can bind IgG-coated tumor cells.
 This can trigger NK-cell killing of antibody-coated targets.
 
-
-5. TUMOR IMMUNE ESCAPE
+#### 5. TUMOR IMMUNE ESCAPE
 
 Tumors can survive by avoiding detection, resisting killing, or suppressing nearby immune cells.
 
@@ -2809,8 +2754,7 @@ This reduces T-cell activity and can contribute to T-cell exhaustion.
 Antigen-loss escape
 If therapy or immune pressure targets one antigen, tumor cells that lose that antigen may survive.
 
-
-6. TUMOR MICROENVIRONMENT
+#### 6. TUMOR MICROENVIRONMENT
 
 The tumor microenvironment is the local ecosystem around tumor cells.
 It includes immune cells, stromal cells, blood vessels, extracellular matrix, cytokines, nutrients, oxygen levels, and metabolic waste.
@@ -2839,8 +2783,7 @@ Can have different roles depending on context.
 Some support inflammation and tumor killing.
 Others support tissue remodeling, angiogenesis, immune suppression, and tumor growth.
 
-
-7. INFLAMMATION AND CANCER
+#### 7. INFLAMMATION AND CANCER
 
 Inflammation can protect against tumors, but chronic inflammation can also promote cancer.
 
@@ -2861,8 +2804,7 @@ Chronic hepatitis B or C and liver cancer.
 Helicobacter pylori-associated gastric cancer.
 Inflammatory bowel disease and increased colorectal cancer risk.
 
-
-8. HOW CANCER CONNECTS TO IMMUNOTHERAPY
+#### 8. HOW CANCER CONNECTS TO IMMUNOTHERAPY
 
 Cancer immunotherapy includes a mix of established treatments, approved treatments for specific cancers, and investigational approaches.
 Detailed therapy types are covered in section XVI. IMMUNOTHERAPY.
@@ -2878,8 +2820,7 @@ Create immune memory against tumor-associated or tumor-specific antigens.
 High-yield connection
 Cancer immunotherapy works best when the immune system can recognize tumor antigens, enter the tumor, avoid suppression, and carry out effective killing.
 
-
-9. WHY IMMUNOTHERAPY WORKS BETTER IN SOME CANCERS
+#### 9. WHY IMMUNOTHERAPY WORKS BETTER IN SOME CANCERS
 
 Factors that can improve response
 High tumor mutation burden.
@@ -2898,8 +2839,7 @@ Strong immunosuppressive tumor microenvironment.
 Antigen-loss variants.
 T-cell exhaustion or dysfunction.
 
-
-10. IMMUNE-RELATED SIDE EFFECTS
+#### 10. IMMUNE-RELATED SIDE EFFECTS
 
 Stimulating antitumor immunity can also cause immune attack against normal tissues.
 
@@ -2918,8 +2858,7 @@ Other tissues depending on therapy and patient.
 High-yield takeaway
 Cancer immunotherapy tries to strengthen useful antitumor immunity while avoiding dangerous autoimmunity or excessive inflammation.
 
-
-XVI. IMMUNOTHERAPY
+## XVI. IMMUNOTHERAPY
 
 Immunotherapy uses the immune system to treat disease.
 It can boost useful immune responses, suppress harmful immune responses, replace missing immune function, or redirect immune cells toward specific targets.
@@ -2928,8 +2867,7 @@ Clinical status note
 This section includes both established therapies and experimental approaches.
 For app learning, the most important distinction is whether a therapy is already used clinically for specific indications or is mainly investigational.
 
-
-1. BIG THERAPY GOALS
+#### 1. BIG THERAPY GOALS
 
 Stimulate or redirect immune attack
 Main use: Cancer and some infections.
@@ -2955,8 +2893,7 @@ Main idea: Give protective immune molecules directly.
 Examples: Immunoglobulin replacement, passive monoclonal antibodies.
 Clinical status: Established in selected contexts, but product choice and indications depend on current guidance.
 
-
-2. CHECKPOINT AND CYTOKINE-PATHWAY THERAPIES
+#### 2. CHECKPOINT AND CYTOKINE-PATHWAY THERAPIES
 
 Checkpoint inhibitors
 Main use: Cancer.
@@ -2984,8 +2921,7 @@ Examples: IL-2 and interferons in specific settings.
 Main limitation: Toxicity and context-specific benefit.
 Clinical status: Established only in limited contexts; many newer cytokine-engineering strategies are investigational.
 
-
-3. ANTIBODY-BASED IMMUNOTHERAPY
+#### 3. ANTIBODY-BASED IMMUNOTHERAPY
 
 Monoclonal antibodies
 Main idea: Lab-made antibodies bind specific targets.
@@ -3011,8 +2947,7 @@ Main function: Immediate but usually temporary protection or treatment.
 Key distinction: Vaccines train the patient's immune system to make memory; passive antibody therapy provides ready-made protection without strong long-term memory by itself.
 Clinical status: Established for selected infections, exposures, and immune conditions; new antibodies and uses may be investigational.
 
-
-4. ANTIGEN-DIRECTED IMMUNOTHERAPY
+#### 4. ANTIGEN-DIRECTED IMMUNOTHERAPY
 
 Therapeutic cancer vaccines
 Main idea: Train immune responses against tumor antigens.
@@ -3040,8 +2975,7 @@ Main idea: Use viruses that infect tumor cells and stimulate antitumor immunity.
 Use area: Cancer.
 Clinical status: Established only in limited cancer settings; many oncolytic virus approaches remain investigational.
 
-
-5. ENGINEERED AND ADOPTIVE CELL THERAPIES
+#### 5. ENGINEERED AND ADOPTIVE CELL THERAPIES
 
 Engineered or adoptive cell therapies use living immune cells as treatment.
 Cells may be collected, selected, expanded, engineered, and returned to the patient or produced from donor/stem-cell sources.
@@ -3051,8 +2985,7 @@ Most established: CAR-T cells for certain blood cancers.
 Emerging or limited approved use: Some T-cell transfer approaches, including TIL therapy and TCR-engineered therapy for selected cancers.
 Mostly investigational: CAR-Tregs, TCR-Tregs, CAR-NK cells, CAR-macrophages, CAR-B cells, engineered Bregs, tolerogenic dendritic cells, and many iPSC-derived immune cell approaches.
 
-
-A. CYTOTOXIC OR TUMOR-DIRECTED CELL THERAPIES
+### A. CYTOTOXIC OR TUMOR-DIRECTED CELL THERAPIES
 
 Chimeric antigen receptor T cells (CAR-T cells)
 Main idea: T cells are engineered to express a chimeric antigen receptor.
@@ -3082,8 +3015,7 @@ Main idea: Macrophages are engineered with CARs.
 Potential functions: Phagocytosis of tumor cells, antigen presentation, and tumor microenvironment remodeling.
 Clinical status: Mostly investigational.
 
-
-B. REGULATORY OR TOLERANCE-INDUCING CELL THERAPIES
+### B. REGULATORY OR TOLERANCE-INDUCING CELL THERAPIES
 
 Chimeric antigen receptor regulatory T cells (CAR-Treg cells)
 Main idea: Regulatory T cells are engineered to recognize a specific target.
@@ -3112,8 +3044,7 @@ Main idea: Stromal cells are used for immune-modulating effects.
 Potential uses: Inflammatory disease, tissue injury, graft-versus-host disease research, transplant-related settings.
 Clinical status: Established only in limited contexts depending on region/indication; still investigational for many immune diseases.
 
-
-C. STEM-CELL-DERIVED AND SYNTHETIC CELL PLATFORMS
+### C. STEM-CELL-DERIVED AND SYNTHETIC CELL PLATFORMS
 
 Induced pluripotent stem cell-derived immune cells (iPSC-derived immune cells)
 Main idea: iPSCs can be used as a renewable source to generate engineered immune cells.
@@ -3127,8 +3058,7 @@ Main idea: B cells are engineered for therapeutic functions.
 Potential uses: Long-term secretion of therapeutic proteins or antibodies.
 Clinical status: Experimental.
 
-
-6. CONDITION-BASED IMMUNOTHERAPY MAP
+#### 6. CONDITION-BASED IMMUNOTHERAPY MAP
 
 Cancer
 Main goal: Increase tumor recognition and killing or reverse tumor immune suppression.
@@ -3155,8 +3085,7 @@ Main goal: Replace missing immune protection or provide temporary protection.
 Important approaches: Immunoglobulin replacement and passive antibody therapy.
 Status note: Immunoglobulin replacement is established for selected antibody deficiencies; passive antibody use depends on the infection, exposure, and product.
 
-
-7. HIGH-YIELD TAKEAWAYS
+#### 7. HIGH-YIELD TAKEAWAYS
 
 Cancer immunotherapy usually tries to increase immune attack.
 Autoimmune and allergy immunotherapy usually tries to decrease harmful immune activity or restore tolerance.
