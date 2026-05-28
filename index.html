@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0f766e" />
+    <meta
+      name="description"
+      content="A mobile-first immunology summary app for learning innate immunity, adaptive immunity, ligands, receptors, vaccines, HIV, COVID-19, cancer immunology, and immunotherapy."
+    />
+    <title>Immunology Summary</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Immunology Notes</p>
+          <h1>Immunology Summary</h1>
+        </div>
+        <button class="icon-button" id="themeToggle" type="button" aria-label="Toggle dark mode">
+          <span aria-hidden="true">◐</span>
+        </button>
+      </header>
+
+      <main class="main">
+        <section class="search-panel" aria-label="Search immunology notes">
+          <label class="search-box">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" placeholder="Search cytokines, cells, receptors..." autocomplete="off" />
+          </label>
+          <div class="status-row">
+            <span id="contentStatus">Loading notes...</span>
+            <button class="text-button" id="clearSearch" type="button">Clear</button>
+          </div>
+        </section>
+
+        <section class="tabs" aria-label="App views">
+          <button class="tab is-active" type="button" data-view="sections">Sections</button>
+          <button class="tab" type="button" data-view="search">Search</button>
+          <button class="tab" type="button" data-view="saved">Saved</button>
+        </section>
+
+        <section class="view is-active" id="sectionsView" aria-label="Immunology sections">
+          <div class="section-grid" id="sectionGrid"></div>
+        </section>
+
+        <section class="view" id="searchView" aria-label="Search results">
+          <div class="result-list" id="searchResults"></div>
+        </section>
+
+        <section class="view" id="savedView" aria-label="Saved sections">
+          <div class="empty-state" id="savedEmpty">
+            <h2>No saved sections yet</h2>
+            <p>Use the bookmark button inside a section to save it here.</p>
+          </div>
+          <div class="section-grid" id="savedGrid"></div>
+        </section>
+      </main>
+
+      <aside class="reader" id="reader" aria-live="polite">
+        <div class="reader-bar">
+          <button class="icon-button" id="backButton" type="button" aria-label="Back to sections">
+            <span aria-hidden="true">‹</span>
+          </button>
+          <div class="reader-title">
+            <p id="readerKicker">Section</p>
+            <h2 id="readerHeading">Select a section</h2>
+          </div>
+          <button class="icon-button" id="saveButton" type="button" aria-label="Save section">
+            <span aria-hidden="true">☆</span>
+          </button>
+        </div>
+        <article class="reader-content" id="readerContent"></article>
+      </aside>
+    </div>
+
+    <script src="content.js"></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>

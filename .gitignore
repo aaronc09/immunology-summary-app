@@ -1,0 +1,17 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Dependency/build folders if the app is expanded later
+node_modules/
+dist/
+build/
+.parcel-cache/
+.vite/
+

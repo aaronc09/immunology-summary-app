@@ -1,6 +1,5 @@
 # Immunology Summary
 
-> This Markdown file was generated from `immunology_summary.txt` for GitHub README use.
 
 ## Table of Contents
 

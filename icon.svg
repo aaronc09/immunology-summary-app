@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Immunology app icon">
+  <rect width="512" height="512" rx="96" fill="#0f766e"/>
+  <circle cx="256" cy="256" r="144" fill="#f7faf8"/>
+  <circle cx="256" cy="256" r="80" fill="#2dd4bf"/>
+  <g fill="#0f766e">
+    <circle cx="256" cy="96" r="24"/>
+    <circle cx="256" cy="416" r="24"/>
+    <circle cx="96" cy="256" r="24"/>
+    <circle cx="416" cy="256" r="24"/>
+    <circle cx="143" cy="143" r="20"/>
+    <circle cx="369" cy="143" r="20"/>
+    <circle cx="143" cy="369" r="20"/>
+    <circle cx="369" cy="369" r="20"/>
+  </g>
+</svg>

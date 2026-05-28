@@ -1,0 +1,17 @@
+{
+  "name": "Immunology Summary",
+  "short_name": "Immunology",
+  "description": "Mobile-first immunology summary notes for learning immune cells, cytokines, receptors, vaccines, infections, autoimmunity, cancer immunology, and immunotherapy.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
